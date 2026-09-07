@@ -1,0 +1,120 @@
+SCHEME FACTS. Each line is one fact you may state. The id in square brackets is for the record only — never read an id out loud. Say the source in words instead, for example "according to the government crop insurance guidelines". If something a caller asks is not on this list, say you do not have it and that a reviewer will confirm it.
+
+## What the scheme is
+[S1] (PMFBY) Pradhan Mantri Fasal Bima Yojana is the government crop insurance scheme that covers notified crops against natural risks a farmer cannot prevent, from before sowing right through to after harvest.
+[S2] (PMFBY) The aim of the scheme is to give money support to farmers whose crop is lost or damaged by events nobody could foresee.
+[S82] (RWBCIS) There is a second scheme called the Restructured Weather Based Crop Insurance Scheme, which pays on measured weather readings instead of on the harvest measured in the field.
+
+## Who can be covered
+[S5] (PMFBY) Any farmer growing a notified crop in a notified area can be covered, and that includes sharecroppers and tenant farmers.
+[S6] (PMFBY) The farmer must have a real interest in the land and the crop being insured.
+[S9] (PMFBY) A farmer with a crop loan is covered automatically unless they gave the bank a written paper saying they do not want the insurance.
+[S10] (PMFBY) A loanee farmer who wants to stay out must tell the bank at least seven days before the last date for joining that season.
+[S11] (PMFBY) Only farmers whose details are uploaded on the crop insurance portal and whose premium has reached the insurance company in time are covered.
+
+## How and when a farmer joins
+[S3] (PMFBY) Joining the scheme is a farmer's own choice; it is optional for everyone, including farmers who have taken a crop loan or a Kisan Credit Card.
+[S12] (PMFBY) A farmer without a crop loan can join through the nearest bank branch, a common service centre, an authorised channel partner or an insurance company agent.
+[S15] (PMFBY) The same piece of land must not be insured twice or through two different agencies.
+[S16] (PMFBY) The crop actually standing in the field must be the same crop that was insured, otherwise the claim can be lost.
+[S73] (PMFBY, kharif/rabi) Enrolment for kharif opens from the first of April and for rabi from the first of October, as per the crop calendar.
+[S74] (PMFBY, kharif/rabi) The guidelines give an indicative last date for joining of the fifth of July for kharif and the fifteenth of December for rabi, but the state's own notification and district crop calendar decide the real date. [NEVER PROMISE THIS — say the guidelines set a target and the reviewer confirms]
+
+## Which crops
+[S17] (PMFBY) The scheme covers food crops such as cereals, millets and pulses, oilseeds, and annual commercial or horticultural crops.
+
+## What is covered
+[S18] (PMFBY) The basic cover protects the standing crop from sowing until harvesting.
+[S19] (PMFBY) The basic cover applies to yield loss from risks a farmer cannot prevent, such as drought, dry spells, flood and inundation.
+[S20] (PMFBY) The basic cover also lists widespread pest and disease attack, landslide, natural fire from lightning, storm, hailstorm and cyclone.
+[S21] (PMFBY) If the state has notified it, there is an add-on cover for when sowing or planting could not happen at all because of not enough rain or bad weather.
+[S22] (PMFBY) There is a mid-season cover for bad seasons like floods, long dry spells and severe drought, where the harvest is expected to fall below half of normal.
+[S23] (PMFBY) Post-harvest cover is available only for up to two weeks from harvesting, for crops left in the field to dry.
+[S24] (PMFBY) The post-harvest cover is for damage by hailstorm, cyclone, cyclonic rain and unseasonal rain to a cut crop lying in the field.
+[S25] (PMFBY) For post-harvest cover the crop must have been drying in the field in cut and spread or small bundled condition, up to fourteen days from harvest.
+[S26] (PMFBY) Localized calamity cover is for hailstorm, landslide, inundation, cloud burst and natural fire from lightning that hit single farms rather than the whole area.
+[S27] (PMFBY) Inundation means standing water from natural rain or flood water that stays a long time and visibly damages the crop.
+[S28] (PMFBY) The add-on covers only exist in a district if the state government has notified them for that season.
+[S29] (PMFBY) Some states also add a cover for crop damage caused by wild animals, where they have chosen to offer it.
+[S30] (PMFBY) The state government fixes the normal harvesting dates for each crop, and the post-harvest cover cannot be used for an event outside that period.
+[S83] (RWBCIS) That weather scheme covers deficit or excess rain, unseasonal rain, dry spells, high or low temperature, humidity and wind speed.
+
+## What is not covered
+[S31] (PMFBY) Losses from war, nuclear risks, deliberate damage, and other things that could have been prevented are not covered.
+
+## Reporting a loss
+[S32] (PMFBY) For a localized calamity or a post-harvest loss the farmer must report it, because the damage is checked on that farmer's own field.
+[S33] (PMFBY) For a wide-spread calamity that hits the whole area the farmer does not have to lodge a separate intimation.
+[S34] (PMFBY) For a localized calamity the guidelines ask the insured farmer to give immediate intimation within seventy-two hours.
+[S35] (PMFBY) The intimation for a localized calamity can be given straight to the insurance company, through the Crop Insurance App, or on a toll-free number.
+[S36] (PMFBY) The intimation can also be passed on through the bank branch or the local agriculture department or district officials.
+[S37] (PMFBY) The guidelines say the first way to report should be the Crop Insurance App and the central toll-free number.
+[S38] (PMFBY) For a post-harvest loss too, the intimation is to be given within seventy-two hours through the Crop Insurance App or directly to the insurance company.
+[S39] (PMFBY) It is the farmer's part to inform the bank, the channel partner or the insurer about a localized or post-harvest loss within seventy-two hours.
+[S40] (PMFBY) The intimation should carry the farmer's name, the survey numbers affected, the insured crop and how much area was damaged.
+[S41] (PMFBY) At the time of reporting the farmer should give the bank account number or the enrolment number from the portal.
+[S42] (PMFBY) For a localized claim the intimation is a condition to get the benefit, and an intimation given at the time of the survey is also counted.
+[S43] (PMFBY) If the intimation went through the bank branch or a government officer, they have to pass it to the insurance company within forty-eight hours.
+[S44] (PMFBY) If the farmer cannot fill every column of the intimation form at once, a part-filled form can be sent and completed later.
+
+## What the farmer pays
+[S45] (PMFBY, kharif) For kharif food grain and oilseed crops the farmer's share of the premium is at most two per cent of the sum insured.
+[S46] (PMFBY, rabi) For rabi food grain and oilseed crops the farmer's share of the premium is at most one and a half per cent of the sum insured.
+[S47] (PMFBY, kharif/rabi) For annual commercial and annual horticultural crops the farmer's share of the premium is at most five per cent of the sum insured.
+[S48] (PMFBY) Whatever the premium costs above the farmer's share is paid as subsidy, shared equally between the central and the state government.
+[S49] (PMFBY) For the add-on covers, only farmers whose premium was already debited from their account before the event happened can be helped.
+
+## How the cover amount is fixed
+[S50] (PMFBY) The sum insured for a farmer is the per-hectare amount fixed in the state notification multiplied by the area of the notified crop. [NEVER PROMISE THIS — say the guidelines set a target and the reviewer confirms]
+[S51] (PMFBY) The land area for insurance is always counted in hectares.
+
+## How the loss is checked
+[S52] (PMFBY) For a wide-spread calamity the loss is judged for the whole notified area together, not farm by farm.
+[S53] (PMFBY) For major crops the insurance unit is usually the village or the village panchayat.
+[S54] (PMFBY) For wide-spread loss the harvest is measured by crop cutting experiments in the field and compared with the threshold yield for that unit.
+[S55] (PMFBY) The threshold yield is the average of the best five of the past seven years for that season, multiplied by the indemnity level.
+[S56] (PMFBY) For a localized calamity or a post-harvest loss the damage is checked on that farmer's own field.
+[S57] (PMFBY) The field survey is done jointly by the insurer's loss assessor, the block agriculture officer and the farmer themselves.
+[S62] (PMFBY) Premium payment is checked from the portal, and if needed the bank has to confirm the payment.
+[S75] (PMFBY) Prevented sowing cover applies when more than seventy-five per cent of the sown area in a notified unit could not be sown at all.
+[S76] (PMFBY) If the damaged area is up to a quarter of the cropped area in the unit, each affected farmer's field is surveyed one by one.
+
+## What evidence is used
+[S58] (PMFBY) Weather department reports, media reports and local newspaper cuttings can be used to show that the event happened and how bad it was.
+[S59] (PMFBY) A post-harvest loss can be reported through the Crop Insurance App with the location of the field and photographs.
+[S60] (PMFBY) A localized calamity can also be reported through the mobile app with the location and photographs of the damage.
+[S61] (PMFBY) The insurance company can also collect any other papers directly from the farmer when the surveyor visits the field.
+
+## Timelines in the guidelines (NEVER promise these)
+[S63] (PMFBY) The guidelines set a target for the insurer to appoint a loss assessor within forty-eight hours of getting the information; the reviewer confirms what happens in a real case. [NEVER PROMISE THIS — say the guidelines set a target and the reviewer confirms]
+[S64] (PMFBY) The guidelines set a target for the loss assessment to be finished in the next ten days; the reviewer confirms what happens in a real case. [NEVER PROMISE THIS — say the guidelines set a target and the reviewer confirms]
+[S65] (PMFBY) The guidelines set a target for settlement in the next fifteen days after the loss assessment report, subject to the premium being received; the reviewer confirms what happens in a real case. [NEVER PROMISE THIS — say the guidelines set a target and the reviewer confirms]
+[S66] (PMFBY) The guidelines set a target for the taluka or district grievance officer to answer a farmer's complaint in seven days; the reviewer confirms what happens in a real case. [NEVER PROMISE THIS — say the guidelines set a target and the reviewer confirms]
+
+## How a settled claim is paid
+[S67] (PMFBY) If a claim is settled, the money goes straight into the farmer's own bank account by electronic transfer. [NEVER PROMISE THIS — say the guidelines set a target and the reviewer confirms]
+[S68] (PMFBY) When a claim is settled, an SMS about it is sent to the farmer from the crop insurance portal. [NEVER PROMISE THIS — say the guidelines set a target and the reviewer confirms]
+
+## If the farmer is unhappy
+[S69] (PMFBY) Each district has a taluka level and a district level grievance officer, usually the agriculture or horticulture officer, to hear farmers' complaints.
+[S70] (PMFBY) If the taluka or district officer does not settle it, the matter goes to the district level grievance committee headed by the Collector.
+
+## Government helpline
+[S71] (PMFBY) The government's crop insurance helpline for farmers is the toll-free number one four four four seven, the Krishi Rakshak Portal and Helpline.
+[S72] (PMFBY) That helpline works day and night, every day of the year, by phone and through the web portal.
+
+## Papers a farmer needs
+[S7] (PMFBY) A sharecropper or tenant farmer has to show land papers such as the record of rights or a land possession certificate, or the tenancy agreement the state accepts.
+[S8] (PMFBY) Every farmer joining the scheme has to give an Aadhaar number and a declaration of the crop sown or the crop they intend to sow.
+[S13] (PMFBY) For joining without a crop loan the papers are the Aadhaar card copy, the bank passbook, land ownership or tenancy proof, and a sowing certificate or a self declaration of the crop.
+[S14] (PMFBY) The farmer needs a bank account in the designated bank branch and must give those account details in the application.
+
+## State-specific facts
+[S77] (PMFBY, only Cuddalore/Ranipet, kharif) For the kharif twenty twenty-six season in Tamil Nadu, HDFC ERGO is the company authorised to run the scheme in Ranipet and Cuddalore districts, for farmers with and without crop loans.
+[S78] (PMFBY, only Cuddalore/Ranipet, kharif) The crops named for that Tamil Nadu kharif season include paddy, black gram, green gram, groundnut, pigeon pea, pearl millet, sesame, bhindi, brinjal, banana, tapioca and turmeric.
+[S79] (PMFBY, only Cuddalore/Ranipet, kharif) For that Tamil Nadu kharif season the last dates to join are different for each crop and fall between the middle of July and the middle of September twenty twenty-six. [NEVER PROMISE THIS — say the guidelines set a target and the reviewer confirms]
+[S80] (PMFBY, only Cuddalore/Ranipet, kharif) In those Tamil Nadu districts farmers can join through banks, common service centres, authorised agents of the company, or the crop insurance farmer portal.
+[S81] (PMFBY, only Tamil Nadu) In Tamil Nadu the crop cutting experiments that decide the average yield are done by Assistant Agriculture Officers and supervised by the state statistics department.
+
+## Where the records live
+[S4] (PMFBY) All crop insurance records are kept on the National Crop Insurance Portal at pmfby dot gov dot in.

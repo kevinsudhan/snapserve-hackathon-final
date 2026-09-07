@@ -1,0 +1,1328 @@
+WEATHER RECORD (real data pulled from Open-Meteo, https://open-meteo.com/en/docs, and GDACS, https://www.gdacs.org).
+Coverage: 2026-07-07 to 2026-09-04, Tamil Nadu districts only, source Open-Meteo (generated 2026-09-05T11:08:40+00:00). If a date inside the coverage is not listed for a district, that day had under 10 mm rain and gusts under 45 km/h. Dates outside coverage or places outside Tamil Nadu: you do NOT know - say you cannot verify and a reviewer will check.
+Day lines read: [id] <rain>mm <max gust>kmh <max temperature>C. The ids in square brackets are for the record only - never read an id out loud; say the source in words, for example: the weather record from Open-Meteo shows.
+
+[W-Ariyalur] Ariyalur: 60-day rain 115 mm, last 7 days 4 mm, max gust 61 km/h on 2026-08-01.
+  Jul 07-Jul 13: 8 mm, max gust 53 km/h
+  Jul 14-Jul 20: 2 mm, max gust 55 km/h
+  Jul 21-Jul 27: 5 mm, max gust 45 km/h
+  Jul 28-Aug 03: 24 mm, max gust 61 km/h
+  Aug 04-Aug 10: 29 mm, max gust 50 km/h
+  Aug 11-Aug 17: 6 mm, max gust 45 km/h
+  Aug 18-Aug 24: 35 mm, max gust 44 km/h
+  Aug 25-Aug 31: 4 mm, max gust 48 km/h
+  Sep 01-Sep 04: 3 mm, max gust 39 km/h
+  [W-Ariyalur-2026-07-07] 0.0mm 53kmh 39C
+  [W-Ariyalur-2026-07-17] 0.2mm 55kmh 36C
+  [W-Ariyalur-2026-07-22] 1.2mm 45kmh 36C
+  [W-Ariyalur-2026-07-28] 0.0mm 58kmh 37C
+  [W-Ariyalur-2026-07-29] 0.1mm 53kmh 37C
+  [W-Ariyalur-2026-07-30] 0.1mm 51kmh 37C
+  [W-Ariyalur-2026-07-31] 8.2mm 54kmh 38C
+  [W-Ariyalur-2026-08-01] 4.3mm 61kmh 37C
+  [W-Ariyalur-2026-08-07] 2.7mm 50kmh 34C
+  [W-Ariyalur-2026-08-23] 12.0mm 36kmh 35C
+  [W-Ariyalur-2026-08-26] 0.4mm 48kmh 35C
+
+[W-Chengalpattu] Chengalpattu: 60-day rain 206 mm, last 7 days 27 mm, max gust 53 km/h on 2026-09-03.
+  Jul 07-Jul 13: 2 mm, max gust 44 km/h
+  Jul 14-Jul 20: 13 mm, max gust 35 km/h
+  Jul 21-Jul 27: 15 mm, max gust 45 km/h
+  Jul 28-Aug 03: 26 mm, max gust 47 km/h
+  Aug 04-Aug 10: 57 mm, max gust 44 km/h
+  Aug 11-Aug 17: 4 mm, max gust 40 km/h
+  Aug 18-Aug 24: 57 mm, max gust 40 km/h
+  Aug 25-Aug 31: 10 mm, max gust 44 km/h
+  Sep 01-Sep 04: 23 mm, max gust 53 km/h
+  [W-Chengalpattu-2026-07-29] 3.3mm 45kmh 36C
+  [W-Chengalpattu-2026-07-30] 0.5mm 47kmh 35C
+  [W-Chengalpattu-2026-08-01] 12.5mm 38kmh 35C
+  [W-Chengalpattu-2026-08-05] 12.3mm 41kmh 34C
+  [W-Chengalpattu-2026-08-08] 13.5mm 36kmh 33C
+  [W-Chengalpattu-2026-08-21] 17.0mm 32kmh 34C
+  [W-Chengalpattu-2026-08-23] 22.1mm 34kmh 34C
+  [W-Chengalpattu-2026-09-03] 6.5mm 53kmh 35C
+
+[W-Chennai] Chennai: 60-day rain 181 mm, last 7 days 10 mm, max gust 59 km/h on 2026-07-30.
+  Jul 07-Jul 13: 9 mm, max gust 44 km/h
+  Jul 14-Jul 20: 22 mm, max gust 44 km/h
+  Jul 21-Jul 27: 26 mm, max gust 44 km/h
+  Jul 28-Aug 03: 23 mm, max gust 59 km/h
+  Aug 04-Aug 10: 35 mm, max gust 42 km/h
+  Aug 11-Aug 17: 14 mm, max gust 41 km/h
+  Aug 18-Aug 24: 36 mm, max gust 50 km/h
+  Aug 25-Aug 31: 8 mm, max gust 49 km/h
+  Sep 01-Sep 04: 8 mm, max gust 44 km/h
+  [W-Chennai-2026-07-20] 10.7mm 44kmh 33C
+  [W-Chennai-2026-07-22] 10.0mm 36kmh 36C
+  [W-Chennai-2026-07-28] 0.1mm 49kmh 37C
+  [W-Chennai-2026-07-29] 1.5mm 55kmh 37C
+  [W-Chennai-2026-07-30] 1.1mm 59kmh 37C
+  [W-Chennai-2026-07-31] 0.8mm 48kmh 37C
+  [W-Chennai-2026-08-21] 3.5mm 50kmh 36C
+  [W-Chennai-2026-08-23] 12.9mm 43kmh 35C
+  [W-Chennai-2026-08-29] 1.0mm 49kmh 37C
+
+[W-Coimbatore] Coimbatore: 60-day rain 220 mm, last 7 days 16 mm, max gust 74 km/h on 2026-07-07.
+  Jul 07-Jul 13: 21 mm, max gust 74 km/h
+  Jul 14-Jul 20: 15 mm, max gust 54 km/h
+  Jul 21-Jul 27: 9 mm, max gust 57 km/h
+  Jul 28-Aug 03: 32 mm, max gust 65 km/h
+  Aug 04-Aug 10: 38 mm, max gust 53 km/h
+  Aug 11-Aug 17: 20 mm, max gust 57 km/h
+  Aug 18-Aug 24: 42 mm, max gust 55 km/h
+  Aug 25-Aug 31: 32 mm, max gust 61 km/h
+  Sep 01-Sep 04: 10 mm, max gust 48 km/h
+  [W-Coimbatore-2026-07-07] 0.0mm 74kmh 31C
+  [W-Coimbatore-2026-07-08] 0.0mm 69kmh 31C
+  [W-Coimbatore-2026-07-09] 1.5mm 47kmh 30C
+  [W-Coimbatore-2026-07-10] 14.2mm 42kmh 30C
+  [W-Coimbatore-2026-07-11] 5.6mm 48kmh 31C
+  [W-Coimbatore-2026-07-12] 0.0mm 56kmh 32C
+  [W-Coimbatore-2026-07-13] 0.1mm 55kmh 32C
+  [W-Coimbatore-2026-07-14] 0.0mm 54kmh 34C
+  [W-Coimbatore-2026-07-15] 0.0mm 51kmh 33C
+  [W-Coimbatore-2026-07-16] 0.8mm 53kmh 32C
+  [W-Coimbatore-2026-07-17] 0.2mm 49kmh 27C
+  [W-Coimbatore-2026-07-19] 5.1mm 46kmh 30C
+  [W-Coimbatore-2026-07-20] 1.2mm 52kmh 30C
+  [W-Coimbatore-2026-07-21] 0.4mm 52kmh 32C
+  [W-Coimbatore-2026-07-22] 1.3mm 53kmh 32C
+  [W-Coimbatore-2026-07-23] 0.6mm 55kmh 33C
+  [W-Coimbatore-2026-07-24] 3.9mm 48kmh 32C
+  [W-Coimbatore-2026-07-25] 3.0mm 49kmh 32C
+  [W-Coimbatore-2026-07-26] 0.1mm 57kmh 32C
+  [W-Coimbatore-2026-07-27] 0.0mm 55kmh 31C
+  [W-Coimbatore-2026-07-28] 0.7mm 63kmh 32C
+  [W-Coimbatore-2026-07-29] 0.3mm 64kmh 30C
+  [W-Coimbatore-2026-07-30] 0.0mm 65kmh 32C
+  [W-Coimbatore-2026-07-31] 1.7mm 57kmh 32C
+  [W-Coimbatore-2026-08-01] 28.4mm 46kmh 26C
+  [W-Coimbatore-2026-08-02] 0.7mm 48kmh 30C
+  [W-Coimbatore-2026-08-03] 0.4mm 51kmh 30C
+  [W-Coimbatore-2026-08-04] 16.2mm 46kmh 30C
+  [W-Coimbatore-2026-08-06] 2.6mm 53kmh 29C
+  [W-Coimbatore-2026-08-07] 2.4mm 46kmh 27C
+  [W-Coimbatore-2026-08-08] 3.0mm 53kmh 29C
+  [W-Coimbatore-2026-08-09] 5.8mm 46kmh 30C
+  [W-Coimbatore-2026-08-10] 4.2mm 48kmh 30C
+  [W-Coimbatore-2026-08-11] 4.9mm 48kmh 30C
+  [W-Coimbatore-2026-08-12] 5.3mm 50kmh 31C
+  [W-Coimbatore-2026-08-13] 4.4mm 50kmh 30C
+  [W-Coimbatore-2026-08-14] 5.2mm 49kmh 30C
+  [W-Coimbatore-2026-08-15] 0.4mm 57kmh 31C
+  [W-Coimbatore-2026-08-16] 0.0mm 56kmh 32C
+  [W-Coimbatore-2026-08-17] 0.0mm 52kmh 30C
+  [W-Coimbatore-2026-08-18] 11.6mm 47kmh 31C
+  [W-Coimbatore-2026-08-19] 11.9mm 43kmh 31C
+  [W-Coimbatore-2026-08-20] 16.3mm 37kmh 30C
+  [W-Coimbatore-2026-08-21] 0.4mm 51kmh 31C
+  [W-Coimbatore-2026-08-22] 0.7mm 51kmh 30C
+  [W-Coimbatore-2026-08-23] 0.5mm 55kmh 32C
+  [W-Coimbatore-2026-08-24] 1.1mm 49kmh 29C
+  [W-Coimbatore-2026-08-25] 19.9mm 48kmh 28C
+  [W-Coimbatore-2026-08-26] 1.6mm 51kmh 29C
+  [W-Coimbatore-2026-08-27] 0.5mm 49kmh 30C
+  [W-Coimbatore-2026-08-28] 3.9mm 49kmh 29C
+  [W-Coimbatore-2026-08-29] 0.0mm 61kmh 30C
+  [W-Coimbatore-2026-08-30] 0.0mm 54kmh 32C
+  [W-Coimbatore-2026-08-31] 5.6mm 48kmh 31C
+  [W-Coimbatore-2026-09-02] 2.2mm 48kmh 32C
+  [W-Coimbatore-2026-09-03] 3.0mm 48kmh 32C
+
+[W-Cuddalore] Cuddalore: 60-day rain 196 mm, last 7 days 32 mm, max gust 44 km/h on 2026-08-26.
+  Jul 07-Jul 13: 3 mm, max gust 40 km/h
+  Jul 14-Jul 20: 4 mm, max gust 44 km/h
+  Jul 21-Jul 27: 5 mm, max gust 41 km/h
+  Jul 28-Aug 03: 22 mm, max gust 43 km/h
+  Aug 04-Aug 10: 66 mm, max gust 44 km/h
+  Aug 11-Aug 17: 7 mm, max gust 42 km/h
+  Aug 18-Aug 24: 53 mm, max gust 41 km/h
+  Aug 25-Aug 31: 6 mm, max gust 44 km/h
+  Sep 01-Sep 04: 31 mm, max gust 42 km/h
+  [W-Cuddalore-2026-08-01] 10.7mm 34kmh 36C
+  [W-Cuddalore-2026-08-10] 43.1mm 43kmh 34C
+  [W-Cuddalore-2026-08-18] 22.7mm 39kmh 35C
+  [W-Cuddalore-2026-09-02] 14.6mm 42kmh 35C
+  [W-Cuddalore-2026-09-03] 11.5mm 37kmh 34C
+
+[W-Dharmapuri] Dharmapuri: 60-day rain 148 mm, last 7 days 12 mm, max gust 61 km/h on 2026-07-29.
+  Jul 07-Jul 13: 6 mm, max gust 60 km/h
+  Jul 14-Jul 20: 6 mm, max gust 59 km/h
+  Jul 21-Jul 27: 8 mm, max gust 54 km/h
+  Jul 28-Aug 03: 25 mm, max gust 61 km/h
+  Aug 04-Aug 10: 49 mm, max gust 56 km/h
+  Aug 11-Aug 17: 11 mm, max gust 49 km/h
+  Aug 18-Aug 24: 24 mm, max gust 53 km/h
+  Aug 25-Aug 31: 11 mm, max gust 60 km/h
+  Sep 01-Sep 04: 7 mm, max gust 38 km/h
+  [W-Dharmapuri-2026-07-07] 0.0mm 60kmh 35C
+  [W-Dharmapuri-2026-07-08] 0.2mm 58kmh 34C
+  [W-Dharmapuri-2026-07-09] 1.8mm 52kmh 34C
+  [W-Dharmapuri-2026-07-10] 4.5mm 49kmh 35C
+  [W-Dharmapuri-2026-07-11] 0.0mm 45kmh 35C
+  [W-Dharmapuri-2026-07-13] 0.0mm 46kmh 36C
+  [W-Dharmapuri-2026-07-17] 2.0mm 52kmh 33C
+  [W-Dharmapuri-2026-07-18] 0.2mm 49kmh 33C
+  [W-Dharmapuri-2026-07-19] 2.2mm 51kmh 34C
+  [W-Dharmapuri-2026-07-20] 1.9mm 59kmh 34C
+  [W-Dharmapuri-2026-07-21] 0.7mm 49kmh 35C
+  [W-Dharmapuri-2026-07-22] 1.2mm 54kmh 35C
+  [W-Dharmapuri-2026-07-24] 1.5mm 49kmh 36C
+  [W-Dharmapuri-2026-07-25] 1.2mm 48kmh 36C
+  [W-Dharmapuri-2026-07-26] 0.9mm 53kmh 35C
+  [W-Dharmapuri-2026-07-27] 2.3mm 52kmh 35C
+  [W-Dharmapuri-2026-07-28] 1.6mm 55kmh 35C
+  [W-Dharmapuri-2026-07-29] 0.9mm 61kmh 35C
+  [W-Dharmapuri-2026-07-30] 0.4mm 58kmh 35C
+  [W-Dharmapuri-2026-07-31] 3.0mm 60kmh 36C
+  [W-Dharmapuri-2026-08-01] 7.2mm 57kmh 36C
+  [W-Dharmapuri-2026-08-02] 1.1mm 55kmh 35C
+  [W-Dharmapuri-2026-08-03] 11.0mm 56kmh 32C
+  [W-Dharmapuri-2026-08-04] 26.9mm 44kmh 33C
+  [W-Dharmapuri-2026-08-05] 1.6mm 50kmh 33C
+  [W-Dharmapuri-2026-08-06] 3.9mm 48kmh 33C
+  [W-Dharmapuri-2026-08-07] 3.3mm 56kmh 31C
+  [W-Dharmapuri-2026-08-08] 3.2mm 47kmh 32C
+  [W-Dharmapuri-2026-08-09] 0.4mm 45kmh 34C
+  [W-Dharmapuri-2026-08-14] 1.0mm 49kmh 35C
+  [W-Dharmapuri-2026-08-15] 0.5mm 48kmh 35C
+  [W-Dharmapuri-2026-08-16] 1.6mm 47kmh 35C
+  [W-Dharmapuri-2026-08-17] 1.1mm 45kmh 34C
+  [W-Dharmapuri-2026-08-18] 0.5mm 49kmh 35C
+  [W-Dharmapuri-2026-08-19] 6.2mm 52kmh 35C
+  [W-Dharmapuri-2026-08-22] 2.9mm 53kmh 34C
+  [W-Dharmapuri-2026-08-23] 6.9mm 49kmh 35C
+  [W-Dharmapuri-2026-08-24] 1.6mm 53kmh 32C
+  [W-Dharmapuri-2026-08-25] 0.7mm 56kmh 32C
+  [W-Dharmapuri-2026-08-26] 1.9mm 51kmh 34C
+  [W-Dharmapuri-2026-08-27] 0.7mm 50kmh 35C
+  [W-Dharmapuri-2026-08-28] 1.9mm 49kmh 35C
+  [W-Dharmapuri-2026-08-29] 1.5mm 60kmh 35C
+  [W-Dharmapuri-2026-08-30] 3.4mm 51kmh 35C
+  [W-Dharmapuri-2026-08-31] 0.7mm 49kmh 35C
+
+[W-Dindigul] Dindigul: 60-day rain 149 mm, last 7 days 1 mm, max gust 58 km/h on 2026-07-24.
+  Jul 07-Jul 13: 10 mm, max gust 54 km/h
+  Jul 14-Jul 20: 2 mm, max gust 48 km/h
+  Jul 21-Jul 27: 6 mm, max gust 58 km/h
+  Jul 28-Aug 03: 38 mm, max gust 53 km/h
+  Aug 04-Aug 10: 21 mm, max gust 54 km/h
+  Aug 11-Aug 17: 33 mm, max gust 51 km/h
+  Aug 18-Aug 24: 10 mm, max gust 46 km/h
+  Aug 25-Aug 31: 29 mm, max gust 51 km/h
+  Sep 01-Sep 04: 0 mm, max gust 48 km/h
+  [W-Dindigul-2026-07-07] 0.0mm 53kmh 36C
+  [W-Dindigul-2026-07-12] 0.0mm 48kmh 38C
+  [W-Dindigul-2026-07-13] 0.0mm 54kmh 38C
+  [W-Dindigul-2026-07-14] 0.0mm 46kmh 40C
+  [W-Dindigul-2026-07-18] 0.1mm 48kmh 36C
+  [W-Dindigul-2026-07-24] 0.0mm 58kmh 38C
+  [W-Dindigul-2026-07-29] 0.7mm 46kmh 37C
+  [W-Dindigul-2026-08-01] 29.0mm 53kmh 33C
+  [W-Dindigul-2026-08-02] 0.9mm 48kmh 35C
+  [W-Dindigul-2026-08-04] 5.4mm 54kmh 35C
+  [W-Dindigul-2026-08-05] 0.7mm 51kmh 37C
+  [W-Dindigul-2026-08-10] 0.8mm 46kmh 37C
+  [W-Dindigul-2026-08-14] 20.0mm 51kmh 38C
+  [W-Dindigul-2026-08-22] 0.0mm 46kmh 37C
+  [W-Dindigul-2026-08-25] 23.3mm 37kmh 34C
+  [W-Dindigul-2026-08-30] 0.0mm 48kmh 38C
+  [W-Dindigul-2026-08-31] 0.0mm 51kmh 38C
+  [W-Dindigul-2026-09-01] 0.1mm 48kmh 38C
+
+[W-Erode] Erode: 60-day rain 113 mm, last 7 days 6 mm, max gust 58 km/h on 2026-09-01.
+  Jul 07-Jul 13: 9 mm, max gust 52 km/h
+  Jul 14-Jul 20: 6 mm, max gust 53 km/h
+  Jul 21-Jul 27: 8 mm, max gust 56 km/h
+  Jul 28-Aug 03: 19 mm, max gust 56 km/h
+  Aug 04-Aug 10: 18 mm, max gust 48 km/h
+  Aug 11-Aug 17: 11 mm, max gust 52 km/h
+  Aug 18-Aug 24: 25 mm, max gust 52 km/h
+  Aug 25-Aug 31: 14 mm, max gust 50 km/h
+  Sep 01-Sep 04: 4 mm, max gust 58 km/h
+  [W-Erode-2026-07-09] 1.6mm 48kmh 37C
+  [W-Erode-2026-07-12] 0.3mm 52kmh 38C
+  [W-Erode-2026-07-13] 0.5mm 50kmh 39C
+  [W-Erode-2026-07-14] 0.0mm 53kmh 40C
+  [W-Erode-2026-07-22] 1.5mm 46kmh 37C
+  [W-Erode-2026-07-26] 0.0mm 56kmh 37C
+  [W-Erode-2026-07-28] 2.2mm 52kmh 36C
+  [W-Erode-2026-07-29] 1.4mm 48kmh 36C
+  [W-Erode-2026-07-30] 0.6mm 49kmh 37C
+  [W-Erode-2026-07-31] 2.9mm 46kmh 38C
+  [W-Erode-2026-08-01] 4.6mm 56kmh 34C
+  [W-Erode-2026-08-06] 5.0mm 45kmh 34C
+  [W-Erode-2026-08-08] 2.2mm 48kmh 35C
+  [W-Erode-2026-08-10] 2.1mm 47kmh 37C
+  [W-Erode-2026-08-13] 1.5mm 48kmh 37C
+  [W-Erode-2026-08-14] 3.4mm 52kmh 37C
+  [W-Erode-2026-08-16] 0.2mm 48kmh 38C
+  [W-Erode-2026-08-17] 0.6mm 46kmh 37C
+  [W-Erode-2026-08-18] 2.0mm 46kmh 38C
+  [W-Erode-2026-08-19] 3.9mm 52kmh 37C
+  [W-Erode-2026-08-20] 4.6mm 50kmh 37C
+  [W-Erode-2026-08-24] 8.7mm 46kmh 36C
+  [W-Erode-2026-08-28] 1.8mm 47kmh 37C
+  [W-Erode-2026-08-29] 1.1mm 50kmh 36C
+  [W-Erode-2026-08-30] 1.0mm 46kmh 36C
+  [W-Erode-2026-09-01] 2.0mm 58kmh 38C
+
+[W-Kallakurichi] Kallakurichi: 60-day rain 174 mm, last 7 days 17 mm, max gust 47 km/h on 2026-08-11.
+  Jul 07-Jul 13: 5 mm, max gust 39 km/h
+  Jul 14-Jul 20: 15 mm, max gust 41 km/h
+  Jul 21-Jul 27: 5 mm, max gust 35 km/h
+  Jul 28-Aug 03: 35 mm, max gust 43 km/h
+  Aug 04-Aug 10: 37 mm, max gust 44 km/h
+  Aug 11-Aug 17: 7 mm, max gust 47 km/h
+  Aug 18-Aug 24: 45 mm, max gust 37 km/h
+  Aug 25-Aug 31: 10 mm, max gust 31 km/h
+  Sep 01-Sep 04: 14 mm, max gust 29 km/h
+  [W-Kallakurichi-2026-08-01] 19.6mm 40kmh 37C
+  [W-Kallakurichi-2026-08-10] 15.5mm 36kmh 35C
+  [W-Kallakurichi-2026-08-11] 1.8mm 47kmh 35C
+  [W-Kallakurichi-2026-08-18] 16.7mm 37kmh 36C
+  [W-Kallakurichi-2026-08-20] 10.1mm 23kmh 35C
+
+[W-Kancheepuram] Kancheepuram: 60-day rain 251 mm, last 7 days 17 mm, max gust 52 km/h on 2026-09-03.
+  Jul 07-Jul 13: 2 mm, max gust 42 km/h
+  Jul 14-Jul 20: 20 mm, max gust 38 km/h
+  Jul 21-Jul 27: 19 mm, max gust 43 km/h
+  Jul 28-Aug 03: 47 mm, max gust 46 km/h
+  Aug 04-Aug 10: 87 mm, max gust 46 km/h
+  Aug 11-Aug 17: 2 mm, max gust 40 km/h
+  Aug 18-Aug 24: 51 mm, max gust 40 km/h
+  Aug 25-Aug 31: 8 mm, max gust 44 km/h
+  Sep 01-Sep 04: 14 mm, max gust 52 km/h
+  [W-Kancheepuram-2026-07-18] 12.5mm 36kmh 34C
+  [W-Kancheepuram-2026-07-30] 0.8mm 46kmh 35C
+  [W-Kancheepuram-2026-08-01] 15.4mm 37kmh 36C
+  [W-Kancheepuram-2026-08-02] 13.1mm 42kmh 34C
+  [W-Kancheepuram-2026-08-03] 10.4mm 41kmh 35C
+  [W-Kancheepuram-2026-08-04] 11.6mm 42kmh 34C
+  [W-Kancheepuram-2026-08-05] 30.4mm 38kmh 34C
+  [W-Kancheepuram-2026-08-08] 13.5mm 40kmh 34C
+  [W-Kancheepuram-2026-08-09] 19.5mm 46kmh 34C
+  [W-Kancheepuram-2026-08-21] 15.2mm 35kmh 34C
+  [W-Kancheepuram-2026-08-23] 13.9mm 33kmh 34C
+  [W-Kancheepuram-2026-08-24] 13.8mm 36kmh 33C
+  [W-Kancheepuram-2026-09-03] 5.3mm 52kmh 36C
+
+[W-Kanniyakumari] Kanniyakumari: 60-day rain 148 mm, last 7 days 6 mm, max gust 67 km/h on 2026-07-29.
+  Jul 07-Jul 13: 6 mm, max gust 63 km/h
+  Jul 14-Jul 20: 11 mm, max gust 59 km/h
+  Jul 21-Jul 27: 5 mm, max gust 62 km/h
+  Jul 28-Aug 03: 47 mm, max gust 67 km/h
+  Aug 04-Aug 10: 19 mm, max gust 62 km/h
+  Aug 11-Aug 17: 23 mm, max gust 55 km/h
+  Aug 18-Aug 24: 19 mm, max gust 66 km/h
+  Aug 25-Aug 31: 13 mm, max gust 60 km/h
+  Sep 01-Sep 04: 4 mm, max gust 54 km/h
+  [W-Kanniyakumari-2026-07-07] 0.0mm 63kmh 33C
+  [W-Kanniyakumari-2026-07-08] 0.0mm 63kmh 33C
+  [W-Kanniyakumari-2026-07-09] 1.2mm 62kmh 33C
+  [W-Kanniyakumari-2026-07-10] 3.8mm 53kmh 33C
+  [W-Kanniyakumari-2026-07-11] 0.6mm 54kmh 34C
+  [W-Kanniyakumari-2026-07-12] 0.1mm 59kmh 33C
+  [W-Kanniyakumari-2026-07-13] 0.1mm 62kmh 34C
+  [W-Kanniyakumari-2026-07-14] 0.0mm 59kmh 36C
+  [W-Kanniyakumari-2026-07-15] 0.0mm 58kmh 34C
+  [W-Kanniyakumari-2026-07-16] 0.1mm 52kmh 34C
+  [W-Kanniyakumari-2026-07-17] 2.1mm 54kmh 33C
+  [W-Kanniyakumari-2026-07-18] 2.6mm 56kmh 33C
+  [W-Kanniyakumari-2026-07-19] 2.8mm 52kmh 34C
+  [W-Kanniyakumari-2026-07-20] 3.6mm 55kmh 32C
+  [W-Kanniyakumari-2026-07-21] 0.6mm 50kmh 34C
+  [W-Kanniyakumari-2026-07-22] 0.1mm 51kmh 35C
+  [W-Kanniyakumari-2026-07-23] 0.7mm 50kmh 35C
+  [W-Kanniyakumari-2026-07-24] 0.0mm 56kmh 35C
+  [W-Kanniyakumari-2026-07-25] 0.1mm 56kmh 36C
+  [W-Kanniyakumari-2026-07-26] 0.0mm 62kmh 35C
+  [W-Kanniyakumari-2026-07-27] 3.6mm 60kmh 33C
+  [W-Kanniyakumari-2026-07-28] 3.5mm 56kmh 32C
+  [W-Kanniyakumari-2026-07-29] 3.5mm 67kmh 33C
+  [W-Kanniyakumari-2026-07-30] 2.0mm 66kmh 34C
+  [W-Kanniyakumari-2026-07-31] 14.5mm 63kmh 35C
+  [W-Kanniyakumari-2026-08-01] 17.6mm 62kmh 28C
+  [W-Kanniyakumari-2026-08-02] 1.7mm 62kmh 29C
+  [W-Kanniyakumari-2026-08-03] 4.4mm 52kmh 28C
+  [W-Kanniyakumari-2026-08-04] 1.5mm 59kmh 29C
+  [W-Kanniyakumari-2026-08-05] 0.4mm 59kmh 32C
+  [W-Kanniyakumari-2026-08-06] 6.6mm 54kmh 29C
+  [W-Kanniyakumari-2026-08-07] 5.1mm 62kmh 30C
+  [W-Kanniyakumari-2026-08-08] 1.7mm 61kmh 30C
+  [W-Kanniyakumari-2026-08-09] 2.5mm 55kmh 32C
+  [W-Kanniyakumari-2026-08-10] 1.0mm 54kmh 33C
+  [W-Kanniyakumari-2026-08-11] 4.5mm 51kmh 34C
+  [W-Kanniyakumari-2026-08-12] 0.5mm 55kmh 34C
+  [W-Kanniyakumari-2026-08-13] 5.0mm 55kmh 34C
+  [W-Kanniyakumari-2026-08-14] 5.6mm 55kmh 33C
+  [W-Kanniyakumari-2026-08-15] 3.0mm 54kmh 32C
+  [W-Kanniyakumari-2026-08-16] 2.8mm 49kmh 32C
+  [W-Kanniyakumari-2026-08-17] 1.7mm 54kmh 32C
+  [W-Kanniyakumari-2026-08-18] 0.1mm 54kmh 34C
+  [W-Kanniyakumari-2026-08-19] 3.4mm 54kmh 33C
+  [W-Kanniyakumari-2026-08-20] 7.0mm 56kmh 33C
+  [W-Kanniyakumari-2026-08-21] 0.0mm 56kmh 34C
+  [W-Kanniyakumari-2026-08-22] 0.1mm 66kmh 34C
+  [W-Kanniyakumari-2026-08-23] 2.6mm 59kmh 33C
+  [W-Kanniyakumari-2026-08-24] 6.0mm 53kmh 32C
+  [W-Kanniyakumari-2026-08-25] 6.4mm 54kmh 30C
+  [W-Kanniyakumari-2026-08-26] 1.2mm 57kmh 31C
+  [W-Kanniyakumari-2026-08-27] 3.9mm 55kmh 31C
+  [W-Kanniyakumari-2026-08-28] 0.3mm 56kmh 33C
+  [W-Kanniyakumari-2026-08-29] 0.0mm 60kmh 34C
+  [W-Kanniyakumari-2026-08-30] 1.1mm 55kmh 34C
+  [W-Kanniyakumari-2026-08-31] 0.5mm 53kmh 35C
+  [W-Kanniyakumari-2026-09-01] 0.3mm 54kmh 36C
+  [W-Kanniyakumari-2026-09-02] 0.5mm 51kmh 35C
+  [W-Kanniyakumari-2026-09-03] 2.8mm 50kmh 35C
+  [W-Kanniyakumari-2026-09-04] 0.8mm 50kmh 35C
+
+[W-Karur] Karur: 60-day rain 63 mm, last 7 days 4 mm, max gust 71 km/h on 2026-07-07.
+  Jul 07-Jul 13: 8 mm, max gust 71 km/h
+  Jul 14-Jul 20: 1 mm, max gust 60 km/h
+  Jul 21-Jul 27: 3 mm, max gust 59 km/h
+  Jul 28-Aug 03: 9 mm, max gust 70 km/h
+  Aug 04-Aug 10: 11 mm, max gust 66 km/h
+  Aug 11-Aug 17: 11 mm, max gust 58 km/h
+  Aug 18-Aug 24: 11 mm, max gust 64 km/h
+  Aug 25-Aug 31: 7 mm, max gust 60 km/h
+  Sep 01-Sep 04: 3 mm, max gust 48 km/h
+  [W-Karur-2026-07-07] 0.0mm 71kmh 36C
+  [W-Karur-2026-07-08] 0.9mm 56kmh 36C
+  [W-Karur-2026-07-09] 0.9mm 58kmh 38C
+  [W-Karur-2026-07-10] 4.1mm 52kmh 37C
+  [W-Karur-2026-07-11] 1.5mm 49kmh 37C
+  [W-Karur-2026-07-12] 0.0mm 49kmh 37C
+  [W-Karur-2026-07-13] 0.4mm 46kmh 38C
+  [W-Karur-2026-07-17] 0.2mm 60kmh 32C
+  [W-Karur-2026-07-18] 0.3mm 53kmh 36C
+  [W-Karur-2026-07-19] 0.4mm 46kmh 37C
+  [W-Karur-2026-07-20] 0.0mm 60kmh 35C
+  [W-Karur-2026-07-21] 0.1mm 53kmh 38C
+  [W-Karur-2026-07-22] 0.4mm 54kmh 37C
+  [W-Karur-2026-07-23] 0.0mm 49kmh 37C
+  [W-Karur-2026-07-25] 0.2mm 50kmh 38C
+  [W-Karur-2026-07-26] 0.0mm 56kmh 38C
+  [W-Karur-2026-07-27] 0.2mm 59kmh 36C
+  [W-Karur-2026-07-28] 0.4mm 67kmh 36C
+  [W-Karur-2026-07-29] 1.2mm 68kmh 36C
+  [W-Karur-2026-07-30] 0.1mm 70kmh 36C
+  [W-Karur-2026-07-31] 3.0mm 63kmh 36C
+  [W-Karur-2026-08-01] 3.8mm 70kmh 34C
+  [W-Karur-2026-08-02] 0.2mm 49kmh 34C
+  [W-Karur-2026-08-03] 0.4mm 55kmh 35C
+  [W-Karur-2026-08-04] 1.0mm 52kmh 36C
+  [W-Karur-2026-08-05] 0.5mm 53kmh 37C
+  [W-Karur-2026-08-06] 2.0mm 63kmh 35C
+  [W-Karur-2026-08-07] 1.0mm 66kmh 33C
+  [W-Karur-2026-08-08] 1.7mm 63kmh 37C
+  [W-Karur-2026-08-09] 2.5mm 61kmh 38C
+  [W-Karur-2026-08-10] 2.0mm 57kmh 39C
+  [W-Karur-2026-08-11] 1.7mm 52kmh 38C
+  [W-Karur-2026-08-12] 0.0mm 52kmh 38C
+  [W-Karur-2026-08-13] 1.0mm 55kmh 38C
+  [W-Karur-2026-08-14] 1.0mm 58kmh 37C
+  [W-Karur-2026-08-15] 6.9mm 55kmh 36C
+  [W-Karur-2026-08-16] 0.1mm 50kmh 38C
+  [W-Karur-2026-08-17] 0.1mm 53kmh 37C
+  [W-Karur-2026-08-18] 0.9mm 49kmh 38C
+  [W-Karur-2026-08-19] 3.8mm 49kmh 38C
+  [W-Karur-2026-08-20] 2.5mm 61kmh 37C
+  [W-Karur-2026-08-21] 0.1mm 50kmh 37C
+  [W-Karur-2026-08-22] 0.0mm 56kmh 36C
+  [W-Karur-2026-08-23] 1.1mm 55kmh 37C
+  [W-Karur-2026-08-24] 2.4mm 64kmh 35C
+  [W-Karur-2026-08-25] 3.3mm 60kmh 34C
+  [W-Karur-2026-08-26] 1.6mm 56kmh 34C
+  [W-Karur-2026-08-27] 0.2mm 54kmh 36C
+  [W-Karur-2026-08-28] 1.2mm 57kmh 36C
+  [W-Karur-2026-08-29] 0.1mm 60kmh 36C
+  [W-Karur-2026-08-30] 0.9mm 49kmh 36C
+  [W-Karur-2026-08-31] 0.1mm 45kmh 38C
+  [W-Karur-2026-09-01] 0.6mm 48kmh 38C
+  [W-Karur-2026-09-02] 1.4mm 48kmh 38C
+
+[W-Krishnagiri] Krishnagiri: 60-day rain 123 mm, last 7 days 14 mm, max gust 58 km/h on 2026-07-29.
+  Jul 07-Jul 13: 4 mm, max gust 56 km/h
+  Jul 14-Jul 20: 4 mm, max gust 55 km/h
+  Jul 21-Jul 27: 7 mm, max gust 50 km/h
+  Jul 28-Aug 03: 17 mm, max gust 58 km/h
+  Aug 04-Aug 10: 34 mm, max gust 55 km/h
+  Aug 11-Aug 17: 12 mm, max gust 51 km/h
+  Aug 18-Aug 24: 26 mm, max gust 49 km/h
+  Aug 25-Aug 31: 6 mm, max gust 54 km/h
+  Sep 01-Sep 04: 13 mm, max gust 40 km/h
+  [W-Krishnagiri-2026-07-07] 0.0mm 56kmh 35C
+  [W-Krishnagiri-2026-07-08] 0.6mm 53kmh 34C
+  [W-Krishnagiri-2026-07-09] 0.4mm 48kmh 33C
+  [W-Krishnagiri-2026-07-15] 0.0mm 46kmh 35C
+  [W-Krishnagiri-2026-07-18] 1.5mm 48kmh 33C
+  [W-Krishnagiri-2026-07-20] 0.4mm 55kmh 32C
+  [W-Krishnagiri-2026-07-22] 2.3mm 49kmh 32C
+  [W-Krishnagiri-2026-07-26] 2.1mm 47kmh 32C
+  [W-Krishnagiri-2026-07-27] 0.6mm 50kmh 33C
+  [W-Krishnagiri-2026-07-28] 2.1mm 50kmh 34C
+  [W-Krishnagiri-2026-07-29] 0.9mm 58kmh 33C
+  [W-Krishnagiri-2026-07-30] 0.6mm 57kmh 33C
+  [W-Krishnagiri-2026-07-31] 2.3mm 51kmh 33C
+  [W-Krishnagiri-2026-08-01] 2.8mm 52kmh 34C
+  [W-Krishnagiri-2026-08-02] 0.2mm 54kmh 34C
+  [W-Krishnagiri-2026-08-03] 7.7mm 47kmh 33C
+  [W-Krishnagiri-2026-08-04] 11.0mm 47kmh 33C
+  [W-Krishnagiri-2026-08-05] 1.6mm 55kmh 33C
+  [W-Krishnagiri-2026-08-06] 7.9mm 46kmh 32C
+  [W-Krishnagiri-2026-08-07] 8.5mm 54kmh 31C
+  [W-Krishnagiri-2026-08-08] 0.9mm 47kmh 31C
+  [W-Krishnagiri-2026-08-09] 0.4mm 46kmh 33C
+  [W-Krishnagiri-2026-08-13] 2.9mm 46kmh 34C
+  [W-Krishnagiri-2026-08-14] 3.2mm 45kmh 34C
+  [W-Krishnagiri-2026-08-15] 0.1mm 51kmh 34C
+  [W-Krishnagiri-2026-08-16] 1.2mm 46kmh 34C
+  [W-Krishnagiri-2026-08-20] 3.0mm 46kmh 32C
+  [W-Krishnagiri-2026-08-22] 2.1mm 49kmh 33C
+  [W-Krishnagiri-2026-08-24] 11.3mm 45kmh 30C
+  [W-Krishnagiri-2026-08-25] 2.7mm 51kmh 32C
+  [W-Krishnagiri-2026-08-26] 1.0mm 45kmh 33C
+  [W-Krishnagiri-2026-08-27] 0.5mm 48kmh 33C
+  [W-Krishnagiri-2026-08-28] 0.3mm 48kmh 33C
+  [W-Krishnagiri-2026-08-29] 0.5mm 54kmh 34C
+  [W-Krishnagiri-2026-08-30] 0.3mm 52kmh 33C
+  [W-Krishnagiri-2026-08-31] 0.4mm 48kmh 33C
+
+[W-Madurai] Madurai: 60-day rain 117 mm, last 7 days 6 mm, max gust 67 km/h on 2026-07-28.
+  Jul 07-Jul 13: 7 mm, max gust 52 km/h
+  Jul 14-Jul 20: 6 mm, max gust 48 km/h
+  Jul 21-Jul 27: 6 mm, max gust 55 km/h
+  Jul 28-Aug 03: 20 mm, max gust 67 km/h
+  Aug 04-Aug 10: 37 mm, max gust 49 km/h
+  Aug 11-Aug 17: 15 mm, max gust 49 km/h
+  Aug 18-Aug 24: 9 mm, max gust 47 km/h
+  Aug 25-Aug 31: 12 mm, max gust 54 km/h
+  Sep 01-Sep 04: 5 mm, max gust 46 km/h
+  [W-Madurai-2026-07-07] 0.0mm 52kmh 38C
+  [W-Madurai-2026-07-10] 5.1mm 46kmh 37C
+  [W-Madurai-2026-07-16] 0.2mm 46kmh 39C
+  [W-Madurai-2026-07-17] 0.0mm 48kmh 36C
+  [W-Madurai-2026-07-26] 0.0mm 55kmh 39C
+  [W-Madurai-2026-07-28] 1.5mm 67kmh 38C
+  [W-Madurai-2026-07-29] 1.6mm 56kmh 38C
+  [W-Madurai-2026-07-30] 0.4mm 50kmh 38C
+  [W-Madurai-2026-08-01] 8.1mm 50kmh 36C
+  [W-Madurai-2026-08-04] 20.4mm 43kmh 36C
+  [W-Madurai-2026-08-06] 2.0mm 49kmh 38C
+  [W-Madurai-2026-08-09] 8.8mm 46kmh 37C
+  [W-Madurai-2026-08-10] 4.5mm 48kmh 39C
+  [W-Madurai-2026-08-11] 6.7mm 49kmh 38C
+  [W-Madurai-2026-08-22] 0.1mm 47kmh 37C
+  [W-Madurai-2026-08-26] 1.2mm 48kmh 36C
+  [W-Madurai-2026-08-28] 0.4mm 50kmh 39C
+  [W-Madurai-2026-08-29] 0.3mm 54kmh 38C
+  [W-Madurai-2026-09-03] 1.4mm 46kmh 39C
+
+[W-Mayiladuthurai] Mayiladuthurai: 60-day rain 90 mm, last 7 days 3 mm, max gust 54 km/h on 2026-08-01.
+  Jul 07-Jul 13: 10 mm, max gust 48 km/h
+  Jul 14-Jul 20: 1 mm, max gust 43 km/h
+  Jul 21-Jul 27: 1 mm, max gust 45 km/h
+  Jul 28-Aug 03: 21 mm, max gust 54 km/h
+  Aug 04-Aug 10: 26 mm, max gust 42 km/h
+  Aug 11-Aug 17: 13 mm, max gust 41 km/h
+  Aug 18-Aug 24: 13 mm, max gust 50 km/h
+  Aug 25-Aug 31: 4 mm, max gust 42 km/h
+  Sep 01-Sep 04: 2 mm, max gust 36 km/h
+  [W-Mayiladuthurai-2026-07-07] 0.0mm 48kmh 40C
+  [W-Mayiladuthurai-2026-07-27] 0.5mm 45kmh 37C
+  [W-Mayiladuthurai-2026-07-28] 0.0mm 45kmh 37C
+  [W-Mayiladuthurai-2026-07-29] 0.7mm 54kmh 36C
+  [W-Mayiladuthurai-2026-07-30] 0.5mm 54kmh 37C
+  [W-Mayiladuthurai-2026-07-31] 1.6mm 53kmh 37C
+  [W-Mayiladuthurai-2026-08-01] 7.1mm 54kmh 37C
+  [W-Mayiladuthurai-2026-08-07] 12.6mm 41kmh 34C
+  [W-Mayiladuthurai-2026-08-24] 2.6mm 50kmh 34C
+
+[W-Nagapattinam] Nagapattinam: 60-day rain 105 mm, last 7 days 5 mm, max gust 56 km/h on 2026-07-27.
+  Jul 07-Jul 13: 8 mm, max gust 46 km/h
+  Jul 14-Jul 20: 5 mm, max gust 49 km/h
+  Jul 21-Jul 27: 5 mm, max gust 56 km/h
+  Jul 28-Aug 03: 28 mm, max gust 55 km/h
+  Aug 04-Aug 10: 20 mm, max gust 48 km/h
+  Aug 11-Aug 17: 11 mm, max gust 44 km/h
+  Aug 18-Aug 24: 15 mm, max gust 45 km/h
+  Aug 25-Aug 31: 9 mm, max gust 48 km/h
+  Sep 01-Sep 04: 4 mm, max gust 35 km/h
+  [W-Nagapattinam-2026-07-07] 0.0mm 46kmh 38C
+  [W-Nagapattinam-2026-07-11] 1.2mm 46kmh 36C
+  [W-Nagapattinam-2026-07-12] 0.0mm 46kmh 37C
+  [W-Nagapattinam-2026-07-15] 0.0mm 46kmh 37C
+  [W-Nagapattinam-2026-07-17] 1.9mm 49kmh 36C
+  [W-Nagapattinam-2026-07-20] 1.5mm 46kmh 36C
+  [W-Nagapattinam-2026-07-21] 0.2mm 47kmh 36C
+  [W-Nagapattinam-2026-07-26] 0.6mm 46kmh 38C
+  [W-Nagapattinam-2026-07-27] 1.0mm 56kmh 36C
+  [W-Nagapattinam-2026-07-28] 0.2mm 51kmh 37C
+  [W-Nagapattinam-2026-07-29] 0.8mm 55kmh 36C
+  [W-Nagapattinam-2026-07-30] 0.3mm 48kmh 36C
+  [W-Nagapattinam-2026-08-01] 9.2mm 49kmh 37C
+  [W-Nagapattinam-2026-08-06] 10.2mm 46kmh 35C
+  [W-Nagapattinam-2026-08-07] 4.4mm 46kmh 34C
+  [W-Nagapattinam-2026-08-08] 1.9mm 48kmh 34C
+  [W-Nagapattinam-2026-08-25] 1.6mm 48kmh 34C
+  [W-Nagapattinam-2026-08-26] 3.8mm 45kmh 35C
+  [W-Nagapattinam-2026-08-27] 1.2mm 46kmh 36C
+
+[W-Namakkal] Namakkal: 60-day rain 113 mm, last 7 days 4 mm, max gust 49 km/h on 2026-08-01.
+  Jul 07-Jul 13: 7 mm, max gust 48 km/h
+  Jul 14-Jul 20: 7 mm, max gust 44 km/h
+  Jul 21-Jul 27: 4 mm, max gust 35 km/h
+  Jul 28-Aug 03: 15 mm, max gust 49 km/h
+  Aug 04-Aug 10: 23 mm, max gust 43 km/h
+  Aug 11-Aug 17: 22 mm, max gust 41 km/h
+  Aug 18-Aug 24: 26 mm, max gust 47 km/h
+  Aug 25-Aug 31: 7 mm, max gust 47 km/h
+  Sep 01-Sep 04: 2 mm, max gust 32 km/h
+  [W-Namakkal-2026-07-07] 0.0mm 48kmh 36C
+  [W-Namakkal-2026-07-28] 0.9mm 48kmh 36C
+  [W-Namakkal-2026-07-30] 0.7mm 46kmh 36C
+  [W-Namakkal-2026-08-01] 4.2mm 49kmh 34C
+  [W-Namakkal-2026-08-14] 12.7mm 38kmh 36C
+  [W-Namakkal-2026-08-20] 15.1mm 34kmh 34C
+  [W-Namakkal-2026-08-24] 1.7mm 47kmh 35C
+  [W-Namakkal-2026-08-29] 0.6mm 47kmh 36C
+
+[W-Perambalur] Perambalur: 60-day rain 115 mm, last 7 days 9 mm, max gust 58 km/h on 2026-07-17.
+  Jul 07-Jul 13: 3 mm, max gust 51 km/h
+  Jul 14-Jul 20: 4 mm, max gust 58 km/h
+  Jul 21-Jul 27: 7 mm, max gust 43 km/h
+  Jul 28-Aug 03: 24 mm, max gust 57 km/h
+  Aug 04-Aug 10: 32 mm, max gust 45 km/h
+  Aug 11-Aug 17: 11 mm, max gust 52 km/h
+  Aug 18-Aug 24: 20 mm, max gust 41 km/h
+  Aug 25-Aug 31: 6 mm, max gust 45 km/h
+  Sep 01-Sep 04: 8 mm, max gust 36 km/h
+  [W-Perambalur-2026-07-07] 0.0mm 51kmh 38C
+  [W-Perambalur-2026-07-13] 0.0mm 47kmh 38C
+  [W-Perambalur-2026-07-17] 0.5mm 58kmh 36C
+  [W-Perambalur-2026-07-28] 0.0mm 52kmh 36C
+  [W-Perambalur-2026-07-29] 0.3mm 48kmh 37C
+  [W-Perambalur-2026-07-30] 0.4mm 54kmh 37C
+  [W-Perambalur-2026-07-31] 5.9mm 57kmh 38C
+  [W-Perambalur-2026-08-01] 7.3mm 54kmh 36C
+  [W-Perambalur-2026-08-07] 3.7mm 45kmh 35C
+  [W-Perambalur-2026-08-09] 10.5mm 41kmh 37C
+  [W-Perambalur-2026-08-13] 1.5mm 46kmh 36C
+  [W-Perambalur-2026-08-14] 6.7mm 52kmh 36C
+  [W-Perambalur-2026-08-23] 10.3mm 35kmh 36C
+  [W-Perambalur-2026-08-29] 0.3mm 45kmh 37C
+
+[W-Pudukkottai] Pudukkottai: 60-day rain 126 mm, last 7 days 2 mm, max gust 56 km/h on 2026-08-07.
+  Jul 07-Jul 13: 18 mm, max gust 42 km/h
+  Jul 14-Jul 20: 7 mm, max gust 44 km/h
+  Jul 21-Jul 27: 9 mm, max gust 39 km/h
+  Jul 28-Aug 03: 18 mm, max gust 56 km/h
+  Aug 04-Aug 10: 21 mm, max gust 56 km/h
+  Aug 11-Aug 17: 16 mm, max gust 41 km/h
+  Aug 18-Aug 24: 28 mm, max gust 42 km/h
+  Aug 25-Aug 31: 9 mm, max gust 39 km/h
+  Sep 01-Sep 04: 2 mm, max gust 40 km/h
+  [W-Pudukkottai-2026-07-10] 15.6mm 33kmh 36C
+  [W-Pudukkottai-2026-08-01] 8.3mm 55kmh 37C
+  [W-Pudukkottai-2026-08-02] 1.5mm 51kmh 36C
+  [W-Pudukkottai-2026-08-03] 0.4mm 56kmh 36C
+  [W-Pudukkottai-2026-08-04] 1.5mm 52kmh 36C
+  [W-Pudukkottai-2026-08-05] 0.3mm 48kmh 37C
+  [W-Pudukkottai-2026-08-07] 0.5mm 56kmh 35C
+  [W-Pudukkottai-2026-08-08] 4.3mm 48kmh 34C
+  [W-Pudukkottai-2026-08-24] 11.7mm 31kmh 35C
+
+[W-Ramanathapuram] Ramanathapuram: 60-day rain 129 mm, last 7 days 20 mm, max gust 55 km/h on 2026-07-28.
+  Jul 07-Jul 13: 9 mm, max gust 43 km/h
+  Jul 14-Jul 20: 10 mm, max gust 52 km/h
+  Jul 21-Jul 27: 5 mm, max gust 50 km/h
+  Jul 28-Aug 03: 25 mm, max gust 55 km/h
+  Aug 04-Aug 10: 30 mm, max gust 52 km/h
+  Aug 11-Aug 17: 16 mm, max gust 46 km/h
+  Aug 18-Aug 24: 7 mm, max gust 51 km/h
+  Aug 25-Aug 31: 8 mm, max gust 53 km/h
+  Sep 01-Sep 04: 19 mm, max gust 44 km/h
+  [W-Ramanathapuram-2026-07-16] 0.0mm 47kmh 37C
+  [W-Ramanathapuram-2026-07-17] 3.1mm 52kmh 35C
+  [W-Ramanathapuram-2026-07-18] 2.3mm 47kmh 36C
+  [W-Ramanathapuram-2026-07-22] 0.3mm 50kmh 37C
+  [W-Ramanathapuram-2026-07-26] 0.7mm 49kmh 38C
+  [W-Ramanathapuram-2026-07-27] 1.5mm 45kmh 36C
+  [W-Ramanathapuram-2026-07-28] 1.4mm 55kmh 38C
+  [W-Ramanathapuram-2026-07-29] 0.3mm 53kmh 40C
+  [W-Ramanathapuram-2026-07-30] 0.7mm 53kmh 38C
+  [W-Ramanathapuram-2026-07-31] 2.0mm 49kmh 39C
+  [W-Ramanathapuram-2026-08-01] 4.7mm 49kmh 38C
+  [W-Ramanathapuram-2026-08-03] 12.2mm 40kmh 40C
+  [W-Ramanathapuram-2026-08-04] 12.5mm 35kmh 37C
+  [W-Ramanathapuram-2026-08-07] 1.1mm 52kmh 38C
+  [W-Ramanathapuram-2026-08-08] 4.3mm 46kmh 37C
+  [W-Ramanathapuram-2026-08-12] 2.9mm 46kmh 36C
+  [W-Ramanathapuram-2026-08-16] 2.4mm 46kmh 35C
+  [W-Ramanathapuram-2026-08-21] 0.5mm 49kmh 37C
+  [W-Ramanathapuram-2026-08-23] 1.2mm 50kmh 37C
+  [W-Ramanathapuram-2026-08-24] 2.8mm 51kmh 36C
+  [W-Ramanathapuram-2026-08-25] 0.8mm 46kmh 35C
+  [W-Ramanathapuram-2026-08-26] 3.2mm 50kmh 38C
+  [W-Ramanathapuram-2026-08-27] 2.2mm 53kmh 36C
+  [W-Ramanathapuram-2026-08-28] 0.1mm 49kmh 38C
+  [W-Ramanathapuram-2026-08-29] 0.8mm 46kmh 38C
+
+[W-Ranipet] Ranipet: 60-day rain 222 mm, last 7 days 28 mm, max gust 51 km/h on 2026-07-30.
+  Jul 07-Jul 13: 5 mm, max gust 46 km/h
+  Jul 14-Jul 20: 35 mm, max gust 43 km/h
+  Jul 21-Jul 27: 16 mm, max gust 46 km/h
+  Jul 28-Aug 03: 25 mm, max gust 51 km/h
+  Aug 04-Aug 10: 47 mm, max gust 41 km/h
+  Aug 11-Aug 17: 9 mm, max gust 39 km/h
+  Aug 18-Aug 24: 50 mm, max gust 41 km/h
+  Aug 25-Aug 31: 9 mm, max gust 45 km/h
+  Sep 01-Sep 04: 26 mm, max gust 35 km/h
+  [W-Ranipet-2026-07-07] 0.1mm 46kmh 39C
+  [W-Ranipet-2026-07-13] 0.0mm 46kmh 38C
+  [W-Ranipet-2026-07-17] 22.7mm 43kmh 36C
+  [W-Ranipet-2026-07-22] 6.6mm 46kmh 35C
+  [W-Ranipet-2026-07-28] 1.2mm 46kmh 37C
+  [W-Ranipet-2026-07-29] 1.0mm 48kmh 37C
+  [W-Ranipet-2026-07-30] 1.5mm 51kmh 36C
+  [W-Ranipet-2026-08-01] 12.3mm 39kmh 37C
+  [W-Ranipet-2026-08-04] 19.3mm 38kmh 34C
+  [W-Ranipet-2026-08-21] 12.1mm 35kmh 35C
+  [W-Ranipet-2026-08-24] 11.2mm 41kmh 34C
+  [W-Ranipet-2026-08-26] 3.2mm 45kmh 35C
+  [W-Ranipet-2026-09-03] 14.6mm 35kmh 37C
+
+[W-Salem] Salem: 60-day rain 164 mm, last 7 days 7 mm, max gust 49 km/h on 2026-07-29.
+  Jul 07-Jul 13: 10 mm, max gust 43 km/h
+  Jul 14-Jul 20: 10 mm, max gust 42 km/h
+  Jul 21-Jul 27: 3 mm, max gust 40 km/h
+  Jul 28-Aug 03: 35 mm, max gust 49 km/h
+  Aug 04-Aug 10: 34 mm, max gust 48 km/h
+  Aug 11-Aug 17: 19 mm, max gust 40 km/h
+  Aug 18-Aug 24: 39 mm, max gust 47 km/h
+  Aug 25-Aug 31: 9 mm, max gust 42 km/h
+  Sep 01-Sep 04: 6 mm, max gust 30 km/h
+  [W-Salem-2026-07-29] 2.3mm 49kmh 35C
+  [W-Salem-2026-08-01] 10.8mm 41kmh 34C
+  [W-Salem-2026-08-03] 12.9mm 40kmh 33C
+  [W-Salem-2026-08-04] 13.6mm 48kmh 34C
+  [W-Salem-2026-08-20] 8.4mm 47kmh 33C
+
+[W-Sivaganga] Sivaganga: 60-day rain 83 mm, last 7 days 4 mm, max gust 53 km/h on 2026-08-01.
+  Jul 07-Jul 13: 5 mm, max gust 41 km/h
+  Jul 14-Jul 20: 3 mm, max gust 42 km/h
+  Jul 21-Jul 27: 6 mm, max gust 40 km/h
+  Jul 28-Aug 03: 15 mm, max gust 53 km/h
+  Aug 04-Aug 10: 31 mm, max gust 40 km/h
+  Aug 11-Aug 17: 7 mm, max gust 41 km/h
+  Aug 18-Aug 24: 7 mm, max gust 41 km/h
+  Aug 25-Aug 31: 5 mm, max gust 44 km/h
+  Sep 01-Sep 04: 4 mm, max gust 38 km/h
+  [W-Sivaganga-2026-07-28] 0.6mm 53kmh 38C
+  [W-Sivaganga-2026-07-29] 0.0mm 48kmh 37C
+  [W-Sivaganga-2026-08-01] 2.0mm 53kmh 37C
+
+[W-Tenkasi] Tenkasi: 60-day rain 201 mm, last 7 days 4 mm, max gust 82 km/h on 2026-08-01.
+  Jul 07-Jul 13: 6 mm, max gust 68 km/h
+  Jul 14-Jul 20: 8 mm, max gust 64 km/h
+  Jul 21-Jul 27: 6 mm, max gust 72 km/h
+  Jul 28-Aug 03: 96 mm, max gust 82 km/h
+  Aug 04-Aug 10: 37 mm, max gust 72 km/h
+  Aug 11-Aug 17: 20 mm, max gust 60 km/h
+  Aug 18-Aug 24: 12 mm, max gust 70 km/h
+  Aug 25-Aug 31: 15 mm, max gust 66 km/h
+  Sep 01-Sep 04: 1 mm, max gust 56 km/h
+  [W-Tenkasi-2026-07-07] 0.0mm 68kmh 34C
+  [W-Tenkasi-2026-07-08] 0.0mm 62kmh 34C
+  [W-Tenkasi-2026-07-09] 0.7mm 64kmh 31C
+  [W-Tenkasi-2026-07-10] 2.7mm 55kmh 29C
+  [W-Tenkasi-2026-07-11] 2.0mm 57kmh 30C
+  [W-Tenkasi-2026-07-12] 0.9mm 66kmh 32C
+  [W-Tenkasi-2026-07-13] 0.1mm 64kmh 32C
+  [W-Tenkasi-2026-07-14] 0.0mm 64kmh 32C
+  [W-Tenkasi-2026-07-15] 0.0mm 63kmh 32C
+  [W-Tenkasi-2026-07-16] 0.0mm 59kmh 32C
+  [W-Tenkasi-2026-07-17] 2.4mm 57kmh 31C
+  [W-Tenkasi-2026-07-18] 1.7mm 61kmh 31C
+  [W-Tenkasi-2026-07-19] 1.0mm 60kmh 32C
+  [W-Tenkasi-2026-07-20] 2.8mm 58kmh 30C
+  [W-Tenkasi-2026-07-21] 0.2mm 55kmh 33C
+  [W-Tenkasi-2026-07-22] 0.5mm 58kmh 33C
+  [W-Tenkasi-2026-07-23] 0.8mm 55kmh 32C
+  [W-Tenkasi-2026-07-24] 0.0mm 63kmh 33C
+  [W-Tenkasi-2026-07-25] 0.0mm 61kmh 34C
+  [W-Tenkasi-2026-07-26] 0.3mm 72kmh 33C
+  [W-Tenkasi-2026-07-27] 3.7mm 65kmh 31C
+  [W-Tenkasi-2026-07-28] 6.1mm 58kmh 30C
+  [W-Tenkasi-2026-07-29] 4.9mm 82kmh 31C
+  [W-Tenkasi-2026-07-30] 5.3mm 73kmh 31C
+  [W-Tenkasi-2026-07-31] 3.2mm 64kmh 31C
+  [W-Tenkasi-2026-08-01] 49.4mm 82kmh 27C
+  [W-Tenkasi-2026-08-02] 10.1mm 74kmh 28C
+  [W-Tenkasi-2026-08-03] 16.7mm 60kmh 28C
+  [W-Tenkasi-2026-08-04] 11.4mm 63kmh 27C
+  [W-Tenkasi-2026-08-05] 0.9mm 66kmh 29C
+  [W-Tenkasi-2026-08-06] 7.5mm 54kmh 26C
+  [W-Tenkasi-2026-08-07] 5.1mm 63kmh 28C
+  [W-Tenkasi-2026-08-08] 7.4mm 72kmh 27C
+  [W-Tenkasi-2026-08-09] 2.4mm 60kmh 30C
+  [W-Tenkasi-2026-08-10] 1.9mm 59kmh 30C
+  [W-Tenkasi-2026-08-11] 2.9mm 58kmh 30C
+  [W-Tenkasi-2026-08-12] 0.8mm 60kmh 30C
+  [W-Tenkasi-2026-08-13] 2.8mm 60kmh 29C
+  [W-Tenkasi-2026-08-14] 3.2mm 56kmh 30C
+  [W-Tenkasi-2026-08-15] 2.9mm 53kmh 30C
+  [W-Tenkasi-2026-08-16] 4.4mm 49kmh 29C
+  [W-Tenkasi-2026-08-17] 3.4mm 57kmh 30C
+  [W-Tenkasi-2026-08-18] 0.1mm 58kmh 31C
+  [W-Tenkasi-2026-08-19] 1.7mm 58kmh 31C
+  [W-Tenkasi-2026-08-20] 1.0mm 59kmh 31C
+  [W-Tenkasi-2026-08-21] 0.0mm 59kmh 30C
+  [W-Tenkasi-2026-08-22] 0.8mm 70kmh 30C
+  [W-Tenkasi-2026-08-23] 3.1mm 64kmh 29C
+  [W-Tenkasi-2026-08-24] 5.2mm 56kmh 28C
+  [W-Tenkasi-2026-08-25] 5.0mm 59kmh 28C
+  [W-Tenkasi-2026-08-26] 3.3mm 59kmh 27C
+  [W-Tenkasi-2026-08-27] 3.7mm 53kmh 27C
+  [W-Tenkasi-2026-08-28] 0.4mm 62kmh 31C
+  [W-Tenkasi-2026-08-29] 0.5mm 66kmh 30C
+  [W-Tenkasi-2026-08-30] 2.1mm 59kmh 30C
+  [W-Tenkasi-2026-08-31] 0.0mm 56kmh 31C
+  [W-Tenkasi-2026-09-01] 0.0mm 56kmh 32C
+  [W-Tenkasi-2026-09-02] 0.1mm 55kmh 32C
+  [W-Tenkasi-2026-09-03] 0.7mm 54kmh 32C
+  [W-Tenkasi-2026-09-04] 0.4mm 53kmh 33C
+
+[W-Thanjavur] Thanjavur: 60-day rain 64 mm, last 7 days 1 mm, max gust 58 km/h on 2026-08-07.
+  Jul 07-Jul 13: 5 mm, max gust 56 km/h
+  Jul 14-Jul 20: 2 mm, max gust 54 km/h
+  Jul 21-Jul 27: 2 mm, max gust 52 km/h
+  Jul 28-Aug 03: 20 mm, max gust 56 km/h
+  Aug 04-Aug 10: 14 mm, max gust 58 km/h
+  Aug 11-Aug 17: 5 mm, max gust 43 km/h
+  Aug 18-Aug 24: 10 mm, max gust 48 km/h
+  Aug 25-Aug 31: 3 mm, max gust 47 km/h
+  Sep 01-Sep 04: 1 mm, max gust 40 km/h
+  [W-Thanjavur-2026-07-07] 0.0mm 56kmh 39C
+  [W-Thanjavur-2026-07-08] 0.2mm 50kmh 39C
+  [W-Thanjavur-2026-07-09] 1.3mm 45kmh 36C
+  [W-Thanjavur-2026-07-10] 3.7mm 46kmh 36C
+  [W-Thanjavur-2026-07-12] 0.0mm 49kmh 37C
+  [W-Thanjavur-2026-07-17] 0.8mm 54kmh 35C
+  [W-Thanjavur-2026-07-20] 0.3mm 46kmh 35C
+  [W-Thanjavur-2026-07-26] 0.0mm 48kmh 37C
+  [W-Thanjavur-2026-07-27] 0.9mm 52kmh 36C
+  [W-Thanjavur-2026-07-29] 0.4mm 56kmh 37C
+  [W-Thanjavur-2026-07-30] 2.2mm 53kmh 37C
+  [W-Thanjavur-2026-07-31] 5.3mm 45kmh 36C
+  [W-Thanjavur-2026-08-01] 5.6mm 55kmh 36C
+  [W-Thanjavur-2026-08-02] 1.8mm 49kmh 36C
+  [W-Thanjavur-2026-08-03] 4.2mm 47kmh 36C
+  [W-Thanjavur-2026-08-05] 1.2mm 48kmh 36C
+  [W-Thanjavur-2026-08-07] 1.7mm 58kmh 34C
+  [W-Thanjavur-2026-08-23] 3.7mm 45kmh 35C
+  [W-Thanjavur-2026-08-24] 0.8mm 48kmh 35C
+  [W-Thanjavur-2026-08-25] 0.1mm 46kmh 34C
+  [W-Thanjavur-2026-08-26] 1.3mm 47kmh 35C
+  [W-Thanjavur-2026-08-27] 1.1mm 46kmh 35C
+
+[W-Theni] Theni: 60-day rain 146 mm, last 7 days 3 mm, max gust 64 km/h on 2026-07-29.
+  Jul 07-Jul 13: 6 mm, max gust 48 km/h
+  Jul 14-Jul 20: 3 mm, max gust 40 km/h
+  Jul 21-Jul 27: 3 mm, max gust 46 km/h
+  Jul 28-Aug 03: 46 mm, max gust 64 km/h
+  Aug 04-Aug 10: 36 mm, max gust 33 km/h
+  Aug 11-Aug 17: 24 mm, max gust 40 km/h
+  Aug 18-Aug 24: 10 mm, max gust 42 km/h
+  Aug 25-Aug 31: 14 mm, max gust 46 km/h
+  Sep 01-Sep 04: 3 mm, max gust 33 km/h
+  [W-Theni-2026-07-07] 0.0mm 48kmh 38C
+  [W-Theni-2026-07-26] 1.3mm 46kmh 36C
+  [W-Theni-2026-07-28] 0.5mm 51kmh 36C
+  [W-Theni-2026-07-29] 0.0mm 64kmh 36C
+  [W-Theni-2026-07-30] 0.4mm 49kmh 37C
+  [W-Theni-2026-08-01] 26.0mm 52kmh 33C
+  [W-Theni-2026-08-03] 10.1mm 30kmh 33C
+  [W-Theni-2026-08-29] 0.2mm 46kmh 36C
+
+[W-TheNilgiris] The Nilgiris: 60-day rain 240 mm, last 7 days 18 mm, max gust 109 km/h on 2026-07-07.
+  Jul 07-Jul 13: 20 mm, max gust 109 km/h
+  Jul 14-Jul 20: 9 mm, max gust 46 km/h
+  Jul 21-Jul 27: 12 mm, max gust 38 km/h
+  Jul 28-Aug 03: 46 mm, max gust 56 km/h
+  Aug 04-Aug 10: 54 mm, max gust 52 km/h
+  Aug 11-Aug 17: 19 mm, max gust 40 km/h
+  Aug 18-Aug 24: 41 mm, max gust 38 km/h
+  Aug 25-Aug 31: 20 mm, max gust 43 km/h
+  Sep 01-Sep 04: 18 mm, max gust 29 km/h
+  [W-TheNilgiris-2026-07-07] 1.4mm 109kmh 16C
+  [W-TheNilgiris-2026-07-08] 0.8mm 102kmh 16C
+  [W-TheNilgiris-2026-07-09] 8.6mm 60kmh 19C
+  [W-TheNilgiris-2026-07-18] 0.6mm 46kmh 18C
+  [W-TheNilgiris-2026-07-29] 1.1mm 56kmh 20C
+  [W-TheNilgiris-2026-07-30] 0.3mm 55kmh 20C
+  [W-TheNilgiris-2026-07-31] 3.4mm 48kmh 19C
+  [W-TheNilgiris-2026-08-01] 30.3mm 51kmh 16C
+  [W-TheNilgiris-2026-08-02] 4.5mm 47kmh 18C
+  [W-TheNilgiris-2026-08-04] 20.4mm 38kmh 18C
+  [W-TheNilgiris-2026-08-05] 4.9mm 45kmh 17C
+  [W-TheNilgiris-2026-08-07] 18.8mm 52kmh 18C
+  [W-TheNilgiris-2026-08-08] 2.4mm 49kmh 20C
+  [W-TheNilgiris-2026-08-13] 11.5mm 40kmh 19C
+  [W-TheNilgiris-2026-08-22] 12.5mm 38kmh 19C
+  [W-TheNilgiris-2026-08-25] 14.3mm 36kmh 19C
+
+[W-Thoothukudi] Thoothukudi: 60-day rain 107 mm, last 7 days 4 mm, max gust 70 km/h on 2026-08-07.
+  Jul 07-Jul 13: 13 mm, max gust 65 km/h
+  Jul 14-Jul 20: 7 mm, max gust 60 km/h
+  Jul 21-Jul 27: 7 mm, max gust 69 km/h
+  Jul 28-Aug 03: 26 mm, max gust 67 km/h
+  Aug 04-Aug 10: 10 mm, max gust 70 km/h
+  Aug 11-Aug 17: 18 mm, max gust 57 km/h
+  Aug 18-Aug 24: 12 mm, max gust 64 km/h
+  Aug 25-Aug 31: 10 mm, max gust 66 km/h
+  Sep 01-Sep 04: 4 mm, max gust 53 km/h
+  [W-Thoothukudi-2026-07-07] 0.0mm 60kmh 38C
+  [W-Thoothukudi-2026-07-08] 0.0mm 58kmh 38C
+  [W-Thoothukudi-2026-07-09] 0.4mm 61kmh 38C
+  [W-Thoothukudi-2026-07-10] 5.7mm 56kmh 36C
+  [W-Thoothukudi-2026-07-11] 7.3mm 51kmh 37C
+  [W-Thoothukudi-2026-07-12] 0.0mm 65kmh 39C
+  [W-Thoothukudi-2026-07-14] 0.0mm 49kmh 39C
+  [W-Thoothukudi-2026-07-16] 0.0mm 47kmh 36C
+  [W-Thoothukudi-2026-07-18] 0.9mm 59kmh 38C
+  [W-Thoothukudi-2026-07-19] 4.2mm 49kmh 36C
+  [W-Thoothukudi-2026-07-20] 0.3mm 60kmh 37C
+  [W-Thoothukudi-2026-07-21] 0.0mm 47kmh 40C
+  [W-Thoothukudi-2026-07-22] 1.1mm 53kmh 36C
+  [W-Thoothukudi-2026-07-25] 0.0mm 50kmh 37C
+  [W-Thoothukudi-2026-07-26] 0.0mm 69kmh 39C
+  [W-Thoothukudi-2026-07-27] 0.0mm 66kmh 39C
+  [W-Thoothukudi-2026-07-28] 2.1mm 50kmh 38C
+  [W-Thoothukudi-2026-07-29] 0.0mm 64kmh 38C
+  [W-Thoothukudi-2026-07-30] 0.1mm 66kmh 38C
+  [W-Thoothukudi-2026-07-31] 3.7mm 67kmh 39C
+  [W-Thoothukudi-2026-08-01] 14.2mm 63kmh 33C
+  [W-Thoothukudi-2026-08-02] 0.0mm 62kmh 34C
+  [W-Thoothukudi-2026-08-03] 6.1mm 64kmh 34C
+  [W-Thoothukudi-2026-08-04] 1.6mm 66kmh 36C
+  [W-Thoothukudi-2026-08-05] 0.5mm 63kmh 36C
+  [W-Thoothukudi-2026-08-06] 1.5mm 56kmh 36C
+  [W-Thoothukudi-2026-08-07] 0.2mm 70kmh 35C
+  [W-Thoothukudi-2026-08-08] 1.1mm 68kmh 36C
+  [W-Thoothukudi-2026-08-09] 1.4mm 58kmh 38C
+  [W-Thoothukudi-2026-08-10] 3.5mm 45kmh 36C
+  [W-Thoothukudi-2026-08-11] 2.2mm 49kmh 36C
+  [W-Thoothukudi-2026-08-12] 2.0mm 51kmh 38C
+  [W-Thoothukudi-2026-08-13] 4.7mm 57kmh 38C
+  [W-Thoothukudi-2026-08-14] 6.7mm 54kmh 38C
+  [W-Thoothukudi-2026-08-15] 0.2mm 54kmh 38C
+  [W-Thoothukudi-2026-08-17] 0.0mm 56kmh 39C
+  [W-Thoothukudi-2026-08-18] 0.7mm 50kmh 38C
+  [W-Thoothukudi-2026-08-19] 3.4mm 51kmh 38C
+  [W-Thoothukudi-2026-08-20] 3.3mm 55kmh 36C
+  [W-Thoothukudi-2026-08-21] 0.0mm 64kmh 38C
+  [W-Thoothukudi-2026-08-22] 0.0mm 59kmh 38C
+  [W-Thoothukudi-2026-08-23] 0.3mm 62kmh 38C
+  [W-Thoothukudi-2026-08-24] 4.2mm 60kmh 38C
+  [W-Thoothukudi-2026-08-25] 0.9mm 55kmh 37C
+  [W-Thoothukudi-2026-08-26] 1.6mm 48kmh 37C
+  [W-Thoothukudi-2026-08-27] 6.9mm 52kmh 37C
+  [W-Thoothukudi-2026-08-28] 0.0mm 66kmh 40C
+  [W-Thoothukudi-2026-08-29] 0.0mm 58kmh 39C
+  [W-Thoothukudi-2026-08-30] 0.2mm 66kmh 39C
+  [W-Thoothukudi-2026-08-31] 0.5mm 48kmh 38C
+  [W-Thoothukudi-2026-09-01] 0.5mm 50kmh 37C
+  [W-Thoothukudi-2026-09-02] 0.5mm 49kmh 37C
+  [W-Thoothukudi-2026-09-03] 2.0mm 49kmh 36C
+  [W-Thoothukudi-2026-09-04] 0.5mm 53kmh 36C
+
+[W-Tiruchirappalli] Tiruchirappalli: 60-day rain 94 mm, last 7 days 8 mm, max gust 73 km/h on 2026-08-07.
+  Jul 07-Jul 13: 8 mm, max gust 62 km/h
+  Jul 14-Jul 20: 9 mm, max gust 63 km/h
+  Jul 21-Jul 27: 4 mm, max gust 60 km/h
+  Jul 28-Aug 03: 10 mm, max gust 72 km/h
+  Aug 04-Aug 10: 18 mm, max gust 73 km/h
+  Aug 11-Aug 17: 8 mm, max gust 56 km/h
+  Aug 18-Aug 24: 25 mm, max gust 57 km/h
+  Aug 25-Aug 31: 5 mm, max gust 57 km/h
+  Sep 01-Sep 04: 8 mm, max gust 39 km/h
+  [W-Tiruchirappalli-2026-07-07] 0.0mm 62kmh 38C
+  [W-Tiruchirappalli-2026-07-08] 0.1mm 50kmh 38C
+  [W-Tiruchirappalli-2026-07-09] 0.3mm 54kmh 38C
+  [W-Tiruchirappalli-2026-07-10] 5.6mm 54kmh 37C
+  [W-Tiruchirappalli-2026-07-11] 1.8mm 48kmh 37C
+  [W-Tiruchirappalli-2026-07-12] 0.0mm 56kmh 38C
+  [W-Tiruchirappalli-2026-07-13] 0.0mm 50kmh 39C
+  [W-Tiruchirappalli-2026-07-14] 0.0mm 46kmh 40C
+  [W-Tiruchirappalli-2026-07-15] 0.0mm 47kmh 39C
+  [W-Tiruchirappalli-2026-07-16] 0.4mm 46kmh 38C
+  [W-Tiruchirappalli-2026-07-17] 0.4mm 63kmh 36C
+  [W-Tiruchirappalli-2026-07-18] 0.7mm 48kmh 37C
+  [W-Tiruchirappalli-2026-07-20] 0.0mm 56kmh 35C
+  [W-Tiruchirappalli-2026-07-21] 0.4mm 47kmh 38C
+  [W-Tiruchirappalli-2026-07-26] 0.0mm 60kmh 38C
+  [W-Tiruchirappalli-2026-07-27] 0.2mm 59kmh 38C
+  [W-Tiruchirappalli-2026-07-28] 0.6mm 56kmh 38C
+  [W-Tiruchirappalli-2026-07-29] 0.7mm 72kmh 38C
+  [W-Tiruchirappalli-2026-07-30] 1.2mm 68kmh 38C
+  [W-Tiruchirappalli-2026-07-31] 3.9mm 63kmh 39C
+  [W-Tiruchirappalli-2026-08-01] 1.0mm 66kmh 37C
+  [W-Tiruchirappalli-2026-08-02] 1.6mm 56kmh 36C
+  [W-Tiruchirappalli-2026-08-03] 0.5mm 55kmh 37C
+  [W-Tiruchirappalli-2026-08-04] 0.9mm 53kmh 37C
+  [W-Tiruchirappalli-2026-08-05] 1.2mm 56kmh 38C
+  [W-Tiruchirappalli-2026-08-06] 3.2mm 56kmh 37C
+  [W-Tiruchirappalli-2026-08-07] 1.1mm 73kmh 35C
+  [W-Tiruchirappalli-2026-08-08] 0.9mm 56kmh 38C
+  [W-Tiruchirappalli-2026-08-09] 5.6mm 52kmh 39C
+  [W-Tiruchirappalli-2026-08-10] 5.3mm 45kmh 40C
+  [W-Tiruchirappalli-2026-08-11] 0.3mm 56kmh 36C
+  [W-Tiruchirappalli-2026-08-12] 2.3mm 45kmh 38C
+  [W-Tiruchirappalli-2026-08-13] 2.2mm 47kmh 37C
+  [W-Tiruchirappalli-2026-08-14] 1.2mm 51kmh 37C
+  [W-Tiruchirappalli-2026-08-15] 0.4mm 48kmh 37C
+  [W-Tiruchirappalli-2026-08-16] 1.2mm 49kmh 39C
+  [W-Tiruchirappalli-2026-08-17] 0.1mm 50kmh 38C
+  [W-Tiruchirappalli-2026-08-19] 6.7mm 48kmh 37C
+  [W-Tiruchirappalli-2026-08-20] 10.6mm 41kmh 36C
+  [W-Tiruchirappalli-2026-08-22] 1.7mm 52kmh 36C
+  [W-Tiruchirappalli-2026-08-23] 2.9mm 45kmh 36C
+  [W-Tiruchirappalli-2026-08-24] 2.0mm 57kmh 35C
+  [W-Tiruchirappalli-2026-08-25] 0.1mm 57kmh 34C
+  [W-Tiruchirappalli-2026-08-26] 1.6mm 53kmh 35C
+  [W-Tiruchirappalli-2026-08-27] 2.7mm 52kmh 37C
+  [W-Tiruchirappalli-2026-08-28] 0.0mm 48kmh 38C
+  [W-Tiruchirappalli-2026-08-29] 0.0mm 53kmh 37C
+  [W-Tiruchirappalli-2026-08-30] 0.0mm 49kmh 37C
+  [W-Tiruchirappalli-2026-08-31] 0.4mm 48kmh 38C
+
+[W-Tirunelveli] Tirunelveli: 60-day rain 93 mm, last 7 days 10 mm, max gust 65 km/h on 2026-07-07.
+  Jul 07-Jul 13: 5 mm, max gust 65 km/h
+  Jul 14-Jul 20: 3 mm, max gust 54 km/h
+  Jul 21-Jul 27: 1 mm, max gust 56 km/h
+  Jul 28-Aug 03: 37 mm, max gust 57 km/h
+  Aug 04-Aug 10: 10 mm, max gust 54 km/h
+  Aug 11-Aug 17: 16 mm, max gust 49 km/h
+  Aug 18-Aug 24: 7 mm, max gust 58 km/h
+  Aug 25-Aug 31: 4 mm, max gust 55 km/h
+  Sep 01-Sep 04: 9 mm, max gust 44 km/h
+  [W-Tirunelveli-2026-07-07] 0.0mm 65kmh 37C
+  [W-Tirunelveli-2026-07-08] 0.0mm 62kmh 37C
+  [W-Tirunelveli-2026-07-09] 0.7mm 49kmh 38C
+  [W-Tirunelveli-2026-07-11] 0.4mm 49kmh 37C
+  [W-Tirunelveli-2026-07-12] 0.0mm 46kmh 38C
+  [W-Tirunelveli-2026-07-15] 0.0mm 45kmh 39C
+  [W-Tirunelveli-2026-07-17] 0.3mm 46kmh 38C
+  [W-Tirunelveli-2026-07-18] 0.4mm 54kmh 37C
+  [W-Tirunelveli-2026-07-19] 0.9mm 49kmh 39C
+  [W-Tirunelveli-2026-07-21] 0.0mm 46kmh 38C
+  [W-Tirunelveli-2026-07-22] 0.0mm 51kmh 40C
+  [W-Tirunelveli-2026-07-24] 0.0mm 46kmh 39C
+  [W-Tirunelveli-2026-07-25] 0.0mm 48kmh 40C
+  [W-Tirunelveli-2026-07-26] 0.1mm 51kmh 38C
+  [W-Tirunelveli-2026-07-27] 0.1mm 56kmh 37C
+  [W-Tirunelveli-2026-07-28] 0.3mm 46kmh 37C
+  [W-Tirunelveli-2026-07-29] 0.0mm 57kmh 36C
+  [W-Tirunelveli-2026-07-30] 0.0mm 55kmh 36C
+  [W-Tirunelveli-2026-07-31] 15.4mm 56kmh 38C
+  [W-Tirunelveli-2026-08-01] 18.2mm 49kmh 33C
+  [W-Tirunelveli-2026-08-04] 0.1mm 54kmh 33C
+  [W-Tirunelveli-2026-08-05] 0.0mm 54kmh 34C
+  [W-Tirunelveli-2026-08-06] 3.1mm 50kmh 34C
+  [W-Tirunelveli-2026-08-07] 1.4mm 47kmh 34C
+  [W-Tirunelveli-2026-08-08] 2.7mm 53kmh 35C
+  [W-Tirunelveli-2026-08-09] 0.4mm 53kmh 36C
+  [W-Tirunelveli-2026-08-10] 2.8mm 49kmh 39C
+  [W-Tirunelveli-2026-08-12] 0.9mm 47kmh 38C
+  [W-Tirunelveli-2026-08-13] 2.6mm 48kmh 37C
+  [W-Tirunelveli-2026-08-15] 0.0mm 49kmh 37C
+  [W-Tirunelveli-2026-08-16] 0.1mm 47kmh 38C
+  [W-Tirunelveli-2026-08-19] 2.9mm 49kmh 38C
+  [W-Tirunelveli-2026-08-20] 0.4mm 49kmh 38C
+  [W-Tirunelveli-2026-08-21] 0.1mm 47kmh 37C
+  [W-Tirunelveli-2026-08-22] 0.1mm 58kmh 36C
+  [W-Tirunelveli-2026-08-23] 0.2mm 52kmh 37C
+  [W-Tirunelveli-2026-08-24] 2.9mm 49kmh 36C
+  [W-Tirunelveli-2026-08-28] 0.0mm 48kmh 39C
+  [W-Tirunelveli-2026-08-29] 0.0mm 52kmh 38C
+  [W-Tirunelveli-2026-08-30] 0.4mm 52kmh 38C
+  [W-Tirunelveli-2026-08-31] 0.0mm 55kmh 38C
+
+[W-Tirupathur] Tirupathur: 60-day rain 197 mm, last 7 days 15 mm, max gust 63 km/h on 2026-07-07.
+  Jul 07-Jul 13: 8 mm, max gust 63 km/h
+  Jul 14-Jul 20: 5 mm, max gust 46 km/h
+  Jul 21-Jul 27: 6 mm, max gust 45 km/h
+  Jul 28-Aug 03: 31 mm, max gust 59 km/h
+  Aug 04-Aug 10: 60 mm, max gust 52 km/h
+  Aug 11-Aug 17: 16 mm, max gust 42 km/h
+  Aug 18-Aug 24: 47 mm, max gust 50 km/h
+  Aug 25-Aug 31: 11 mm, max gust 51 km/h
+  Sep 01-Sep 04: 13 mm, max gust 37 km/h
+  [W-Tirupathur-2026-07-07] 0.0mm 63kmh 35C
+  [W-Tirupathur-2026-07-08] 0.2mm 54kmh 35C
+  [W-Tirupathur-2026-07-18] 2.8mm 46kmh 33C
+  [W-Tirupathur-2026-07-20] 0.3mm 45kmh 34C
+  [W-Tirupathur-2026-07-27] 0.6mm 45kmh 35C
+  [W-Tirupathur-2026-07-28] 2.3mm 59kmh 35C
+  [W-Tirupathur-2026-07-29] 1.1mm 53kmh 35C
+  [W-Tirupathur-2026-07-30] 0.9mm 51kmh 35C
+  [W-Tirupathur-2026-07-31] 1.5mm 48kmh 35C
+  [W-Tirupathur-2026-08-01] 10.7mm 52kmh 36C
+  [W-Tirupathur-2026-08-02] 7.9mm 46kmh 34C
+  [W-Tirupathur-2026-08-03] 6.2mm 47kmh 34C
+  [W-Tirupathur-2026-08-04] 18.5mm 45kmh 33C
+  [W-Tirupathur-2026-08-05] 0.6mm 45kmh 33C
+  [W-Tirupathur-2026-08-06] 17.0mm 44kmh 32C
+  [W-Tirupathur-2026-08-07] 11.0mm 52kmh 31C
+  [W-Tirupathur-2026-08-10] 10.7mm 36kmh 34C
+  [W-Tirupathur-2026-08-23] 13.9mm 41kmh 34C
+  [W-Tirupathur-2026-08-24] 8.0mm 50kmh 31C
+  [W-Tirupathur-2026-08-25] 4.2mm 51kmh 32C
+  [W-Tirupathur-2026-08-29] 0.3mm 47kmh 34C
+  [W-Tirupathur-2026-08-30] 2.2mm 45kmh 34C
+
+[W-Tiruppur] Tiruppur: 60-day rain 117 mm, last 7 days 6 mm, max gust 68 km/h on 2026-07-07.
+  Jul 07-Jul 13: 10 mm, max gust 68 km/h
+  Jul 14-Jul 20: 6 mm, max gust 58 km/h
+  Jul 21-Jul 27: 11 mm, max gust 64 km/h
+  Jul 28-Aug 03: 25 mm, max gust 67 km/h
+  Aug 04-Aug 10: 22 mm, max gust 59 km/h
+  Aug 11-Aug 17: 11 mm, max gust 61 km/h
+  Aug 18-Aug 24: 16 mm, max gust 62 km/h
+  Aug 25-Aug 31: 13 mm, max gust 62 km/h
+  Sep 01-Sep 04: 3 mm, max gust 48 km/h
+  [W-Tiruppur-2026-07-07] 0.0mm 68kmh 34C
+  [W-Tiruppur-2026-07-08] 0.4mm 53kmh 32C
+  [W-Tiruppur-2026-07-09] 1.3mm 51kmh 34C
+  [W-Tiruppur-2026-07-11] 1.0mm 50kmh 35C
+  [W-Tiruppur-2026-07-12] 0.1mm 62kmh 35C
+  [W-Tiruppur-2026-07-13] 0.3mm 57kmh 35C
+  [W-Tiruppur-2026-07-14] 0.0mm 58kmh 36C
+  [W-Tiruppur-2026-07-15] 0.0mm 54kmh 36C
+  [W-Tiruppur-2026-07-16] 0.0mm 58kmh 34C
+  [W-Tiruppur-2026-07-17] 0.2mm 54kmh 30C
+  [W-Tiruppur-2026-07-19] 1.1mm 48kmh 35C
+  [W-Tiruppur-2026-07-20] 3.7mm 55kmh 33C
+  [W-Tiruppur-2026-07-21] 0.1mm 57kmh 34C
+  [W-Tiruppur-2026-07-22] 1.3mm 52kmh 35C
+  [W-Tiruppur-2026-07-23] 0.0mm 58kmh 35C
+  [W-Tiruppur-2026-07-24] 6.0mm 46kmh 35C
+  [W-Tiruppur-2026-07-25] 1.2mm 49kmh 36C
+  [W-Tiruppur-2026-07-26] 0.0mm 64kmh 36C
+  [W-Tiruppur-2026-07-27] 2.4mm 58kmh 33C
+  [W-Tiruppur-2026-07-28] 1.0mm 64kmh 34C
+  [W-Tiruppur-2026-07-29] 0.2mm 67kmh 33C
+  [W-Tiruppur-2026-07-30] 1.7mm 65kmh 34C
+  [W-Tiruppur-2026-07-31] 3.4mm 56kmh 34C
+  [W-Tiruppur-2026-08-01] 16.3mm 65kmh 31C
+  [W-Tiruppur-2026-08-02] 0.1mm 49kmh 31C
+  [W-Tiruppur-2026-08-03] 1.8mm 52kmh 33C
+  [W-Tiruppur-2026-08-04] 5.5mm 50kmh 34C
+  [W-Tiruppur-2026-08-05] 4.4mm 46kmh 34C
+  [W-Tiruppur-2026-08-06] 5.6mm 55kmh 32C
+  [W-Tiruppur-2026-08-07] 1.9mm 48kmh 31C
+  [W-Tiruppur-2026-08-08] 1.2mm 59kmh 34C
+  [W-Tiruppur-2026-08-09] 2.7mm 53kmh 35C
+  [W-Tiruppur-2026-08-10] 0.5mm 56kmh 35C
+  [W-Tiruppur-2026-08-11] 0.5mm 55kmh 36C
+  [W-Tiruppur-2026-08-12] 0.3mm 57kmh 35C
+  [W-Tiruppur-2026-08-13] 2.4mm 58kmh 34C
+  [W-Tiruppur-2026-08-14] 3.6mm 52kmh 35C
+  [W-Tiruppur-2026-08-15] 2.9mm 61kmh 34C
+  [W-Tiruppur-2026-08-16] 0.5mm 59kmh 34C
+  [W-Tiruppur-2026-08-17] 0.3mm 56kmh 34C
+  [W-Tiruppur-2026-08-18] 2.6mm 58kmh 35C
+  [W-Tiruppur-2026-08-19] 5.5mm 46kmh 36C
+  [W-Tiruppur-2026-08-20] 3.0mm 45kmh 35C
+  [W-Tiruppur-2026-08-21] 0.2mm 58kmh 34C
+  [W-Tiruppur-2026-08-22] 1.8mm 56kmh 34C
+  [W-Tiruppur-2026-08-23] 1.4mm 62kmh 35C
+  [W-Tiruppur-2026-08-24] 1.6mm 58kmh 33C
+  [W-Tiruppur-2026-08-25] 7.5mm 56kmh 31C
+  [W-Tiruppur-2026-08-26] 0.9mm 56kmh 32C
+  [W-Tiruppur-2026-08-27] 1.7mm 55kmh 33C
+  [W-Tiruppur-2026-08-28] 0.6mm 56kmh 33C
+  [W-Tiruppur-2026-08-29] 1.4mm 62kmh 32C
+  [W-Tiruppur-2026-08-30] 1.0mm 57kmh 34C
+  [W-Tiruppur-2026-08-31] 0.0mm 52kmh 35C
+  [W-Tiruppur-2026-09-01] 2.8mm 47kmh 37C
+  [W-Tiruppur-2026-09-02] 0.3mm 48kmh 36C
+  [W-Tiruppur-2026-09-03] 0.3mm 46kmh 36C
+
+[W-Tiruvallur] Tiruvallur: 60-day rain 190 mm, last 7 days 12 mm, max gust 52 km/h on 2026-07-30.
+  Jul 07-Jul 13: 4 mm, max gust 42 km/h
+  Jul 14-Jul 20: 44 mm, max gust 40 km/h
+  Jul 21-Jul 27: 20 mm, max gust 42 km/h
+  Jul 28-Aug 03: 36 mm, max gust 52 km/h
+  Aug 04-Aug 10: 29 mm, max gust 44 km/h
+  Aug 11-Aug 17: 7 mm, max gust 38 km/h
+  Aug 18-Aug 24: 32 mm, max gust 42 km/h
+  Aug 25-Aug 31: 11 mm, max gust 42 km/h
+  Sep 01-Sep 04: 7 mm, max gust 34 km/h
+  [W-Tiruvallur-2026-07-17] 10.1mm 33kmh 36C
+  [W-Tiruvallur-2026-07-18] 12.3mm 36kmh 34C
+  [W-Tiruvallur-2026-07-19] 12.3mm 30kmh 34C
+  [W-Tiruvallur-2026-07-28] 0.3mm 46kmh 36C
+  [W-Tiruvallur-2026-07-29] 3.4mm 45kmh 36C
+  [W-Tiruvallur-2026-07-30] 1.0mm 52kmh 36C
+  [W-Tiruvallur-2026-08-01] 19.7mm 37kmh 36C
+  [W-Tiruvallur-2026-08-24] 10.8mm 42kmh 33C
+
+[W-Tiruvannamalai] Tiruvannamalai: 60-day rain 179 mm, last 7 days 15 mm, max gust 58 km/h on 2026-07-30.
+  Jul 07-Jul 13: 5 mm, max gust 49 km/h
+  Jul 14-Jul 20: 8 mm, max gust 54 km/h
+  Jul 21-Jul 27: 7 mm, max gust 49 km/h
+  Jul 28-Aug 03: 28 mm, max gust 58 km/h
+  Aug 04-Aug 10: 54 mm, max gust 51 km/h
+  Aug 11-Aug 17: 15 mm, max gust 41 km/h
+  Aug 18-Aug 24: 41 mm, max gust 49 km/h
+  Aug 25-Aug 31: 10 mm, max gust 53 km/h
+  Sep 01-Sep 04: 12 mm, max gust 37 km/h
+  [W-Tiruvannamalai-2026-07-07] 0.0mm 49kmh 38C
+  [W-Tiruvannamalai-2026-07-08] 0.2mm 45kmh 38C
+  [W-Tiruvannamalai-2026-07-09] 0.8mm 46kmh 36C
+  [W-Tiruvannamalai-2026-07-13] 0.0mm 48kmh 37C
+  [W-Tiruvannamalai-2026-07-14] 0.0mm 47kmh 38C
+  [W-Tiruvannamalai-2026-07-17] 4.3mm 54kmh 35C
+  [W-Tiruvannamalai-2026-07-18] 1.2mm 49kmh 35C
+  [W-Tiruvannamalai-2026-07-22] 0.2mm 48kmh 36C
+  [W-Tiruvannamalai-2026-07-26] 0.9mm 49kmh 37C
+  [W-Tiruvannamalai-2026-07-27] 3.4mm 47kmh 37C
+  [W-Tiruvannamalai-2026-07-28] 0.8mm 48kmh 36C
+  [W-Tiruvannamalai-2026-07-29] 0.2mm 54kmh 36C
+  [W-Tiruvannamalai-2026-07-30] 0.6mm 58kmh 36C
+  [W-Tiruvannamalai-2026-07-31] 7.2mm 47kmh 37C
+  [W-Tiruvannamalai-2026-08-01] 3.7mm 45kmh 37C
+  [W-Tiruvannamalai-2026-08-02] 14.2mm 46kmh 35C
+  [W-Tiruvannamalai-2026-08-03] 1.8mm 55kmh 36C
+  [W-Tiruvannamalai-2026-08-04] 13.1mm 48kmh 35C
+  [W-Tiruvannamalai-2026-08-05] 0.2mm 48kmh 34C
+  [W-Tiruvannamalai-2026-08-07] 16.3mm 50kmh 34C
+  [W-Tiruvannamalai-2026-08-08] 1.1mm 49kmh 34C
+  [W-Tiruvannamalai-2026-08-10] 17.7mm 51kmh 36C
+  [W-Tiruvannamalai-2026-08-19] 20.1mm 33kmh 35C
+  [W-Tiruvannamalai-2026-08-20] 7.3mm 48kmh 35C
+  [W-Tiruvannamalai-2026-08-22] 0.6mm 49kmh 35C
+  [W-Tiruvannamalai-2026-08-24] 3.0mm 46kmh 33C
+  [W-Tiruvannamalai-2026-08-26] 4.1mm 47kmh 35C
+  [W-Tiruvannamalai-2026-08-28] 2.3mm 53kmh 36C
+  [W-Tiruvannamalai-2026-08-29] 1.7mm 46kmh 36C
+  [W-Tiruvannamalai-2026-08-30] 1.0mm 47kmh 36C
+  [W-Tiruvannamalai-2026-08-31] 0.0mm 47kmh 35C
+
+[W-Tiruvarur] Tiruvarur: 60-day rain 87 mm, last 7 days 1 mm, max gust 54 km/h on 2026-07-29.
+  Jul 07-Jul 13: 7 mm, max gust 45 km/h
+  Jul 14-Jul 20: 3 mm, max gust 46 km/h
+  Jul 21-Jul 27: 2 mm, max gust 53 km/h
+  Jul 28-Aug 03: 25 mm, max gust 54 km/h
+  Aug 04-Aug 10: 21 mm, max gust 49 km/h
+  Aug 11-Aug 17: 4 mm, max gust 42 km/h
+  Aug 18-Aug 24: 14 mm, max gust 42 km/h
+  Aug 25-Aug 31: 10 mm, max gust 46 km/h
+  Sep 01-Sep 04: 1 mm, max gust 36 km/h
+  [W-Tiruvarur-2026-07-07] 0.0mm 45kmh 39C
+  [W-Tiruvarur-2026-07-17] 2.0mm 46kmh 35C
+  [W-Tiruvarur-2026-07-20] 0.8mm 46kmh 35C
+  [W-Tiruvarur-2026-07-27] 1.0mm 53kmh 36C
+  [W-Tiruvarur-2026-07-28] 0.0mm 50kmh 36C
+  [W-Tiruvarur-2026-07-29] 0.7mm 54kmh 36C
+  [W-Tiruvarur-2026-08-01] 9.7mm 48kmh 37C
+  [W-Tiruvarur-2026-08-02] 7.6mm 46kmh 35C
+  [W-Tiruvarur-2026-08-06] 10.7mm 45kmh 35C
+  [W-Tiruvarur-2026-08-07] 6.0mm 49kmh 34C
+  [W-Tiruvarur-2026-08-20] 10.4mm 38kmh 35C
+  [W-Tiruvarur-2026-08-25] 2.5mm 46kmh 34C
+
+[W-Vellore] Vellore: 60-day rain 198 mm, last 7 days 28 mm, max gust 62 km/h on 2026-07-22.
+  Jul 07-Jul 13: 5 mm, max gust 51 km/h
+  Jul 14-Jul 20: 16 mm, max gust 46 km/h
+  Jul 21-Jul 27: 17 mm, max gust 62 km/h
+  Jul 28-Aug 03: 34 mm, max gust 55 km/h
+  Aug 04-Aug 10: 44 mm, max gust 49 km/h
+  Aug 11-Aug 17: 12 mm, max gust 44 km/h
+  Aug 18-Aug 24: 32 mm, max gust 48 km/h
+  Aug 25-Aug 31: 11 mm, max gust 53 km/h
+  Sep 01-Sep 04: 27 mm, max gust 39 km/h
+  [W-Vellore-2026-07-07] 0.1mm 51kmh 38C
+  [W-Vellore-2026-07-08] 0.4mm 48kmh 39C
+  [W-Vellore-2026-07-17] 8.4mm 46kmh 37C
+  [W-Vellore-2026-07-22] 7.5mm 62kmh 36C
+  [W-Vellore-2026-07-28] 1.8mm 50kmh 36C
+  [W-Vellore-2026-07-29] 1.8mm 55kmh 36C
+  [W-Vellore-2026-07-30] 1.6mm 55kmh 36C
+  [W-Vellore-2026-07-31] 1.8mm 45kmh 36C
+  [W-Vellore-2026-08-01] 13.9mm 41kmh 36C
+  [W-Vellore-2026-08-03] 5.7mm 49kmh 35C
+  [W-Vellore-2026-08-04] 16.2mm 42kmh 34C
+  [W-Vellore-2026-08-06] 11.6mm 47kmh 33C
+  [W-Vellore-2026-08-07] 2.9mm 49kmh 33C
+  [W-Vellore-2026-08-20] 4.5mm 48kmh 36C
+  [W-Vellore-2026-08-22] 0.1mm 46kmh 34C
+  [W-Vellore-2026-08-26] 4.1mm 46kmh 36C
+  [W-Vellore-2026-08-27] 1.0mm 47kmh 36C
+  [W-Vellore-2026-08-28] 0.1mm 47kmh 37C
+  [W-Vellore-2026-08-29] 0.3mm 53kmh 37C
+  [W-Vellore-2026-08-30] 0.7mm 49kmh 37C
+  [W-Vellore-2026-08-31] 0.3mm 50kmh 36C
+  [W-Vellore-2026-09-03] 11.4mm 39kmh 38C
+  [W-Vellore-2026-09-04] 13.1mm 36kmh 36C
+
+[W-Viluppuram] Viluppuram: 60-day rain 181 mm, last 7 days 18 mm, max gust 50 km/h on 2026-08-23.
+  Jul 07-Jul 13: 5 mm, max gust 40 km/h
+  Jul 14-Jul 20: 8 mm, max gust 40 km/h
+  Jul 21-Jul 27: 6 mm, max gust 37 km/h
+  Jul 28-Aug 03: 20 mm, max gust 47 km/h
+  Aug 04-Aug 10: 58 mm, max gust 45 km/h
+  Aug 11-Aug 17: 11 mm, max gust 40 km/h
+  Aug 18-Aug 24: 49 mm, max gust 50 km/h
+  Aug 25-Aug 31: 8 mm, max gust 37 km/h
+  Sep 01-Sep 04: 17 mm, max gust 33 km/h
+  [W-Viluppuram-2026-08-02] 3.4mm 47kmh 34C
+  [W-Viluppuram-2026-08-10] 31.8mm 45kmh 34C
+  [W-Viluppuram-2026-08-18] 21.3mm 31kmh 35C
+  [W-Viluppuram-2026-08-20] 10.0mm 33kmh 34C
+  [W-Viluppuram-2026-08-23] 4.0mm 50kmh 34C
+  [W-Viluppuram-2026-09-02] 12.8mm 33kmh 35C
+
+[W-Virudhunagar] Virudhunagar: 60-day rain 117 mm, last 7 days 5 mm, max gust 67 km/h on 2026-07-07.
+  Jul 07-Jul 13: 8 mm, max gust 67 km/h
+  Jul 14-Jul 20: 4 mm, max gust 42 km/h
+  Jul 21-Jul 27: 3 mm, max gust 51 km/h
+  Jul 28-Aug 03: 12 mm, max gust 52 km/h
+  Aug 04-Aug 10: 15 mm, max gust 55 km/h
+  Aug 11-Aug 17: 42 mm, max gust 48 km/h
+  Aug 18-Aug 24: 24 mm, max gust 43 km/h
+  Aug 25-Aug 31: 5 mm, max gust 45 km/h
+  Sep 01-Sep 04: 5 mm, max gust 54 km/h
+  [W-Virudhunagar-2026-07-07] 0.0mm 67kmh 38C
+  [W-Virudhunagar-2026-07-08] 0.0mm 47kmh 38C
+  [W-Virudhunagar-2026-07-22] 0.9mm 51kmh 41C
+  [W-Virudhunagar-2026-07-26] 0.0mm 49kmh 41C
+  [W-Virudhunagar-2026-07-29] 0.2mm 49kmh 39C
+  [W-Virudhunagar-2026-07-30] 0.6mm 48kmh 39C
+  [W-Virudhunagar-2026-07-31] 4.7mm 48kmh 39C
+  [W-Virudhunagar-2026-08-01] 2.4mm 52kmh 37C
+  [W-Virudhunagar-2026-08-02] 2.5mm 47kmh 35C
+  [W-Virudhunagar-2026-08-03] 0.9mm 49kmh 38C
+  [W-Virudhunagar-2026-08-04] 3.2mm 46kmh 38C
+  [W-Virudhunagar-2026-08-05] 4.7mm 50kmh 38C
+  [W-Virudhunagar-2026-08-07] 0.3mm 55kmh 35C
+  [W-Virudhunagar-2026-08-08] 0.4mm 50kmh 38C
+  [W-Virudhunagar-2026-08-09] 2.0mm 49kmh 40C
+  [W-Virudhunagar-2026-08-11] 16.3mm 30kmh 39C
+  [W-Virudhunagar-2026-08-12] 1.4mm 48kmh 40C
+  [W-Virudhunagar-2026-08-14] 18.5mm 31kmh 37C
+  [W-Virudhunagar-2026-08-19] 10.5mm 36kmh 38C
+  [W-Virudhunagar-2026-08-24] 10.1mm 40kmh 37C
+  [W-Virudhunagar-2026-08-28] 0.1mm 45kmh 40C
+  [W-Virudhunagar-2026-08-30] 0.0mm 45kmh 39C
+  [W-Virudhunagar-2026-09-01] 0.6mm 54kmh 40C
+  [W-Virudhunagar-2026-09-02] 0.4mm 50kmh 41C
+  [W-Virudhunagar-2026-09-03] 2.8mm 52kmh 40C
+
+Disaster alerts (GDACS, India, same window):
+[D-1104121] Flood Orange Flood in India 2026-08-09 to 2026-09-02 (no Tamil Nadu district within 300 km)

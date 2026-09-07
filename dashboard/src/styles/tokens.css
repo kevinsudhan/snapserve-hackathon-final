@@ -1,0 +1,171 @@
+/* ------------------------------------------------------------------ *
+ * Araxys Desk design tokens — a control-room palette, dark and light.
+ * Every colour is declared here once, on :root, and re-declared for
+ * [data-theme='light'].  Components never use raw hex.
+ * ------------------------------------------------------------------ *
+ *
+ * WHY THE LIGHT THEME WAS REBUILT
+ *
+ * It read as soft — everything present but nothing defined. Four causes,
+ * all of them here rather than in any component:
+ *
+ *   1. --surface-1 and --surface-2 were both #ffffff. The .panel rule
+ *      gradients from one to the other, so panels rendered as flat white
+ *      with no top-to-bottom fall at all. The layering existed in the
+ *      stylesheet and never reached the screen.
+ *   2. --line sat at 9% black. A hairline that faint on white is at the
+ *      edge of what a monitor will show, so cards had no visible boundary
+ *      and the interface became one continuous sheet.
+ *   3. Panels are white and the canvas behind them was #f5f7fa. Four
+ *      percent of separation, carrying a shadow soft enough to vanish, is
+ *      not enough for a card to sit above anything.
+ *   4. .eyebrow — every section label and field caption in the product —
+ *      is 11px uppercase, the hardest thing to read at any contrast, and
+ *      it was painted in the palest foreground the palette had.
+ *
+ * The fix is contrast where structure is carried, and nowhere else. Lines
+ * and surfaces move a long way; the accent hue does not move at all, so
+ * the product still looks like itself. Nothing in this file sets a
+ * dimension, so none of it can affect how the layout responds.
+ * ------------------------------------------------------------------ */
+
+:root,
+:root[data-theme='dark'] {
+  color-scheme: dark;
+
+  /* ---- canvas + layered surfaces (never flat gray) ---- */
+  --canvas: #05080c;
+  --bg: #0a0e13;
+  --bg-grad-a: #0d1218;
+  --bg-grad-b: #070a0f;
+  --surface-1: #0e151d;
+  --surface-2: #141d27;
+  --surface-3: #1b2531;
+  --surface-inset: #090d12;
+  --overlay: rgba(3, 6, 9, 0.76);
+
+  /* ---- hairlines + glow ----
+   * Raised from 6.5% / 11.5%. On a dark surface the hairline carries the
+   * whole edge of a card by itself: there is no shadow to help, because a
+   * shadow cast on near-black cannot be seen. */
+  --line: rgba(255, 255, 255, 0.1);
+  --line-strong: rgba(255, 255, 255, 0.19);
+  --line-accent: rgba(52, 199, 109, 0.4);
+  --inner-glow: inset 0 1px 0 rgba(255, 255, 255, 0.06);
+  --card-shadow: 0 1px 2px rgba(0, 0, 0, 0.5), 0 14px 34px -18px rgba(0, 0, 0, 0.95);
+  --pop-shadow: 0 26px 64px -18px rgba(0, 0, 0, 0.9), 0 2px 8px rgba(0, 0, 0, 0.6);
+
+  /* ---- foreground ---- */
+  --fg: #edf3f9;
+  --fg-muted: #a6b6c6;
+  --fg-subtle: #7a8da1;
+  /* Section labels and field captions get their own token: 11px uppercase
+   * needs more contrast than its size suggests, and tuning it through
+   * --fg-subtle would drag every hint line in the product with it. */
+  --fg-label: #8ba0b5;
+
+  /* ---- accent: deep leaf green ---- */
+  --accent: #21a45b;
+  --accent-hi: #34c76d;
+  --accent-soft: rgba(52, 199, 109, 0.16);
+  --accent-line: rgba(52, 199, 109, 0.4);
+  --accent-fg: #7cebac;
+  --on-accent: #04120a;
+
+  /* ---- semantics ---- */
+  --ok: #3ad074;
+  --ok-soft: rgba(58, 208, 116, 0.15);
+  --warn: #f0bb44;
+  --warn-soft: rgba(240, 187, 68, 0.16);
+  --danger: #ff6a70;
+  --danger-soft: rgba(255, 106, 112, 0.16);
+  --sky: #52c0f8;
+  --sky-soft: rgba(82, 192, 248, 0.15);
+  --violet: #b499fb;
+  --violet-soft: rgba(180, 153, 251, 0.16);
+  --teal: #3adcc9;
+  --teal-soft: rgba(58, 220, 201, 0.15);
+  --neutral-soft: rgba(166, 182, 198, 0.13);
+
+  --grid-line: rgba(255, 255, 255, 0.055);
+  --chart-grid: rgba(255, 255, 255, 0.08);
+  --skeleton: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.03) 0%,
+    rgba(255, 255, 255, 0.085) 50%,
+    rgba(255, 255, 255, 0.03) 100%
+  );
+}
+
+:root[data-theme='light'] {
+  color-scheme: light;
+
+  /* The canvas is clearly darker than the cards on it now. White panels
+   * need something to be white against, and #f5f7fa was not it. */
+  --canvas: #e6eaf0;
+  --bg: #edf0f5;
+  /* .room-light paints these behind everything, so this pair — not --bg —
+   * is what a white card is actually seen against. The top stop was #f8fafc,
+   * near enough to white that panels at the top of a page had nothing to
+   * separate from while the same panels lower down looked fine. */
+  --bg-grad-a: #f1f4f9;
+  --bg-grad-b: #e3e8ef;
+  --surface-1: #ffffff;
+  /* Deliberately not #ffffff: .panel gradients surface-2 into surface-1,
+   * and two identical values make that rule do nothing. */
+  --surface-2: #fbfcfe;
+  /* Buttons, hover states and the active nav pill all sit on this. It was
+   * one step off white and read as nothing at all. */
+  --surface-3: #e9eef4;
+  --surface-inset: #f1f4f9;
+  --overlay: rgba(10, 18, 28, 0.5);
+
+  --line: rgba(11, 24, 38, 0.16);
+  --line-strong: rgba(11, 24, 38, 0.28);
+  --line-accent: rgba(17, 130, 74, 0.44);
+  --inner-glow: inset 0 1px 0 rgba(255, 255, 255, 1);
+  /* Three stops rather than two: a tight contact shadow so the card meets
+   * the page, and a wide soft one so it sits above it. */
+  --card-shadow:
+    0 1px 1px rgba(12, 22, 35, 0.05), 0 2px 5px -1px rgba(12, 22, 35, 0.07),
+    0 14px 30px -18px rgba(12, 22, 35, 0.3);
+  --pop-shadow: 0 26px 62px -18px rgba(12, 22, 35, 0.34), 0 3px 10px rgba(12, 22, 35, 0.12);
+
+  --fg: #081420;
+  --fg-muted: #44586c;
+  --fg-subtle: #5d7285;
+  --fg-label: #55697d;
+
+  --accent: #11824a;
+  --accent-hi: #16a05a;
+  --accent-soft: rgba(17, 130, 74, 0.13);
+  --accent-line: rgba(17, 130, 74, 0.4);
+  --accent-fg: #0a6435;
+  --on-accent: #ffffff;
+
+  /* Every semantic hue is darkened until it can hold its own text at 11px
+   * on a tinted background. The pills were readable in dark and pastel in
+   * light, which is one palette failing one of its two themes. */
+  --ok: #0f7a43;
+  --ok-soft: rgba(15, 122, 67, 0.13);
+  --warn: #8a5a06;
+  --warn-soft: rgba(176, 124, 14, 0.18);
+  --danger: #c2262f;
+  --danger-soft: rgba(194, 38, 47, 0.12);
+  --sky: #0a6fae;
+  --sky-soft: rgba(10, 111, 174, 0.12);
+  --violet: #5f37c9;
+  --violet-soft: rgba(95, 55, 201, 0.12);
+  --teal: #0a7d73;
+  --teal-soft: rgba(10, 125, 115, 0.12);
+  --neutral-soft: rgba(68, 88, 108, 0.11);
+
+  --grid-line: rgba(11, 24, 38, 0.05);
+  --chart-grid: rgba(11, 24, 38, 0.1);
+  --skeleton: linear-gradient(
+    90deg,
+    rgba(11, 24, 38, 0.05) 0%,
+    rgba(11, 24, 38, 0.11) 50%,
+    rgba(11, 24, 38, 0.05) 100%
+  );
+}

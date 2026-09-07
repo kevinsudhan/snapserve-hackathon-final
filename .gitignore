@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+dashboard/dist/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.tsbuildinfo
+backend/data/cache/

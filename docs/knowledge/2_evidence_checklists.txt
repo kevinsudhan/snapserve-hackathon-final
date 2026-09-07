@@ -1,0 +1,44 @@
+EVIDENCE CHECKLISTS. Ask for these after you have the damage type. Say them one at a time in plain words, never as a list read at speed. Give the reason in the caller's own terms, then say a reviewer will send a link on this number for the photos.
+
+## Always
+- Photos of the damaged crop from several angles (needed) — The survey team judges a localised or post-harvest loss on your own field, so clear pictures of the damage from three or four sides help them see what you saw. How: Stand at the edge of the field and take one wide photo, then two or three more from different sides. Keep the date setting on in the phone camera so the date shows on the picture.
+- One photo taken standing in the field with the location on (helpful if possible) — The guidelines allow the damage to be reported with the location of the field and pictures, so a photo taken at the field itself with location switched on helps the reviewer find the plot. How: Switch on location in the phone, stand inside the damaged field, and take one photo.
+- Land record (chitta / patta / pattadar passbook / RTC / record of rights) (needed) — The scheme asks for proof that the land is yours or that you farm it as a tenant, so the land paper of your state is needed. How: Photograph the whole page flat, in good light, so all the writing can be read.
+- Sowing certificate or crop declaration (needed) — The scheme asks every farmer for a declaration of the crop sown, or the sowing certificate given by the village officer. How: Photograph the certificate given by the village or sub-district officer. If you do not have one, the reviewer will tell you how to get it.
+- Bank passbook first page (needed) — If a claim is settled the money is sent straight to your bank account, so your account details have to be on the record. How: Photograph the first page of the passbook, where your name, account number and branch are printed.
+- Aadhaar card (needed) — Every farmer joining the scheme has to give an Aadhaar number, so the reviewer has to match your Aadhaar with the enrolment record. How: Photograph the front of the Aadhaar card. Do not send it to anyone who calls you asking for it.
+- Insurance premium receipt or bank entry showing the premium was paid (needed) — For these covers the premium has to have been taken from your account before the event, so a receipt or the bank entry helps prove the cover was live. How: Photograph the insurance acknowledgement receipt, or the passbook page or bank message showing the premium debit.
+
+## Extra, depending on what happened
+- if the damage is pest: Close-up photo of the affected plants (needed) — Pest damage cannot be seen in a wide photo, so a close picture of the leaves or the grain helps the officer see the attack. How: Hold the phone about one hand-length from an affected plant and take two or three clear close pictures.
+- if the damage is disease: Close-up photo of the affected plants (needed) — Disease marks are small, so a close picture of the leaves, stem or grain helps the officer see what happened. How: Hold the phone about one hand-length from an affected plant and take two or three clear close pictures.
+- if the damage is post harvest: Photo of the cut crop lying in the field (needed) — The post-harvest cover is only for a crop that was cut and left drying in the field, so a picture of the cut crop where it lies is important. How: Photograph the bundles or the spread crop exactly where they are lying, without moving them.
+- if the damage is post harvest: Anything that shows when you harvested (helpful if possible) — The cover runs for a limited number of days from harvest, so anything showing the harvest date helps the reviewer. How: A harvester bill, a labour payment note, or a photo you took on the harvest day is enough.
+- if the damage is cyclone: Photo of the cut crop lying in the field, if the crop was already harvested (helpful if possible) — If the crop was already cut and drying in the field when the storm came, that is a different part of the cover, so a picture of the cut crop helps. How: Only if your crop was already cut. Photograph the bundles or the spread crop where they lie.
+- if the damage is hailstorm: Photo of the cut crop lying in the field, if the crop was already harvested (helpful if possible) — Hail is covered both for standing crop and for a cut crop drying in the field, so a picture of the cut crop helps if it applies to you. How: Only if your crop was already cut. Photograph the bundles or the spread crop where they lie.
+- if the damage is hailstorm: Close-up photo of the beaten grain or leaves (helpful if possible) — Hail damage shows on the grain and leaves, so a close picture helps the officer judge how bad it is. How: Take two or three close pictures of the damaged ears or leaves.
+- if the damage is unseasonal rain: Photo of the cut crop lying in the field, if the crop was already harvested (helpful if possible) — Unseasonal rain is a listed post-harvest peril, so if the crop was cut and drying, a picture of it where it lies matters. How: Only if your crop was already cut. Photograph the bundles or the spread crop where they lie.
+- if the damage is flood: Photo showing water standing in the field (helpful if possible) — Inundation means water that stayed a long time and visibly damaged the crop, so a picture with the water in it helps. How: If water is still standing, photograph it with the crop visible. If it has drained, photograph the silt or the flattened crop.
+- if the damage is inundation: Photo showing water standing in the field (helpful if possible) — Inundation means water that stayed a long time and visibly damaged the crop, so a picture with the water in it helps. How: If water is still standing, photograph it with the crop visible. If it has drained, photograph the silt or the flattened crop.
+- if the damage is fire: Photo of the burnt part of the field (needed) — Only natural fire from lightning is covered, so pictures of the burnt area and its edges help the officer understand what happened. How: Photograph the burnt patch and where it stops, from two or three sides.
+- if the damage is landslide: Photo of the slipped soil and the buried crop (needed) — Landslide is one of the localised risks, so the reviewer needs to see the slipped earth and how much crop is under it. How: Photograph the slipped soil and the crop under it, from a safe place.
+- if the damage is drought: Photo of the dried crop across the field (helpful if possible) — For a season-wide loss like drought the harvest is measured for the whole village, but your pictures still help the reviewer describe your field. How: Take one wide photo of the field and one closer photo of the dried plants.
+- if the damage is prevented sowing: Photo of the field that could not be sown (needed) — This cover is for land where sowing could not happen at all, so a picture of the empty or waterlogged field helps. How: Take one wide photo of the unsown field.
+
+## What the land record is called
+- Tamil Nadu: chitta and adangal, or the patta
+- Karnataka: the RTC, also called pahani
+- Andhra Pradesh: the adangal or pattadar passbook
+- Telangana: the pattadar passbook or dharani record
+- Kerala: the possession certificate or thandaper record
+- Maharashtra: the seven twelve extract
+- Gujarat: the seven twelve extract
+- Punjab: the jamabandi or fard
+- Haryana: the jamabandi or fard
+- Uttar Pradesh: the khatauni or khasra
+- Bihar: the jamabandi or land possession certificate
+- West Bengal: the record of rights, the porcha
+- Madhya Pradesh: the khasra or khatauni
+- Rajasthan: the jamabandi or girdawari
+- Odisha: the record of rights or pattadar record
+- default: your land record, whatever it is called in your state

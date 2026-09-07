@@ -1,0 +1,1006 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	Press Release Page | Press Information Bureau
+</title><link href="css/style.css" rel="stylesheet" type="text/css" /><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="alternate stylesheet" href="css/change.css" media="screen" title="change" /><link rel="alternate stylesheet" href="css/green.css" media="screen" title="green" /><link rel="alternate stylesheet" href="css/yellow.css" media="screen" title="yellow" /><link rel="stylesheet" type="text/css" href="css/prtint.css" media="print" /><link rel="stylesheet" href="css/style3.1.css" type="text/css" /><link id="pibA11yCss" rel="stylesheet" href="/css/accessibility.css?v=3" type="text/css" />
+      <script type="text/javascript">
+        /* Stamps the saved theme on <html> before the page paints. The
+           switcher in js/accessibility.js settles the rest, but on inner
+           pages it does not run until the end of the body and inside the
+           release frame it is a separate download - either way the reader
+           would otherwise watch a light page turn dark in front of them. */
+        (function (d) {
+            var t = "";
+            try {
+                t = window.localStorage.getItem("pibStyle") || "";
+            } catch (e) {
+                t = "";
+            }
+            if (t === "orange") {
+                t = "yellow";
+            }
+            var c = t === "change" ? " pib-hc"
+                : t === "green" ? " pib-theme-green"
+                : t === "yellow" ? " pib-theme-yellow" : "";
+            d.documentElement.className += c + " pib-a11y-content";
+        }(document));
+      </script>
+
+
+      <script src="js/jquery.min.js" type="text/javascript"></script>
+      <script type="text/javascript" src="/js/accessibility.js?v=7"></script>
+      <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="true" /><link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&amp;display=swap" rel="stylesheet" />
+
+      <script type="text/javascript">
+            $(document).ready(function () {
+                  function getParameterByName(name) {
+                        var url = window.location.href;
+                        name = name.replace(/[\[\]]/g, '\\$&');
+                        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                              results = regex.exec(url);
+                        if (!results) return null;
+                        if (!results[2]) return '';
+                        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+                  }
+                  // Get the IDs from the current page's URL
+                  let prid = parseInt(getParameterByName('PRID'), 10);
+
+                  if (!isNaN(prid) && prid > 0) {
+                        $.ajax({
+                              type: "POST",
+                              url: "AjaxMethod.aspx/UpdatePRHitCount",
+                              async: false,
+                              data: JSON.stringify({ 'PermId': prid }),
+                              contentType: "application/json; charset=utf-8",
+                              dataType: "json",
+                              success: function (response) {
+                                    console.log(response);
+                              },
+                              error: function (error) {
+                                    console.log("Error in AJAX request", error);
+                              }
+                        });
+                  } else {
+                        console.log("Invalid parameters:", prid);
+                  }
+
+            });
+      </script>
+      <style type="text/css">
+            .table-responsive {
+                  width: 100%;
+                  overflow-x: auto;
+            }
+
+            .banner {
+                  display: flex;
+                  justify-content: space-between;
+                  align-items: center;
+                  background-color: #000;
+                  color: #fff;
+                  padding: 20px;
+            }
+
+            full-width {
+                  width: 100%;
+            }
+
+            .logo-left, .logo-center, .countdown {
+                  display: flex;
+                  align-items: center;
+            }
+
+                  .logo-left img, .logo-center img {
+                        height: 70px;
+                  }
+
+            .countdown {
+                  text-align: center;
+                  background-color: #444;
+                  border-radius: 10px;
+                  padding: 10px;
+                  border: 2px solid grey;
+            }
+
+            .firstnumber {
+                  color: #000000;
+                  position: absolute;
+                  top: 50px;
+                  right: 90px;
+                  font-size: 30px;
+            }
+
+            .secondnumber {
+                  position: absolute;
+                  color: #000000;
+                  right: 45px;
+                  top: 50px;
+                  font-size: 30px;
+            }
+
+            .countdown .days {
+                  font-size: 35px;
+                  color: gold;
+            }
+
+            .countdown p {
+                  margin: 0;
+            }
+
+            .countdown .text {
+                  font-size: 16px;
+            }
+
+            a {
+                  word-break: break-all;
+            }
+
+            iframe, img {
+                  max-width: 100%;
+            }
+
+            @media(max-width:1199px) {
+                  .firstnumber {
+                        top: 40px;
+                        right: 72px;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 35px;
+                        top: 40px;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:990px) {
+                  .firstnumber {
+                        top: 25px;
+                        right: 54px;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 25px;
+                        top: 25px;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:768px) {
+                  .countdown, .days {
+                        font-size: 12px !important;
+                  }
+
+
+                  .firstnumber {
+                        top: 25%;
+                        right: 8%;
+                        font-size: 30px;
+                  }
+
+                  .secondnumber {
+                        right: 4.5%;
+                        top: 25%;
+                        font-size: 30px;
+                  }
+            }
+
+            @media(max-width:475px) {
+                  .countdown, .days {
+                        font-size: 10px !important;
+                        top: 20%;
+                  }
+
+                  .bannerimgdiv {
+                        padding: 0 !important;
+                  }
+
+                  .bannerimg {
+                        width: 108% !important;
+                  }
+            }
+      </style>
+      <script type="text/javascript">
+            $(function () {
+                  $("[id*=printPDF]").click(function () {
+                        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+                  });
+            });
+            $(function () {
+                  $("[id*=printPDFEvent]").click(function () {
+                        $("[id*=hfGridHtml]").val($("#PdfDiv").html());
+                  });
+            });
+      </script>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112591026-1"></script>
+      <script>
+
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() { dataLayer.push(arguments); }
+
+            gtag('js', new Date());
+
+
+
+            gtag('config', 'UA-112591026-1');
+
+      </script>
+
+<meta property="og:title" content="Operational Guidelines of Pradhan Mantri Fasal Bima Yojana" /><meta property="og:url" content="www.pib.gov.in/Pressreleaseshare.aspx?PRID=2197713" /><meta property="og:description" content="All the applications enrolled in NCIP are subjected to Quality Check and Validation to ensure compli" /><meta property="og:image" content="https:/pib.gov.in/images/indian-emblem.png" />
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="C4E7H-KSCMC-422L4-W3EM5-U36MF",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"C4E7H-KSCMC-422L4-W3EM5-U36MF";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="ore334ix2m6gi2u36wra-f-334d27c86-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"1825201","ak.ai":parseInt("1215205",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"58f0b9d3","ak.r":46630,"ak.a2":n,"ak.m":"dscb","ak.n":"ff","ak.cport":63812,"ak.gh":"23.201.102.115","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1788605858","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==0IwvIdvHEGYXyKUJNEOqOnf1yY9F/hoyj17US56W6IyzDlL3XR2ElnrG7L+cxz5Q/VEV5HkGVx+cV/PV1Ki8vJ48YQJEM8oNDVa5Mid9qh1t5MiWajdv3bnOXnvo2ocbOLhcGzn4hhJ4uinGkfj/UiVwdr69/2eKwDpMVN/b+u9dX/RhJ7CWiw5XfOlhN7xTETMvrM991vBX3HMaVVgPbM1hCqTiJijvl0BI5wrUelssh1l9ET/3aiRKSVHX01seu4y0k9aku24r8c9LgdB3atFF+00FEnHdIMkCDNeoU6EZz8p0YzfmPNy/6QAxOWaY31rrM0uoobsYm5gn40WlgWCd8srUDf7maMnFD/c5X3jsdEU9EFVONz1Q4n/9pjlKK74lcJU2cMv9x+Rm8meyc6yMWyNHlZ25fgyFC8Cl5yA=","ak.pv":"9","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+      <form method="post" action="./PressReleasePage.aspx?PRID=2197713&amp;reg=3&amp;lang=1" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="sc_HiddenField" id="sc_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=b94hX14NMWluUQ9a73g0LYFvtKhY52TK8cbDkYB_F2GuPre4tdh-ebiiI4xuhXnRu6Q5dQjaQA4oN3PEeL0GrtKEyEY1&amp;t=638942408819057530" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=YwOa_0w_u3oCLFqmIIOf-XEz4GWZ1DuyQIpxIA4LVkywj39sZSps12NbK5wNl5XN9JF3m7d-ey7BFDgj6i0380qRQ5IMWCL54sYNVU1IjMmiOWpp0&amp;t=ffffffffecf8d3f2" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=_shmykYI80CxCNR43Ii1nLy9PBGhuSe6SPp3CEYu0wDEuLqDAuIcsXVNhTIgQn0iyiwPorMflXuK31FftDX9GnB0m366MCEoOmY-eKQ3YAO9xRL0gIigzgRbtbVOgSQkJbJpFg2&amp;t=ffffffffecf8d3f2" type="text/javascript"></script>
+<script src="/PressReleasePage.aspx?_TSM_HiddenField_=sc_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d3.5.7.123%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a5a4df314-b4a2-4da2-a207-9284f1b1e96c%3ade1feab2%3af2c8e708%3a720a52bf%3af9cec9bc%3a589eaa30%3aa67c2700%3aab09e3fe%3a87104b7c%3a8613aea7%3a3202a5a2%3abe6fb298" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="59B53027" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="XSQtJkCGowvfHp9a78AorDPOTx7/oORnN8d+xEjZrDKo1Cjpu1emSfbHlIkNHalQY15luuyIUTfsQisJCEu43XnqWucLkcr6CD1QThjyD+KaH2SCpfH/dSjXn17rAoh2fq15iG+3LN9L5/brQd1130KTm4DHNZneWWi2huFLMdGMrViNLgM4YdsuA32+PUchiN/r92ecZBmJEIXBp0dyslahXBBmD9QWzQVdhwT9Goh6QWvqy+mICH5T0UbuunjTBAbKM2e7qbjVWEL4exS+czf1BUv+mIOKPVx0AxqJsX1+LFyV" />
+</div>
+                              
+            <div id="templateCss"></div>
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('sc', 'form1', ['tupdate12','update12'], [], [], 90, '');
+//]]>
+</script>
+
+            <input type="hidden" name="hfGridHtml" id="hfGridHtml" />
+            <div class="container" style='margin-bottom: 50px;'>
+                  <div id="accessories">
+
+                        
+                        <div class="pull-right" style="display: flex">
+                              <div id="voll"></div>
+                              <div id="vollDT"></div>
+                              
+                              
+<div class="print-icons">
+<input type="image" name="Print1$print" id="Print1_print" aria-label="Print" src="images/printer_icon.png" alt="print page button" style="padding: 5px 10px 5px 10px;" />
+</div>
+                        </div>
+                  </div>
+                  <input type="hidden" name="hydpermid" id="hydpermid" value="2197713" />
+                  
+
+
+
+                  <div class="innner-page-main-about-us-content-right-part">
+
+                        <div id="MinistryName" class="MinistryNameSubhead text-center">
+                              Ministry of Agriculture &
+Farmers Welfare
+                        </div>
+                        
+                        <div id="lg_g"><div class='log_oo'>  <img src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2026/sep/ph_9768_20260902_10000501.png' alt='azadi ka amrit mahotsav' /> </div></div>
+
+
+
+
+
+                        <div class="text-center event-heading-background">
+                              
+                              <h2 id="Titleh2">
+                                    Operational Guidelines of Pradhan Mantri Fasal Bima Yojana
+                              </h2>
+                              <h3 id="Subtitleh3">
+                                    <span id="ltrSubtitle"></span>
+                              </h3>
+                        </div>
+
+                        <div id="PrDateTime" class="ReleaseDateSubHeaddateTime text-center pt20">
+                              Posted On:
+                02 DEC 2025 5:43PM by PIB Delhi
+                        </div>
+                        
+                        <div class='pt20'>
+                        </div>
+                        <input type="hidden" name="hydphotoUrl" id="hydphotoUrl" />
+                        
+                        <p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">All the applications enrolled in NCIP are subjected to Quality Check and Validation to ensure compliance with the provisions of Operational Guidelines of Pradhan Mantri Fasal Bima Yojana such as having Insurable Interest in the crop being insured, ownership of land or proof of being a tenant or share cropper, insured land area being equal to or less than the actual land area of the land parcel, insured crop to be same as that of sown crop and farmer name to be same as per the Aadhaar Name etc. The Applications which do not comply with these basic pre-requisites and&nbsp; provisions of the Operational Guidelines or have been created without providing correct details, incomplete details or without the required documents are liable to be rejected by the Insurance Companies. The Maximum timeline provided as per the Operational Guidelines for the same is 60 days from the cut-off date for debit of premium/enrollment of farmers in the scheme, which generally is 31st July for Kharif season and 31st Dec for Rabi season.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The applications deficient in documents are reverted back by the Insurance Companies to the enrollment channel (CSC, Insurance Intermediary/Banks) for providing/uploading the missing documents. In case the desired documents are provided, the applications are approved by the Insurance Companies else are rejected. In case the concerned farmer have objection against the rejection of the applications, the same can be reported through KrishiRakshak Portal &amp; Helpline to the Insurance Company or can approach the Talik/tehsil/District level officers of Agriculture Department or through the District Level Grievance Redressal Committee (DGRC) with desired documents for reviewing the applications and reconsider the same for approval by the Insurance Companies.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The Operational Guidelines has a provision for delayed claim payment on account of delay in settlement of claims beyond given timelines however, there is no mechanism to impose penalty on rejection of applications as the concerned District and State Govt. are required to reconcile and review rejection of applications. Only those applications can be rejected by the Insurance Companies, which are approved for rejection by the concerned State Govt. through National Crop Insurance Portal. </span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The Operational Guidelines of PMFBY has a provision for constitution of District level Monitoring Committee and State Level Monitoring Committee under the chairmanship of District Magistrate and Principal Secretary of Agriculture Department, respectively, as a mechanism for monitoring the overall implementation of the scheme. For redressal of Grievances of the insured/applicant farmers, first level of Grievance Redressal for the insured farmers under the scheme is provided through KrishiRakshak Portal &amp; Helpline (KRPH) available through single toll-free number 14447. KRPHis available 24 X 7 all days in a year through web-portal and voice calls catered through more than 500 KRPH Executives located across 10 locations in the country. </span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Further, the appellate level of Grievance Redressal mechanism through various grievance redressal committees is also available under the scheme such as District Grievance Redressal Committee (DGRC) &amp; State Grievance Redressal Committee (SGRC).</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">This information was given by Minister of State for Agriculture and Farmers Welfare, Shri Ramnath Thakur in a written reply in Lok Sabha today.</span></p>
+
+<p style="margin-right:-.35pt; text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">******</span></span></p>
+
+<p style="margin-right:-.35pt"><strong><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">RC/AR</span></span></strong></p>
+
+
+                        
+                        <div id="reel_pic">
+                        </div>
+
+
+
+                        
+                        <br />
+                        <span id="ReleaseId">(Release ID: 2197713)</span>
+                        <span id="lblViews">Visitor Counter : 3904</span>
+                        <div>
+                              
+                        </div>
+                        
+
+                        <span id="lblRefPhoto"></span>
+
+                        <div class="BackgroundRelease">
+                              
+                        </div>
+                        <div>
+                              
+                        </div>
+                        <div class="ReleaseLang">Read this release in: 
+                        
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2197889' target="_blank">
+                                          Urdu </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2198296' target="_blank">
+                                          हिन्दी </a>
+                              
+                                    ,
+                              
+                                    
+                                    <a href='https://pib.gov.in/PressReleasePage.aspx?PRID=2198077' target="_blank">
+                                          Bengali </a>
+                              
+                        </div>
+
+                        <div class="RelTag">
+                              <ul>
+                                    
+                              </ul>
+                        </div>
+                        <div class="clear">
+                        </div>
+                        <div id="RelLink" class="RelLink">
+                              <ul>
+                                    
+                                    
+                              </ul>
+                        </div>
+                        <center>
+                              
+                        </center>
+                  </div>
+
+                  <div id="update12">
+	
+                              
+                              <input type="hidden" name="Hidden" id="Hidden" />
+                              <div id="P_CategoryManagement" class="ModalWindow" style="border-width:0px;height:60%;width:60%;overflow:auto;display: none">
+		
+                                    <div>
+                                          <input type="image" name="btnClose" id="btnClose" src="images/close_flat_icon.png" />
+                                    </div>
+                                    <div id="description">
+                                    </div>
+                                    <div class="text-center">
+                                          <h2>
+                                                
+                                                <br>
+                                                
+                                          </h2>
+                                    </div>
+                                    <br />
+                                    <div class="clear">
+                                    </div>
+                                    
+                              
+	</div>
+                        
+</div>
+            </div>
+            
+            <div id="PdfDiv" style="display: none;">
+                  <table width="100%">
+                        <tr>
+                              <td style="font-weight: 200; text-align: center">
+                                    Ministry of Agriculture &
+Farmers Welfare
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                                          Operational Guidelines of Pradhan Mantri Fasal Bima Yojana
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: center; font-size: 30px;">
+                                          
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="text-align: center; font-size: 14px;">
+                                          Posted On:
+                        02 DEC 2025 5:43PM by PIB Delhi
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 200; text-align: left; font-size: 16px;">
+                                          <p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">All the applications enrolled in NCIP are subjected to Quality Check and Validation to ensure compliance with the provisions of Operational Guidelines of Pradhan Mantri Fasal Bima Yojana such as having Insurable Interest in the crop being insured, ownership of land or proof of being a tenant or share cropper, insured land area being equal to or less than the actual land area of the land parcel, insured crop to be same as that of sown crop and farmer name to be same as per the Aadhaar Name etc. The Applications which do not comply with these basic pre-requisites and&nbsp; provisions of the Operational Guidelines or have been created without providing correct details, incomplete details or without the required documents are liable to be rejected by the Insurance Companies. The Maximum timeline provided as per the Operational Guidelines for the same is 60 days from the cut-off date for debit of premium/enrollment of farmers in the scheme, which generally is 31st July for Kharif season and 31st Dec for Rabi season.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The applications deficient in documents are reverted back by the Insurance Companies to the enrollment channel (CSC, Insurance Intermediary/Banks) for providing/uploading the missing documents. In case the desired documents are provided, the applications are approved by the Insurance Companies else are rejected. In case the concerned farmer have objection against the rejection of the applications, the same can be reported through KrishiRakshak Portal &amp; Helpline to the Insurance Company or can approach the Talik/tehsil/District level officers of Agriculture Department or through the District Level Grievance Redressal Committee (DGRC) with desired documents for reviewing the applications and reconsider the same for approval by the Insurance Companies.</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The Operational Guidelines has a provision for delayed claim payment on account of delay in settlement of claims beyond given timelines however, there is no mechanism to impose penalty on rejection of applications as the concerned District and State Govt. are required to reconcile and review rejection of applications. Only those applications can be rejected by the Insurance Companies, which are approved for rejection by the concerned State Govt. through National Crop Insurance Portal. </span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">The Operational Guidelines of PMFBY has a provision for constitution of District level Monitoring Committee and State Level Monitoring Committee under the chairmanship of District Magistrate and Principal Secretary of Agriculture Department, respectively, as a mechanism for monitoring the overall implementation of the scheme. For redressal of Grievances of the insured/applicant farmers, first level of Grievance Redressal for the insured farmers under the scheme is provided through KrishiRakshak Portal &amp; Helpline (KRPH) available through single toll-free number 14447. KRPHis available 24 X 7 all days in a year through web-portal and voice calls catered through more than 500 KRPH Executives located across 10 locations in the country. </span></span></p>
+
+<p style="text-align:justify"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">Further, the appellate level of Grievance Redressal mechanism through various grievance redressal committees is also available under the scheme such as District Grievance Redressal Committee (DGRC) &amp; State Grievance Redressal Committee (SGRC).</span></span></p>
+
+<p style="text-align:justify"><span style="font-family:&quot;Times New Roman&quot;,Times,serif; font-size:16px">This information was given by Minister of State for Agriculture and Farmers Welfare, Shri Ramnath Thakur in a written reply in Lok Sabha today.</span></p>
+
+<p style="margin-right:-.35pt; text-align:center"><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">******</span></span></p>
+
+<p style="margin-right:-.35pt"><strong><span style="font-family:Times New Roman,Times,serif"><span style="font-size:16px">RC/AR</span></span></strong></p>
+
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                                    <div style="font-weight: 100; text-align: left; font-size: 16px;">
+                                          (Release ID: 2197713)
+                                    </div>
+                                    <div style="height: 30px; width: 100%;">
+                                    </div>
+                              </td>
+                        </tr>
+                        <tr>
+                              <td style="font-weight: 200; text-align: center; font-size: 24px;"></td>
+                        </tr>
+                  </table>
+            </div>
+            <div class="clearfix">
+            </div>
+
+            
+
+            <div class="section1">
+                  <div id="frst_t">
+                        <div id="arr_rm"><div class='sticky-social_mb'><ul class='social_mb'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=2197713' target='_blank'><li class='fb_b'   ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/facebook.jpg' alt='Share on facebook'  width='40' /></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=2197713&text=Operational Guidelines of Pradhan Mantri Fasal Bima Yojana' target='_blank'><li class='twitter_r'  ><img  src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/aug/ph2023818240601.jpg' alt='Share on twitter' width='40' /> </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=2197713' target='_blank'><li class='whatsapp_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/whatsapp1.png' alt='Share on whatsapp' width='40' /></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=Operational Guidelines of Pradhan Mantri Fasal Bima Yojana&body=https://pib.gov.in/PressReleasePage.aspx?PRID=2197713&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/email1.png' alt='Share on email'  width='40' /></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=2197713&title=Operational Guidelines of Pradhan Mantri Fasal Bima Yojana&summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/linkedin.png' alt='Share on linkedin' width='40' /></li></a></ul></div></div>
+                  </div>
+                  <div id="second_t">
+                        <div id="sndr_rm"><div class='sticky-social'><ul class='social'><a href='http://www.facebook.com/share.php?u=https://pib.gov.in/PressReleasePage.aspx?PRID=2197713' target='_blank'><li class='fb_b'   ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/facebook.jpg' alt='Share on facebook'  width='35' /></li></a><a href='https://twitter.com/intent/tweet?url=https://pib.gov.in/PressReleasePage.aspx?PRID=2197713&text=Operational Guidelines of Pradhan Mantri Fasal Bima Yojana' target='_blank'><li class='twitter_r'  ><img  src='https://static.pib.gov.in/WriteReadData/specificdocs/photo/2023/aug/ph2023818240601.jpg' alt='Share on twitter' width='35' /> </li></a><a href='https://api.whatsapp.com/send?text=https://pib.gov.in/PressReleasePage.aspx?PRID=2197713' target='_blank'><li class='whatsapp_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/whatsapp1.png' alt='Share on whatsapp' width='35' /></li></a><a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=&su=Operational Guidelines of Pradhan Mantri Fasal Bima Yojana&body=https://pib.gov.in/PressReleasePage.aspx?PRID=2197713&ui=2&tf=1&pli=1' title='Share by Email' target='_blank'><li class='fa-envelope_r' ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/email1.png' alt='Share on email'  width='35' /></li></a><a href='https://www.linkedin.com/shareArticle?mini=true&url=https://pib.gov.in/PressReleasePage.aspx?PRID=2197713&title=Operational Guidelines of Pradhan Mantri Fasal Bima Yojana&summary=My%20favorite%20developer%20program&source=LinkedIn' target='_blank'><li class='fa-linkedin_r'  ><img  src='https://static.pib.gov.in/WriteReadData/userfiles/socialmedianew/linkedin.png' alt='Share on linkedin' width='35' /></li></a></ul></div></div>
+                  </div>
+            </div>
+            <input type="hidden" name="ltrTitlee" id="ltrTitlee" value="Operational Guidelines of Pradhan Mantri Fasal Bima Yojana" />
+            <input type="hidden" name="ltrSubtitlee" id="ltrSubtitlee" />
+            <input type="hidden" name="ltrDescriptionn" id="ltrDescriptionn" value="&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>All the applications enrolled in NCIP are subjected to Quality Check and Validation to ensure compliance with the provisions of Operational Guidelines of Pradhan Mantri Fasal Bima Yojana such as having Insurable Interest in the crop being insured, ownership of land or proof of being a tenant or share cropper, insured land area being equal to or less than the actual land area of the land parcel, insured crop to be same as that of sown crop and farmer name to be same as per the Aadhaar Name etc. The Applications which do not comply with these basic pre-requisites and&amp;nbsp; provisions of the Operational Guidelines or have been created without providing correct details, incomplete details or without the required documents are liable to be rejected by the Insurance Companies. The Maximum timeline provided as per the Operational Guidelines for the same is 60 days from the cut-off date for debit of premium/enrollment of farmers in the scheme, which generally is 31st July for Kharif season and 31st Dec for Rabi season.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The applications deficient in documents are reverted back by the Insurance Companies to the enrollment channel (CSC, Insurance Intermediary/Banks) for providing/uploading the missing documents. In case the desired documents are provided, the applications are approved by the Insurance Companies else are rejected. In case the concerned farmer have objection against the rejection of the applications, the same can be reported through KrishiRakshak Portal &amp;amp; Helpline to the Insurance Company or can approach the Talik/tehsil/District level officers of Agriculture Department or through the District Level Grievance Redressal Committee (DGRC) with desired documents for reviewing the applications and reconsider the same for approval by the Insurance Companies.&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The Operational Guidelines has a provision for delayed claim payment on account of delay in settlement of claims beyond given timelines however, there is no mechanism to impose penalty on rejection of applications as the concerned District and State Govt. are required to reconcile and review rejection of applications. Only those applications can be rejected by the Insurance Companies, which are approved for rejection by the concerned State Govt. through National Crop Insurance Portal. &lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>The Operational Guidelines of PMFBY has a provision for constitution of District level Monitoring Committee and State Level Monitoring Committee under the chairmanship of District Magistrate and Principal Secretary of Agriculture Department, respectively, as a mechanism for monitoring the overall implementation of the scheme. For redressal of Grievances of the insured/applicant farmers, first level of Grievance Redressal for the insured farmers under the scheme is provided through KrishiRakshak Portal &amp;amp; Helpline (KRPH) available through single toll-free number 14447. KRPHis available 24 X 7 all days in a year through web-portal and voice calls catered through more than 500 KRPH Executives located across 10 locations in the country. &lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>Further, the appellate level of Grievance Redressal mechanism through various grievance redressal committees is also available under the scheme such as District Grievance Redressal Committee (DGRC) &amp;amp; State Grievance Redressal Committee (SGRC).&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;text-align:justify&quot;>&lt;span style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,Times,serif; font-size:16px&quot;>This information was given by Minister of State for Agriculture and Farmers Welfare, Shri Ramnath Thakur in a written reply in Lok Sabha today.&lt;/span>&lt;/p>
+
+&lt;p style=&quot;margin-right:-.35pt; text-align:center&quot;>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>******&lt;/span>&lt;/span>&lt;/p>
+
+&lt;p style=&quot;margin-right:-.35pt&quot;>&lt;strong>&lt;span style=&quot;font-family:Times New Roman,Times,serif&quot;>&lt;span style=&quot;font-size:16px&quot;>RC/AR&lt;/span>&lt;/span>&lt;/strong>&lt;/p>
+" />
+            <script type="text/javascript">
+                  var mPlayer = document.getElementById("background_music");
+                  var mPlayAction = document.getElementById("playbutton");
+
+                  var isPlaying = false;
+
+                  function playAudio() {
+                        mPlayer.play();
+                        isPlaying = true;
+                        document.getElementById('stopA').style.display = "block";
+                        document.getElementById('playA').style.display = "none";
+                  }
+
+                  function pauseAudio() {
+                        mPlayer.pause();
+                        isPlaying = false;
+                        document.getElementById('playA').style.display = "block";
+                        document.getElementById('stopA').style.display = "none";
+                  }
+                  //function HandleAudio() {
+                  //    if (isPlaying == true) {
+                  //        //Playing already Pause it
+                  //        pauseAudio();
+                  //    } else {
+                  //        //Play the music
+                  //        playAudio();
+                  //    }
+                  //}
+            </script>
+            <script type="text/javascript">
+                  var synth = window.speechSynthesis;
+
+            
+                  function CleanHtml(html) {
+
+                        html = html.replace(/<script[\s\S]*?<\/script>/gi, '');
+
+                        return html;
+                  }
+                  function stripHtml(html) {
+                        let tmp = document.createElement("DIV");
+                        tmp.innerHTML = CleanHtml(html);
+                        return tmp.textContent || tmp.innerText || "";
+                  }
+            </script>
+            <script type="text/javascript">
+                  $(document).ready(function () {
+                        //for responsive tables
+                        $("table").each(function () {
+                              if (!$(this).closest(".table-responsive").length) {
+                                    $(this).wrap("<div class='table-responsive'></div>");
+                              }
+                        });
+
+                        var width = $(window).width();
+                        if (width < 768) {
+
+                              // Extra Small Device
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                              // Small Device
+
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Medium Device
+
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Large Device
+
+                        }
+                  });
+            </script>
+            <script type="text/javascript">
+                  $(document).ready(function () {
+                        var width = $(window).width();
+                        if (width < 768) {
+
+                              // Extra Small Device
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+
+                        } else if (width < 991) {
+                              document.getElementById('frst_t').style.display = "block";
+                              document.getElementById('second_t').style.display = "none";
+                              // Small Device
+
+                        } else if (width < 1199) {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Medium Device
+
+                        } else {
+                              document.getElementById('frst_t').style.display = "none";
+                              document.getElementById('second_t').style.display = "block";
+                              // Large Device
+
+                        }
+                  });
+            </script>
+            
+            <style type="text/css">
+                  @media print {
+                        .sticky-social, .sticky-social_mb, .pull-right, #printPDF {
+                              display: none !important;
+                        }
+                  }
+
+                  .f_vl {
+                        padding-right: 30px;
+                        font-size: 17px;
+                        cursor: pointer;
+                  }
+
+                  .log_oo {
+                        // width: 20%;
+                        display: flex;
+                        justify-content: space-between;
+                  }
+
+                        .log_oo img {
+                              width: 150px;
+                              /*width: 100%;
+                    height: auto;*/
+                        }
+
+                  .sticky-social_mb {
+                        position: fixed;
+                        bottom: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                        width: 100%;
+                  }
+
+                  .social_mb {
+                        list-style: none;
+                        display: flex;
+                        width: 100%;
+                        margin-bottom: -8px;
+                  }
+
+                        .social_mb a {
+                              padding: 8px 0px;
+                              font-size: 30px;
+                              transition: all 0.8s ease-in-out;
+                              width: 20% !important;
+                              text-align: center;
+                        }
+            </style>
+            <style type="text/css">
+                  .section1 {
+                        position: relative;
+                        padding: 10px 0px;
+                        width: 100%;
+                  }
+
+
+
+                  .sticky-social {
+                        position: fixed;
+                        top: 20px;
+                        left: 0px;
+                        padding: 0px;
+                        margin: 0px;
+                  }
+
+                  .social {
+                        list-style: none;
+                  }
+
+                        .social a li {
+                              padding: 8px 12px;
+                              font-size: 25px;
+                              transition: all 0.8s ease-in-out;
+                        }
+
+                              .social a li:hover {
+                                    margin-right: -30px;
+                                    box-shadow: 2px 5px 10px grey;
+                              }
+
+                                    .social a li:hover .fa {
+                                          margin-left: 20px;
+                                    }
+
+                  .fb_b {
+                        /* background-color: rgb(59, 89, 152);*/
+                        background-color: rgba(65,103,178,255);
+                  }
+
+                  .twitter_r {
+                        /* background-color: rgb(29, 161, 242);*/
+                        background-color: #000000;
+                  }
+
+                  .whatsapp_r {
+                        /* background-color: rgb(77, 194, 71);*/
+                        background-color: rgba(13,191,67,255);
+                  }
+
+                  .fa-envelope_r {
+                        /* background-color: rgb(219, 68, 55);*/
+                        background-color: #e2123d;
+                  }
+
+                  .fa-linkedin_r {
+                        background-color: rgb(0, 119, 181);
+                  }
+            </style>
+            <style type="text/css">
+                  @media only screen and (max-device-width: 767px) {
+                        p span img {
+                              max-width: 90% !important;
+                              height: auto !important;
+                        }
+
+                        p img {
+                              max-width: 90% !important;
+                              height: auto !important;
+                        }
+
+                        h2 {
+                              font-size: 20px !important;
+                              font-weight: 600 !important;
+                        }
+
+                        h3 {
+                              font-size: 18px !important;
+                              font-weight: 600 !important;
+                        }
+                  }
+            </style>
+            <style type="text/css">
+                  /* === Film Roll Badge Styling(IFFI2025 countdown) === */
+                  .film-roll-badge {
+                        position: absolute;
+                        top:82%;
+                        right: 20px;
+                        width: 230px;
+                        height: 70px;
+                        background: repeating-linear-gradient( to right, #9a2375 0px, #9a2375 18px, #6e2b8b 18px, #6e2b8b 36px );
+                        border-top: 8px solid #9a2375;
+                        border-bottom: 8px solid #9a2375;
+                        border-radius: 8px;
+                        overflow: hidden;
+                        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+                        animation: moveFilm 8s linear infinite;
+                        z-index: 10;
+                  }
+
+                        /* film sprocket holes */
+                        .film-roll-badge::before,
+                        .film-roll-badge::after {
+                              content: "";
+                              position: absolute;
+                              width: 100%;
+                              height: 10px;
+                              background: repeating-linear-gradient( to right, #9a2375 0px, #9a2375 10px, #fff 10px, #fff 20px );
+                              left: 0;
+                              z-index: 2;
+                        }
+
+                        .film-roll-badge::before {
+                              top: -4px;
+                        }
+
+                        .film-roll-badge::after {
+                              bottom: -4px;
+                        }
+
+                  .film-roll-inner {
+                        position: relative;
+                        height: 100%;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        animation: flicker 2s infinite ease-in-out;
+                  }
+
+                  .countdown-text {
+                        font-size: 1.3rem;
+                        font-weight: 700;
+                        color: #fff;
+                        text-shadow: 0 0 6px rgba(255, 255, 255, 0.4), 0 0 10px #000;
+                        white-space: nowrap;
+                  }
+
+                  /* === Animations === */
+                  @keyframes moveFilm {
+                        0% {
+                              background-position: 0 0;
+                        }
+
+                        100% {
+                              background-position: 120px 0;
+                        }
+                  }
+
+                  @keyframes flicker {
+                        0%, 100% {
+                              opacity: 1;
+                        }
+
+                        50% {
+                              opacity: 0.9;
+                        }
+
+                        25% {
+                              opacity: 0.95;
+                        }
+
+                        75% {
+                              opacity: 0.85;
+                        }
+                  }
+
+                  /* === Responsive Adjustments === */
+                  @media (max-width: 1500px) {
+                        .film-roll-badge {
+                              top: 68%;
+                              right: 18px;
+                              /* width: 220px; */
+                              height: 65px;
+                              font-size: 0.85rem;
+                        }
+
+                        .press-section {
+                              margin-top: 35px;
+                        }
+                  }
+
+                  @media (max-width: 992px) {
+                        .film-roll-badge {
+                              top: 52%;
+                              right: 10px;
+                               width: 200px; 
+                              height: 60px;
+                        }
+                  }
+
+                  @media (max-width: 768px) {
+                        .film-roll-badge {
+                              top: 56%;
+                              right: 10px;
+                               width: 124px; 
+                              height: 55px;
+                        }
+
+                        .countdown-text {
+                              font-size: 0.9rem;
+                        }
+                  }
+
+                  @media (max-width: 576px) {
+                        .film-roll-badge {
+                              top: 59%;
+                              right: 5px;
+                              /* width: 160px; */
+                              height: 50px;
+                        }
+
+                        .countdown-text {
+                              font-size: 0.85rem;
+                        }
+                  }
+            </style>
+          <script type="text/javascript">
+                const festivalStart = new Date("2025-11-20T00:00:00").getTime();
+                const festivalEnd = new Date("2025-11-28T23:59:59").getTime();
+
+                const countdownElement = document.getElementById("countdown");
+
+                const interval = setInterval(() => {
+                      const now = new Date().getTime();
+
+                      // BEFORE FESTIVAL — show days + hours left
+                      if (now < festivalStart) {
+                            const diff = festivalStart - now;
+                            const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                            const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+                            countdownElement.innerHTML = `
+              ${days} Day${days !== 1 ? 's' : ''} 
+              ${hours} Hour${hours !== 1 ? 's' : ''} to go
+          `;
+
+                      }
+
+                      // DURING FESTIVAL — show 56th IFFI - Day X
+                      else if (now >= festivalStart && now <= festivalEnd) {
+                            const dayNumber = Math.floor((now - festivalStart) / (1000 * 60 * 60 * 24)) + 1;
+                            countdownElement.innerHTML = `56th IFFI - Day ${dayNumber}`;
+                      }
+
+                      // AFTER FESTIVAL — new message
+                      else {
+                            countdownElement.innerHTML = `✨ IFFI closes but never ends…`;
+
+                            // Width change logic
+                            const elements = document.querySelectorAll('.film-roll-badge');
+                            elements.forEach(el => el.style.width = "350px");
+
+                            clearInterval(interval);
+                      }
+
+                }, 1000);
+          </script>
+ <script type="text/javascript">
+
+               const miffStart = new Date("2026-06-15T00:00:00").getTime();
+               const miffEnd = new Date("2026-06-15T23:59:59").getTime();
+
+               const miffElement = document.getElementById("miff");
+
+               if (miffElement) {
+
+                   const miffInterval = setInterval(() => {
+
+                       const now = new Date().getTime();
+
+                       // Before MIFF
+                       if (now < miffStart) {
+
+                           const diff = miffStart - now;
+                           const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                           const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+
+        
+
+                   /*  miffElement.innerHTML = `${days} Day${days !== 1 ? 's' : ''} ${hours} Hour${hours !== 1 ? 's' : ''} to MIFF`;*/
+                           miffElement.innerHTML = `${days} Day${days === 1 ? '' : 's'} to MIFF ...`;
+
+
+                     }
+
+                       // During MIFF
+                       else if (now >= miffStart && now <= miffEnd) {
+
+                           const dayNumber =
+                               Math.floor((now - miffStart) / (1000 * 60 * 60 * 24)) + 1;
+
+                           miffElement.innerHTML = `19th MIFF - Day ${dayNumber}`;
+                       }
+
+                       // After MIFF
+                       else {
+
+                           miffElement.innerHTML = `✨ MIFF concludes, cinema lives on...`;
+
+                           document.querySelectorAll('.film-roll-badge')
+                               .forEach(el => el.style.width = "350px");
+
+                           clearInterval(miffInterval);
+                       }
+
+                   }, 1000);
+               }
+
+</script>
+
+      
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("sc_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","PopupControlID":"P_CategoryManagement","dynamicServicePath":"/PressReleasePage.aspx","id":"mpe"}, null, null, $get("Hidden"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>
+

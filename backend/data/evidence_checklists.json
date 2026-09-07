@@ -1,0 +1,221 @@
+{
+  "generated_at": "2026-09-05",
+  "note": "Evidence items the agent asks a farmer to photograph and upload. `why` is what the agent says in the caller's language. `citation_id` points at the scheme fact in schemes.json that justifies asking for it. Land-record names differ by state; see `land_record_names`.",
+
+  "base": [
+    {
+      "key": "damaged_crop_photos",
+      "label": "Photos of the damaged crop from several angles",
+      "why": "The survey team judges a localised or post-harvest loss on your own field, so clear pictures of the damage from three or four sides help them see what you saw.",
+      "citation_id": "S56",
+      "required": true,
+      "instructions": "Stand at the edge of the field and take one wide photo, then two or three more from different sides. Keep the date setting on in the phone camera so the date shows on the picture."
+    },
+    {
+      "key": "field_location_photo",
+      "label": "One photo taken standing in the field with the location on",
+      "why": "The guidelines allow the damage to be reported with the location of the field and pictures, so a photo taken at the field itself with location switched on helps the reviewer find the plot.",
+      "citation_id": "S60",
+      "required": false,
+      "instructions": "Switch on location in the phone, stand inside the damaged field, and take one photo."
+    },
+    {
+      "key": "land_record",
+      "label": "Land record (chitta / patta / pattadar passbook / RTC / record of rights)",
+      "why": "The scheme asks for proof that the land is yours or that you farm it as a tenant, so the land paper of your state is needed.",
+      "citation_id": "S7",
+      "required": true,
+      "instructions": "Photograph the whole page flat, in good light, so all the writing can be read."
+    },
+    {
+      "key": "sowing_certificate",
+      "label": "Sowing certificate or crop declaration",
+      "why": "The scheme asks every farmer for a declaration of the crop sown, or the sowing certificate given by the village officer.",
+      "citation_id": "S8",
+      "required": true,
+      "instructions": "Photograph the certificate given by the village or sub-district officer. If you do not have one, the reviewer will tell you how to get it."
+    },
+    {
+      "key": "bank_passbook",
+      "label": "Bank passbook first page",
+      "why": "If a claim is settled the money is sent straight to your bank account, so your account details have to be on the record.",
+      "citation_id": "S67",
+      "required": true,
+      "instructions": "Photograph the first page of the passbook, where your name, account number and branch are printed."
+    },
+    {
+      "key": "aadhaar",
+      "label": "Aadhaar card",
+      "why": "Every farmer joining the scheme has to give an Aadhaar number, so the reviewer has to match your Aadhaar with the enrolment record.",
+      "citation_id": "S8",
+      "required": true,
+      "instructions": "Photograph the front of the Aadhaar card. Do not send it to anyone who calls you asking for it."
+    },
+    {
+      "key": "premium_receipt",
+      "label": "Insurance premium receipt or bank entry showing the premium was paid",
+      "why": "For these covers the premium has to have been taken from your account before the event, so a receipt or the bank entry helps prove the cover was live.",
+      "citation_id": "S49",
+      "required": true,
+      "instructions": "Photograph the insurance acknowledgement receipt, or the passbook page or bank message showing the premium debit."
+    }
+  ],
+
+  "by_damage_type": {
+    "pest": [
+      {
+        "key": "closeup_pest_photo",
+        "label": "Close-up photo of the affected plants",
+        "why": "Pest damage cannot be seen in a wide photo, so a close picture of the leaves or the grain helps the officer see the attack.",
+        "citation_id": "S20",
+        "required": true,
+        "instructions": "Hold the phone about one hand-length from an affected plant and take two or three clear close pictures."
+      }
+    ],
+    "disease": [
+      {
+        "key": "closeup_disease_photo",
+        "label": "Close-up photo of the affected plants",
+        "why": "Disease marks are small, so a close picture of the leaves, stem or grain helps the officer see what happened.",
+        "citation_id": "S20",
+        "required": true,
+        "instructions": "Hold the phone about one hand-length from an affected plant and take two or three clear close pictures."
+      }
+    ],
+    "post_harvest": [
+      {
+        "key": "cut_crop_photo",
+        "label": "Photo of the cut crop lying in the field",
+        "why": "The post-harvest cover is only for a crop that was cut and left drying in the field, so a picture of the cut crop where it lies is important.",
+        "citation_id": "S25",
+        "required": true,
+        "instructions": "Photograph the bundles or the spread crop exactly where they are lying, without moving them."
+      },
+      {
+        "key": "harvest_date_note",
+        "label": "Anything that shows when you harvested",
+        "why": "The cover runs for a limited number of days from harvest, so anything showing the harvest date helps the reviewer.",
+        "citation_id": "S25",
+        "required": false,
+        "instructions": "A harvester bill, a labour payment note, or a photo you took on the harvest day is enough."
+      }
+    ],
+    "cyclone": [
+      {
+        "key": "cut_crop_photo",
+        "label": "Photo of the cut crop lying in the field, if the crop was already harvested",
+        "why": "If the crop was already cut and drying in the field when the storm came, that is a different part of the cover, so a picture of the cut crop helps.",
+        "citation_id": "S24",
+        "required": false,
+        "instructions": "Only if your crop was already cut. Photograph the bundles or the spread crop where they lie."
+      }
+    ],
+    "hailstorm": [
+      {
+        "key": "cut_crop_photo",
+        "label": "Photo of the cut crop lying in the field, if the crop was already harvested",
+        "why": "Hail is covered both for standing crop and for a cut crop drying in the field, so a picture of the cut crop helps if it applies to you.",
+        "citation_id": "S24",
+        "required": false,
+        "instructions": "Only if your crop was already cut. Photograph the bundles or the spread crop where they lie."
+      },
+      {
+        "key": "closeup_damage_photo",
+        "label": "Close-up photo of the beaten grain or leaves",
+        "why": "Hail damage shows on the grain and leaves, so a close picture helps the officer judge how bad it is.",
+        "citation_id": "S26",
+        "required": false,
+        "instructions": "Take two or three close pictures of the damaged ears or leaves."
+      }
+    ],
+    "unseasonal_rain": [
+      {
+        "key": "cut_crop_photo",
+        "label": "Photo of the cut crop lying in the field, if the crop was already harvested",
+        "why": "Unseasonal rain is a listed post-harvest peril, so if the crop was cut and drying, a picture of it where it lies matters.",
+        "citation_id": "S24",
+        "required": false,
+        "instructions": "Only if your crop was already cut. Photograph the bundles or the spread crop where they lie."
+      }
+    ],
+    "flood": [
+      {
+        "key": "standing_water_photo",
+        "label": "Photo showing water standing in the field",
+        "why": "Inundation means water that stayed a long time and visibly damaged the crop, so a picture with the water in it helps.",
+        "citation_id": "S27",
+        "required": false,
+        "instructions": "If water is still standing, photograph it with the crop visible. If it has drained, photograph the silt or the flattened crop."
+      }
+    ],
+    "inundation": [
+      {
+        "key": "standing_water_photo",
+        "label": "Photo showing water standing in the field",
+        "why": "Inundation means water that stayed a long time and visibly damaged the crop, so a picture with the water in it helps.",
+        "citation_id": "S27",
+        "required": false,
+        "instructions": "If water is still standing, photograph it with the crop visible. If it has drained, photograph the silt or the flattened crop."
+      }
+    ],
+    "fire": [
+      {
+        "key": "burnt_area_photo",
+        "label": "Photo of the burnt part of the field",
+        "why": "Only natural fire from lightning is covered, so pictures of the burnt area and its edges help the officer understand what happened.",
+        "citation_id": "S26",
+        "required": true,
+        "instructions": "Photograph the burnt patch and where it stops, from two or three sides."
+      }
+    ],
+    "landslide": [
+      {
+        "key": "slide_photo",
+        "label": "Photo of the slipped soil and the buried crop",
+        "why": "Landslide is one of the localised risks, so the reviewer needs to see the slipped earth and how much crop is under it.",
+        "citation_id": "S26",
+        "required": true,
+        "instructions": "Photograph the slipped soil and the crop under it, from a safe place."
+      }
+    ],
+    "drought": [
+      {
+        "key": "dry_field_photo",
+        "label": "Photo of the dried crop across the field",
+        "why": "For a season-wide loss like drought the harvest is measured for the whole village, but your pictures still help the reviewer describe your field.",
+        "citation_id": "S52",
+        "required": false,
+        "instructions": "Take one wide photo of the field and one closer photo of the dried plants."
+      }
+    ],
+    "prevented_sowing": [
+      {
+        "key": "unsown_field_photo",
+        "label": "Photo of the field that could not be sown",
+        "why": "This cover is for land where sowing could not happen at all, so a picture of the empty or waterlogged field helps.",
+        "citation_id": "S21",
+        "required": true,
+        "instructions": "Take one wide photo of the unsown field."
+      }
+    ]
+  },
+
+  "land_record_names": {
+    "Tamil Nadu": "chitta and adangal, or the patta",
+    "Karnataka": "the RTC, also called pahani",
+    "Andhra Pradesh": "the adangal or pattadar passbook",
+    "Telangana": "the pattadar passbook or dharani record",
+    "Kerala": "the possession certificate or thandaper record",
+    "Maharashtra": "the seven twelve extract",
+    "Gujarat": "the seven twelve extract",
+    "Punjab": "the jamabandi or fard",
+    "Haryana": "the jamabandi or fard",
+    "Uttar Pradesh": "the khatauni or khasra",
+    "Bihar": "the jamabandi or land possession certificate",
+    "West Bengal": "the record of rights, the porcha",
+    "Madhya Pradesh": "the khasra or khatauni",
+    "Rajasthan": "the jamabandi or girdawari",
+    "Odisha": "the record of rights or pattadar record",
+    "default": "your land record, whatever it is called in your state"
+  }
+}

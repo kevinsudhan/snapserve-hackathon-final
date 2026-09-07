@@ -1,0 +1,6139 @@
+{
+ "state": "Tamil Nadu",
+ "as_of": "2026-09-05",
+ "entry_count": 229,
+ "notes": [
+  "Windows are whole-month ranges: a sowing window of 05-01 to 06-30 means the source records peak sowing in May-June, not exact calendar days.",
+  "Entries are grouped: districts that share an identical window in the source share one C- id.",
+  "Chennai and Mayiladuthurai have no rows in Table X (Chennai is urban; Mayiladuthurai was formed in 2020 after the table's data year), so no window is claimed for them.",
+  "Cross-check: for Cuddalore and Coimbatore groundnut and sesame the TN Table X windows match the PMFBY district crop calendar exactly.",
+  "Paddy seasons keep their Tamil Nadu names (kuruvai/kar/sornavari, samba/thaladi/pishanam, navarai/kodai). For other crops the season group is derived from the sowing month: Jun-Sep kharif, Oct-Jan rabi, Feb-May summer."
+ ],
+ "sources": [
+  {
+   "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+   "url": "https://des.tn.gov.in/en/node/18",
+   "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+   "as_of": "2026-09-05",
+   "kind": "crop"
+  },
+  {
+   "title": "PMFBY district-wise crop calendar (Tamil Nadu rows)",
+   "url": "https://pmfby.gov.in/pdf/New_Crop_Calendar_20.09.18.pdf",
+   "publisher": "Pradhan Mantri Fasal Bima Yojana, Ministry of Agriculture & Farmers Welfare",
+   "as_of": "2026-09-05",
+   "kind": "crop"
+  }
+ ],
+ "entries": [
+  {
+   "id": "C-1",
+   "crop": "bajra",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Ranipet",
+    "Tirupathur",
+    "Vellore"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "04-01",
+   "harvest_end": "05-31",
+   "note": "bajra (irrigated), rabi season: sown Jan-Feb, harvested Apr-May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-1",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-2",
+   "crop": "bajra",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Krishnagiri",
+    "Salem",
+    "Tiruvannamalai"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "02-28",
+   "harvest_start": "05-01",
+   "harvest_end": "05-31",
+   "note": "bajra (irrigated), summer season: sown Feb, harvested May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-2",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-3",
+   "crop": "bajra",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Cuddalore",
+    "Dharmapuri",
+    "Dindigul",
+    "Kallakurichi",
+    "Tiruppur",
+    "Tiruvallur",
+    "Viluppuram"
+   ],
+   "sowing_start": "04-01",
+   "sowing_end": "05-31",
+   "harvest_start": "07-01",
+   "harvest_end": "07-31",
+   "note": "bajra (irrigated), summer season: sown Apr-May, harvested Jul.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-3",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-4",
+   "crop": "bajra",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Erode",
+    "Karur",
+    "Perambalur",
+    "Tiruchirappalli",
+    "Virudhunagar"
+   ],
+   "sowing_start": "04-01",
+   "sowing_end": "04-30",
+   "harvest_start": "07-01",
+   "harvest_end": "07-31",
+   "note": "bajra (irrigated), summer season: sown Apr, harvested Jul.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-4",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-5",
+   "crop": "bajra",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Theni"
+   ],
+   "sowing_start": "05-01",
+   "sowing_end": "05-31",
+   "harvest_start": "07-01",
+   "harvest_end": "08-31",
+   "note": "bajra (irrigated), summer season: sown May, harvested Jul-Aug.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-5",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-6",
+   "crop": "bajra",
+   "season": "kharif",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Madurai",
+    "Namakkal"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "09-01",
+   "harvest_end": "10-31",
+   "note": "bajra (irrigated), kharif season: sown Jun-Jul, harvested Sep-Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-6",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-7",
+   "crop": "bajra",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Ramanathapuram",
+    "Tenkasi",
+    "Tirunelveli"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "01-01",
+   "harvest_end": "01-31",
+   "note": "bajra (irrigated), rabi season: sown Oct, harvested Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-7",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-8",
+   "crop": "bajra",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Madurai"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "01-31",
+   "harvest_start": "03-01",
+   "harvest_end": "04-30",
+   "note": "bajra (un-irrigated), rabi season: sown Jan, harvested Mar-Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-8",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-9",
+   "crop": "bajra",
+   "season": "summer",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Krishnagiri",
+    "Namakkal",
+    "Salem"
+   ],
+   "sowing_start": "04-01",
+   "sowing_end": "05-31",
+   "harvest_start": "07-01",
+   "harvest_end": "08-31",
+   "note": "bajra (un-irrigated), summer season: sown Apr-May, harvested Jul-Aug.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-9",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-10",
+   "crop": "bajra",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Perambalur",
+    "Pudukkottai"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "10-01",
+   "harvest_end": "10-31",
+   "note": "bajra (un-irrigated), kharif season: sown Jun-Jul, harvested Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-10",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-11",
+   "crop": "bajra",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Dharmapuri",
+    "Tiruvallur"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "09-01",
+   "harvest_end": "10-31",
+   "note": "bajra (un-irrigated), kharif season: sown Jun-Jul, harvested Sep-Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-11",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-12",
+   "crop": "bajra",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Cuddalore",
+    "Kallakurichi",
+    "Ranipet",
+    "Tirupathur",
+    "Tiruvannamalai",
+    "Vellore",
+    "Viluppuram"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "07-31",
+   "harvest_start": "09-01",
+   "harvest_end": "10-31",
+   "note": "bajra (un-irrigated), kharif season: sown Jul, harvested Sep-Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-12",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-13",
+   "crop": "bajra",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Karur",
+    "Tiruchirappalli"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "09-30",
+   "harvest_start": "12-01",
+   "harvest_end": "12-31",
+   "note": "bajra (un-irrigated), kharif season: sown Aug-Sep, harvested Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-13",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-14",
+   "crop": "bajra",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Erode"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "08-31",
+   "harvest_start": "11-01",
+   "harvest_end": "11-30",
+   "note": "bajra (un-irrigated), kharif season: sown Aug, harvested Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-14",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-15",
+   "crop": "bajra",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Dindigul",
+    "Tiruppur"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "10-31",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "bajra (un-irrigated), kharif season: sown Sep-Oct, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-15",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-16",
+   "crop": "bajra",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Theni"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "09-30",
+   "harvest_start": "12-01",
+   "harvest_end": "12-31",
+   "note": "bajra (un-irrigated), kharif season: sown Sep, harvested Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-16",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-17",
+   "crop": "bajra",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Ramanathapuram",
+    "Tenkasi",
+    "Tirunelveli",
+    "Virudhunagar"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "01-01",
+   "harvest_end": "01-31",
+   "note": "bajra (un-irrigated), rabi season: sown Oct, harvested Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-17",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-18",
+   "crop": "black_gram",
+   "season": "rabi",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Erode",
+    "Karur",
+    "Tiruchirappalli",
+    "Tiruvarur"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "01-31",
+   "harvest_start": "04-01",
+   "harvest_end": "04-30",
+   "note": "black gram, rabi season: sown Jan, harvested Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-18",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-19",
+   "crop": "black_gram",
+   "season": "rabi",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Nagapattinam",
+    "Thanjavur"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "04-01",
+   "harvest_end": "04-30",
+   "note": "black gram, rabi season: sown Jan-Feb, harvested Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-19",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-20",
+   "crop": "black_gram",
+   "season": "rabi",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Cuddalore"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "04-01",
+   "harvest_end": "10-31",
+   "note": "black gram, rabi season: sown Jan-Feb, harvested Apr-Oct.",
+   "source": "pmfby_calendar",
+   "citation": {
+    "id": "C-20",
+    "title": "PMFBY district-wise crop calendar (Tamil Nadu rows)",
+    "url": "https://pmfby.gov.in/pdf/New_Crop_Calendar_20.09.18.pdf",
+    "publisher": "Pradhan Mantri Fasal Bima Yojana, Ministry of Agriculture & Farmers Welfare",
+    "page": 95,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-21",
+   "crop": "black_gram",
+   "season": "summer",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Tenkasi",
+    "Tirunelveli"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "02-28",
+   "harvest_start": "04-01",
+   "harvest_end": "04-30",
+   "note": "black gram, summer season: sown Feb, harvested Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-21",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-22",
+   "crop": "black_gram",
+   "season": "summer",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Kanniyakumari"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "03-31",
+   "harvest_start": "04-01",
+   "harvest_end": "05-31",
+   "note": "black gram, summer season: sown Feb-Mar, harvested Apr-May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-22",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-23",
+   "crop": "black_gram",
+   "season": "summer",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Kallakurichi",
+    "Viluppuram"
+   ],
+   "sowing_start": "03-01",
+   "sowing_end": "03-31",
+   "harvest_start": "05-01",
+   "harvest_end": "05-31",
+   "note": "black gram, summer season: sown Mar, harvested May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-23",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-24",
+   "crop": "black_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Madurai",
+    "Pudukkottai"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "08-01",
+   "harvest_end": "09-30",
+   "note": "black gram, kharif season: sown Jun-Jul, harvested Aug-Sep.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-24",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-25",
+   "crop": "black_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Theni"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "06-30",
+   "harvest_start": "08-01",
+   "harvest_end": "09-30",
+   "note": "black gram, kharif season: sown Jun, harvested Aug-Sep.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-25",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-26",
+   "crop": "black_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Coimbatore",
+    "Dindigul",
+    "Perambalur",
+    "Ranipet",
+    "Sivaganga",
+    "Tirupathur",
+    "Tiruppur",
+    "Tiruvallur",
+    "Tiruvannamalai",
+    "Vellore"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "08-31",
+   "harvest_start": "09-01",
+   "harvest_end": "10-31",
+   "note": "black gram, kharif season: sown Jul-Aug, harvested Sep-Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-26",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-27",
+   "crop": "black_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Dharmapuri",
+    "Namakkal",
+    "Salem"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "10-31",
+   "harvest_start": "11-01",
+   "harvest_end": "12-31",
+   "note": "black gram, kharif season: sown Sep-Oct, harvested Nov-Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-27",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-28",
+   "crop": "black_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Krishnagiri"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "10-31",
+   "harvest_start": "12-01",
+   "harvest_end": "12-31",
+   "note": "black gram, kharif season: sown Sep-Oct, harvested Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-28",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-29",
+   "crop": "black_gram",
+   "season": "rabi",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Ramanathapuram",
+    "Thoothukudi",
+    "Virudhunagar"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "black gram, rabi season: sown Oct, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-29",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-30",
+   "crop": "black_gram",
+   "season": "rabi",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Kancheepuram"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "01-31",
+   "harvest_start": "01-01",
+   "harvest_end": "04-30",
+   "note": "black gram, rabi season: sown Oct-Jan, harvested Jan-Apr.",
+   "source": "pmfby_calendar",
+   "citation": {
+    "id": "C-30",
+    "title": "PMFBY district-wise crop calendar (Tamil Nadu rows)",
+    "url": "https://pmfby.gov.in/pdf/New_Crop_Calendar_20.09.18.pdf",
+    "publisher": "Pradhan Mantri Fasal Bima Yojana, Ministry of Agriculture & Farmers Welfare",
+    "page": 95,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-31",
+   "crop": "cotton",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Dindigul",
+    "Thoothukudi"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "06-01",
+   "harvest_end": "07-31",
+   "note": "cotton (irrigated), rabi season: sown Jan-Feb, harvested Jun-Jul.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-31",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-32",
+   "crop": "cotton",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Thanjavur"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "05-01",
+   "harvest_end": "06-30",
+   "note": "cotton (irrigated), rabi season: sown Jan-Feb, harvested May-Jun.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-32",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-33",
+   "crop": "cotton",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Krishnagiri",
+    "Madurai",
+    "Nagapattinam",
+    "Salem",
+    "Tenkasi",
+    "Tirunelveli",
+    "Tiruvannamalai"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "03-31",
+   "harvest_start": "06-01",
+   "harvest_end": "07-31",
+   "note": "cotton (irrigated), summer season: sown Feb-Mar, harvested Jun-Jul.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-33",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-34",
+   "crop": "cotton",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Karur",
+    "Ramanathapuram",
+    "Tiruchirappalli"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "02-28",
+   "harvest_start": "06-01",
+   "harvest_end": "06-30",
+   "note": "cotton (irrigated), summer season: sown Feb, harvested Jun.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-34",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-35",
+   "crop": "cotton",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Tiruvarur",
+    "Virudhunagar"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "02-28",
+   "harvest_start": "06-01",
+   "harvest_end": "07-31",
+   "note": "cotton (irrigated), summer season: sown Feb, harvested Jun-Jul.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-35",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-36",
+   "crop": "cotton",
+   "season": "kharif",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Kallakurichi",
+    "Viluppuram"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "08-31",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "cotton (irrigated), kharif season: sown Jul-Aug, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-36",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-37",
+   "crop": "cotton",
+   "season": "kharif",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Tiruppur"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "10-31",
+   "harvest_start": "01-01",
+   "harvest_end": "04-30",
+   "note": "cotton (irrigated), kharif season: sown Aug-Oct, harvested Jan-Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-37",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-38",
+   "crop": "cotton",
+   "season": "kharif",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Dharmapuri"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "09-30",
+   "harvest_start": "01-01",
+   "harvest_end": "02-28",
+   "note": "cotton (irrigated), kharif season: sown Aug-Sep, harvested Jan-Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-38",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-39",
+   "crop": "cotton",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Erode"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "03-01",
+   "harvest_end": "03-31",
+   "note": "cotton (irrigated), rabi season: sown Oct, harvested Mar.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-39",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-40",
+   "crop": "cotton",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Theni"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "03-01",
+   "harvest_end": "04-30",
+   "note": "cotton (irrigated), rabi season: sown Oct, harvested Mar-Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-40",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-41",
+   "crop": "cotton",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Cuddalore"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "01-31",
+   "harvest_start": "04-01",
+   "harvest_end": "05-31",
+   "note": "cotton (irrigated), rabi season: sown Dec-Jan, harvested Apr-May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-41",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-42",
+   "crop": "cotton",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Sivaganga"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "01-31",
+   "harvest_start": "04-01",
+   "harvest_end": "04-30",
+   "note": "cotton (irrigated), rabi season: sown Dec-Jan, harvested Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-42",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-43",
+   "crop": "cotton",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Dharmapuri"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "08-31",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "cotton (un-irrigated), kharif season: sown Jul-Aug, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-43",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-44",
+   "crop": "cotton",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Krishnagiri",
+    "Ranipet",
+    "Salem",
+    "Tirupathur",
+    "Tiruppur",
+    "Vellore"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "09-30",
+   "harvest_start": "01-01",
+   "harvest_end": "02-28",
+   "note": "cotton (un-irrigated), kharif season: sown Aug-Sep, harvested Jan-Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-44",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-45",
+   "crop": "cotton",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Cuddalore",
+    "Madurai",
+    "Perambalur",
+    "Virudhunagar"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "09-30",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "cotton (un-irrigated), kharif season: sown Aug-Sep, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-45",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-46",
+   "crop": "cotton",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Karur",
+    "Tiruchirappalli"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "09-30",
+   "harvest_start": "12-01",
+   "harvest_end": "12-31",
+   "note": "cotton (un-irrigated), kharif season: sown Aug-Sep, harvested Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-46",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-47",
+   "crop": "cotton",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Tenkasi",
+    "Thoothukudi",
+    "Tirunelveli"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "10-31",
+   "harvest_start": "02-01",
+   "harvest_end": "03-31",
+   "note": "cotton (un-irrigated), kharif season: sown Sep-Oct, harvested Feb-Mar.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-47",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-48",
+   "crop": "cotton",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Theni"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "09-30",
+   "harvest_start": "02-01",
+   "harvest_end": "02-28",
+   "note": "cotton (un-irrigated), kharif season: sown Sep, harvested Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-48",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-49",
+   "crop": "cotton",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Dindigul"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "10-31",
+   "harvest_start": "01-01",
+   "harvest_end": "02-28",
+   "note": "cotton (un-irrigated), kharif season: sown Sep-Oct, harvested Jan-Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-49",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-50",
+   "crop": "cotton",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Kallakurichi",
+    "Viluppuram"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "02-01",
+   "harvest_end": "02-28",
+   "note": "cotton (un-irrigated), rabi season: sown Oct, harvested Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-50",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-51",
+   "crop": "cotton",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Ramanathapuram"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "03-01",
+   "harvest_end": "03-31",
+   "note": "cotton (un-irrigated), rabi season: sown Oct, harvested Mar.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-51",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-52",
+   "crop": "green_gram",
+   "season": "rabi",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Krishnagiri",
+    "Nagapattinam",
+    "Namakkal",
+    "Salem",
+    "Thanjavur"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "04-01",
+   "harvest_end": "04-30",
+   "note": "green gram, rabi season: sown Jan-Feb, harvested Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-52",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-53",
+   "crop": "green_gram",
+   "season": "rabi",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Erode",
+    "Tiruchirappalli",
+    "Tiruvarur"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "01-31",
+   "harvest_start": "04-01",
+   "harvest_end": "04-30",
+   "note": "green gram, rabi season: sown Jan, harvested Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-53",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-54",
+   "crop": "green_gram",
+   "season": "rabi",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Tiruvallur"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "01-31",
+   "harvest_start": "03-01",
+   "harvest_end": "04-30",
+   "note": "green gram, rabi season: sown Jan, harvested Mar-Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-54",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-55",
+   "crop": "green_gram",
+   "season": "rabi",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Cuddalore"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "04-01",
+   "harvest_end": "04-30",
+   "note": "green gram, rabi season: sown Jan-Feb, harvested Apr.",
+   "source": "pmfby_calendar",
+   "citation": {
+    "id": "C-55",
+    "title": "PMFBY district-wise crop calendar (Tamil Nadu rows)",
+    "url": "https://pmfby.gov.in/pdf/New_Crop_Calendar_20.09.18.pdf",
+    "publisher": "Pradhan Mantri Fasal Bima Yojana, Ministry of Agriculture & Farmers Welfare",
+    "page": 95,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-56",
+   "crop": "green_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Dharmapuri",
+    "Madurai",
+    "Pudukkottai",
+    "Tiruppur"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "08-01",
+   "harvest_end": "09-30",
+   "note": "green gram, kharif season: sown Jun-Jul, harvested Aug-Sep.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-56",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-57",
+   "crop": "green_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Sivaganga"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "08-31",
+   "harvest_start": "09-01",
+   "harvest_end": "10-31",
+   "note": "green gram, kharif season: sown Jul-Aug, harvested Sep-Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-57",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-58",
+   "crop": "green_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Kallakurichi",
+    "Perambalur",
+    "Viluppuram"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "09-30",
+   "harvest_start": "10-01",
+   "harvest_end": "11-30",
+   "note": "green gram, kharif season: sown Aug-Sep, harvested Oct-Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-58",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-59",
+   "crop": "green_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Dindigul",
+    "Tenkasi",
+    "Tirunelveli"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "10-31",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "green gram, kharif season: sown Sep-Oct, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-59",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-60",
+   "crop": "green_gram",
+   "season": "rabi",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Ramanathapuram",
+    "Ranipet",
+    "Theni",
+    "Thoothukudi",
+    "Tirupathur",
+    "Tiruvannamalai",
+    "Vellore",
+    "Virudhunagar"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "01-01",
+   "harvest_end": "01-31",
+   "note": "green gram, rabi season: sown Oct, harvested Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-60",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-61",
+   "crop": "green_gram",
+   "season": "rabi",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Kancheepuram"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "01-31",
+   "harvest_start": "01-01",
+   "harvest_end": "04-30",
+   "note": "green gram, rabi season: sown Oct-Jan, harvested Jan-Apr.",
+   "source": "pmfby_calendar",
+   "citation": {
+    "id": "C-61",
+    "title": "PMFBY district-wise crop calendar (Tamil Nadu rows)",
+    "url": "https://pmfby.gov.in/pdf/New_Crop_Calendar_20.09.18.pdf",
+    "publisher": "Pradhan Mantri Fasal Bima Yojana, Ministry of Agriculture & Farmers Welfare",
+    "page": 95,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-62",
+   "crop": "groundnut",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Ramanathapuram",
+    "Tenkasi",
+    "Tirunelveli"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "02-28",
+   "harvest_start": "05-01",
+   "harvest_end": "05-31",
+   "note": "groundnut (irrigated), summer season: sown Feb, harvested May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-62",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-63",
+   "crop": "groundnut",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Kallakurichi",
+    "Viluppuram"
+   ],
+   "sowing_start": "04-01",
+   "sowing_end": "05-31",
+   "harvest_start": "06-01",
+   "harvest_end": "07-31",
+   "note": "groundnut (irrigated), summer season: sown Apr-May, harvested Jun-Jul.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-63",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-64",
+   "crop": "groundnut",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Tiruppur"
+   ],
+   "sowing_start": "04-01",
+   "sowing_end": "05-31",
+   "harvest_start": "07-01",
+   "harvest_end": "08-31",
+   "note": "groundnut (irrigated), summer season: sown Apr-May, harvested Jul-Aug.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-64",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-65",
+   "crop": "groundnut",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Dharmapuri",
+    "Namakkal"
+   ],
+   "sowing_start": "05-01",
+   "sowing_end": "06-30",
+   "harvest_start": "08-01",
+   "harvest_end": "09-30",
+   "note": "groundnut (irrigated), summer season: sown May-Jun, harvested Aug-Sep.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-65",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-66",
+   "crop": "groundnut",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Cuddalore",
+    "Sivaganga"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "11-30",
+   "harvest_start": "02-01",
+   "harvest_end": "03-31",
+   "note": "groundnut (irrigated), rabi season: sown Oct-Nov, harvested Feb-Mar.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-66",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-67",
+   "crop": "groundnut",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Krishnagiri",
+    "Ranipet",
+    "Salem",
+    "Tirupathur",
+    "Tiruvannamalai",
+    "Vellore"
+   ],
+   "sowing_start": "11-01",
+   "sowing_end": "12-31",
+   "harvest_start": "02-01",
+   "harvest_end": "03-31",
+   "note": "groundnut (irrigated), rabi season: sown Nov-Dec, harvested Feb-Mar.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-67",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-68",
+   "crop": "groundnut",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Dindigul",
+    "Madurai",
+    "Perambalur",
+    "Pudukkottai",
+    "Theni",
+    "Tiruvallur",
+    "Virudhunagar"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "01-31",
+   "harvest_start": "03-01",
+   "harvest_end": "04-30",
+   "note": "groundnut (irrigated), rabi season: sown Dec-Jan, harvested Mar-Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-68",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-69",
+   "crop": "groundnut",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Chengalpattu",
+    "Erode",
+    "Kancheepuram",
+    "Karur",
+    "Tiruchirappalli"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "12-31",
+   "harvest_start": "03-01",
+   "harvest_end": "03-31",
+   "note": "groundnut (irrigated), rabi season: sown Dec, harvested Mar.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-69",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-70",
+   "crop": "groundnut",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Nagapattinam",
+    "Tiruvarur"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "01-31",
+   "harvest_start": "04-01",
+   "harvest_end": "05-31",
+   "note": "groundnut (irrigated), rabi season: sown Dec-Jan, harvested Apr-May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-70",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-71",
+   "crop": "groundnut",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Thanjavur"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "12-31",
+   "harvest_start": "03-01",
+   "harvest_end": "04-30",
+   "note": "groundnut (irrigated), rabi season: sown Dec, harvested Mar-Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-71",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-72",
+   "crop": "groundnut",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Thoothukudi"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "01-31",
+   "harvest_start": "03-01",
+   "harvest_end": "04-30",
+   "note": "groundnut (irrigated), rabi season: sown Dec-Jan, harvested Mar-Apr.",
+   "source": "pmfby_calendar",
+   "citation": {
+    "id": "C-72",
+    "title": "PMFBY district-wise crop calendar (Tamil Nadu rows)",
+    "url": "https://pmfby.gov.in/pdf/New_Crop_Calendar_20.09.18.pdf",
+    "publisher": "Pradhan Mantri Fasal Bima Yojana, Ministry of Agriculture & Farmers Welfare",
+    "page": 99,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-73",
+   "crop": "groundnut",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Thanjavur"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "01-31",
+   "harvest_start": "04-01",
+   "harvest_end": "04-30",
+   "note": "groundnut (un-irrigated), rabi season: sown Jan, harvested Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-73",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-74",
+   "crop": "groundnut",
+   "season": "summer",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Namakkal"
+   ],
+   "sowing_start": "05-01",
+   "sowing_end": "06-30",
+   "harvest_start": "08-01",
+   "harvest_end": "09-30",
+   "note": "groundnut (un-irrigated), summer season: sown May-Jun, harvested Aug-Sep.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-74",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-75",
+   "crop": "groundnut",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Cuddalore",
+    "Dharmapuri",
+    "Dindigul",
+    "Madurai",
+    "Pudukkottai",
+    "Sivaganga",
+    "Theni",
+    "Tiruvallur"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "09-01",
+   "harvest_end": "10-31",
+   "note": "groundnut (un-irrigated), kharif season: sown Jun-Jul, harvested Sep-Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-75",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-76",
+   "crop": "groundnut",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Erode",
+    "Karur",
+    "Krishnagiri",
+    "Salem",
+    "Tiruchirappalli",
+    "Tiruppur"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "08-01",
+   "harvest_end": "09-30",
+   "note": "groundnut (un-irrigated), kharif season: sown Jun-Jul, harvested Aug-Sep.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-76",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-77",
+   "crop": "groundnut",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Ranipet",
+    "Tirupathur",
+    "Vellore"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "10-01",
+   "harvest_end": "11-30",
+   "note": "groundnut (un-irrigated), kharif season: sown Jun-Jul, harvested Oct-Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-77",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-78",
+   "crop": "groundnut",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Virudhunagar"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "07-31",
+   "harvest_start": "10-01",
+   "harvest_end": "10-31",
+   "note": "groundnut (un-irrigated), kharif season: sown Jul, harvested Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-78",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-79",
+   "crop": "groundnut",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Chengalpattu",
+    "Kancheepuram",
+    "Perambalur"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "08-31",
+   "harvest_start": "10-01",
+   "harvest_end": "10-31",
+   "note": "groundnut (un-irrigated), kharif season: sown Aug, harvested Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-79",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-80",
+   "crop": "groundnut",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Tenkasi",
+    "Tirunelveli"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "09-30",
+   "harvest_start": "02-01",
+   "harvest_end": "02-28",
+   "note": "groundnut (un-irrigated), kharif season: sown Sep, harvested Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-80",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-81",
+   "crop": "groundnut",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Ramanathapuram",
+    "Tiruvannamalai"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "02-01",
+   "harvest_end": "02-28",
+   "note": "groundnut (un-irrigated), rabi season: sown Oct, harvested Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-81",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-82",
+   "crop": "groundnut",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Kallakurichi",
+    "Viluppuram"
+   ],
+   "sowing_start": "11-01",
+   "sowing_end": "12-31",
+   "harvest_start": "02-01",
+   "harvest_end": "03-31",
+   "note": "groundnut (un-irrigated), rabi season: sown Nov-Dec, harvested Feb-Mar.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-82",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-83",
+   "crop": "groundnut",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Nagapattinam"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "01-31",
+   "harvest_start": "04-01",
+   "harvest_end": "05-31",
+   "note": "groundnut (un-irrigated), rabi season: sown Dec-Jan, harvested Apr-May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-83",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-84",
+   "crop": "jowar",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Erode",
+    "Karur",
+    "Madurai",
+    "Sivaganga",
+    "Tiruchirappalli"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "01-31",
+   "harvest_start": "04-01",
+   "harvest_end": "04-30",
+   "note": "jowar (irrigated), rabi season: sown Jan, harvested Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-84",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-85",
+   "crop": "jowar",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Theni"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "05-01",
+   "harvest_end": "05-31",
+   "note": "jowar (irrigated), rabi season: sown Jan-Feb, harvested May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-85",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-86",
+   "crop": "jowar",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Dindigul"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "04-01",
+   "harvest_end": "05-31",
+   "note": "jowar (irrigated), rabi season: sown Jan-Feb, harvested Apr-May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-86",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-87",
+   "crop": "jowar",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Pudukkottai",
+    "Virudhunagar"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "03-31",
+   "harvest_start": "06-01",
+   "harvest_end": "06-30",
+   "note": "jowar (irrigated), summer season: sown Feb-Mar, harvested Jun.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-87",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-88",
+   "crop": "jowar",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Tiruvannamalai"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "03-31",
+   "harvest_start": "05-01",
+   "harvest_end": "06-30",
+   "note": "jowar (irrigated), summer season: sown Feb-Mar, harvested May-Jun.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-88",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-89",
+   "crop": "jowar",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Perambalur"
+   ],
+   "sowing_start": "03-01",
+   "sowing_end": "03-31",
+   "harvest_start": "06-01",
+   "harvest_end": "06-30",
+   "note": "jowar (irrigated), summer season: sown Mar, harvested Jun.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-89",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-90",
+   "crop": "jowar",
+   "season": "kharif",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Namakkal",
+    "Tiruppur"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "09-01",
+   "harvest_end": "10-31",
+   "note": "jowar (irrigated), kharif season: sown Jun-Jul, harvested Sep-Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-90",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-91",
+   "crop": "jowar",
+   "season": "kharif",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Krishnagiri",
+    "Salem"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "06-30",
+   "harvest_start": "08-01",
+   "harvest_end": "08-31",
+   "note": "jowar (irrigated), kharif season: sown Jun, harvested Aug.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-91",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-92",
+   "crop": "jowar",
+   "season": "kharif",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Kallakurichi",
+    "Viluppuram"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "08-31",
+   "harvest_start": "10-01",
+   "harvest_end": "11-30",
+   "note": "jowar (irrigated), kharif season: sown Jul-Aug, harvested Oct-Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-92",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-93",
+   "crop": "jowar",
+   "season": "kharif",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Tenkasi",
+    "Tirunelveli"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "09-30",
+   "harvest_start": "12-01",
+   "harvest_end": "12-31",
+   "note": "jowar (irrigated), kharif season: sown Sep, harvested Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-93",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-94",
+   "crop": "jowar",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Dharmapuri",
+    "Ranipet",
+    "Tirupathur",
+    "Tiruvannamalai",
+    "Vellore"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "08-31",
+   "harvest_start": "11-01",
+   "harvest_end": "12-31",
+   "note": "jowar (un-irrigated), kharif season: sown Jul-Aug, harvested Nov-Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-94",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-95",
+   "crop": "jowar",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Namakkal",
+    "Pudukkottai",
+    "Tiruvallur"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "07-31",
+   "harvest_start": "11-01",
+   "harvest_end": "11-30",
+   "note": "jowar (un-irrigated), kharif season: sown Jul, harvested Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-95",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-96",
+   "crop": "jowar",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Karur",
+    "Tiruchirappalli"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "07-31",
+   "harvest_start": "11-01",
+   "harvest_end": "12-31",
+   "note": "jowar (un-irrigated), kharif season: sown Jul, harvested Nov-Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-96",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-97",
+   "crop": "jowar",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Cuddalore"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "08-31",
+   "harvest_start": "11-01",
+   "harvest_end": "11-30",
+   "note": "jowar (un-irrigated), kharif season: sown Jul-Aug, harvested Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-97",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-98",
+   "crop": "jowar",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Sivaganga"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "08-31",
+   "harvest_start": "11-01",
+   "harvest_end": "12-31",
+   "note": "jowar (un-irrigated), kharif season: sown Aug, harvested Nov-Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-98",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-99",
+   "crop": "jowar",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Coimbatore",
+    "Dindigul",
+    "Erode",
+    "Krishnagiri",
+    "Perambalur",
+    "Ramanathapuram",
+    "Salem",
+    "Tenkasi",
+    "Theni",
+    "Tirunelveli",
+    "Tiruppur",
+    "Virudhunagar"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "09-30",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "jowar (un-irrigated), kharif season: sown Sep, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-99",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-100",
+   "crop": "jowar",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Madurai"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "09-30",
+   "harvest_start": "12-01",
+   "harvest_end": "12-31",
+   "note": "jowar (un-irrigated), kharif season: sown Sep, harvested Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-100",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 358,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-101",
+   "crop": "maize",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Erode",
+    "Ranipet",
+    "Thanjavur",
+    "Tirupathur",
+    "Vellore"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "01-31",
+   "harvest_start": "04-01",
+   "harvest_end": "04-30",
+   "note": "maize (irrigated), rabi season: sown Jan, harvested Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-101",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-102",
+   "crop": "maize",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Dindigul",
+    "Madurai",
+    "Pudukkottai"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "04-01",
+   "harvest_end": "05-31",
+   "note": "maize (irrigated), rabi season: sown Jan-Feb, harvested Apr-May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-102",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-103",
+   "crop": "maize",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Tiruchirappalli",
+    "Virudhunagar"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "02-28",
+   "harvest_start": "05-01",
+   "harvest_end": "05-31",
+   "note": "maize (irrigated), summer season: sown Feb, harvested May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-103",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-104",
+   "crop": "maize",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Perambalur"
+   ],
+   "sowing_start": "03-01",
+   "sowing_end": "03-31",
+   "harvest_start": "06-01",
+   "harvest_end": "06-30",
+   "note": "maize (irrigated), summer season: sown Mar, harvested Jun.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-104",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-105",
+   "crop": "maize",
+   "season": "kharif",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Kallakurichi",
+    "Theni",
+    "Viluppuram"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "06-30",
+   "harvest_start": "08-01",
+   "harvest_end": "09-30",
+   "note": "maize (irrigated), kharif season: sown Jun, harvested Aug-Sep.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-105",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-106",
+   "crop": "maize",
+   "season": "kharif",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Tenkasi",
+    "Thoothukudi",
+    "Tirunelveli"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "07-31",
+   "harvest_start": "10-01",
+   "harvest_end": "10-31",
+   "note": "maize (irrigated), kharif season: sown Jul, harvested Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-106",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-107",
+   "crop": "maize",
+   "season": "kharif",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Dharmapuri",
+    "Namakkal"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "08-31",
+   "harvest_start": "10-01",
+   "harvest_end": "11-30",
+   "note": "maize (irrigated), kharif season: sown Jul-Aug, harvested Oct-Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-107",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-108",
+   "crop": "maize",
+   "season": "kharif",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Krishnagiri",
+    "Salem",
+    "Tiruppur"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "09-30",
+   "harvest_start": "11-01",
+   "harvest_end": "12-31",
+   "note": "maize (irrigated), kharif season: sown Aug-Sep, harvested Nov-Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-108",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-109",
+   "crop": "maize",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Salem",
+    "Tiruppur"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "08-31",
+   "harvest_start": "11-01",
+   "harvest_end": "12-31",
+   "note": "maize (un-irrigated), kharif season: sown Jul-Aug, harvested Nov-Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-109",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-110",
+   "crop": "maize",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Erode",
+    "Tiruchirappalli"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "08-31",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "maize (un-irrigated), kharif season: sown Aug, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-110",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-111",
+   "crop": "maize",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Perambalur"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "09-30",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "maize (un-irrigated), kharif season: sown Aug-Sep, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-111",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-112",
+   "crop": "maize",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Virudhunagar"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "09-30",
+   "harvest_start": "11-01",
+   "harvest_end": "12-31",
+   "note": "maize (un-irrigated), kharif season: sown Aug-Sep, harvested Nov-Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-112",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-113",
+   "crop": "maize",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Cuddalore",
+    "Dindigul",
+    "Madurai",
+    "Namakkal",
+    "Tenkasi",
+    "Thoothukudi",
+    "Tirunelveli"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "10-31",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "maize (un-irrigated), kharif season: sown Sep-Oct, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-113",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-114",
+   "crop": "maize",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Kallakurichi",
+    "Tiruvannamalai",
+    "Viluppuram"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "maize (un-irrigated), rabi season: sown Oct, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-114",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-115",
+   "crop": "maize",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Theni"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "01-01",
+   "harvest_end": "01-31",
+   "note": "maize (un-irrigated), rabi season: sown Oct, harvested Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-115",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-116",
+   "crop": "paddy",
+   "season": "kuruvai",
+   "variant": "kuruvai",
+   "district": null,
+   "districts": [
+    "Thanjavur"
+   ],
+   "sowing_start": "04-01",
+   "sowing_end": "05-31",
+   "harvest_start": "07-01",
+   "harvest_end": "08-31",
+   "note": "paddy (kuruvai), kuruvai season: sown Apr-May, harvested Jul-Aug.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-116",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-117",
+   "crop": "paddy",
+   "season": "kuruvai",
+   "variant": "kuruvai",
+   "district": null,
+   "districts": [
+    "Cuddalore",
+    "Dharmapuri",
+    "Kallakurichi",
+    "Namakkal",
+    "Ranipet",
+    "Salem",
+    "Tirupathur",
+    "Tiruvannamalai",
+    "Vellore",
+    "Viluppuram"
+   ],
+   "sowing_start": "05-01",
+   "sowing_end": "06-30",
+   "harvest_start": "08-01",
+   "harvest_end": "09-30",
+   "note": "paddy (kuruvai), kuruvai season: sown May-Jun, harvested Aug-Sep.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-117",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-118",
+   "crop": "paddy",
+   "season": "kuruvai",
+   "variant": "kuruvai",
+   "district": null,
+   "districts": [
+    "Nagapattinam"
+   ],
+   "sowing_start": "05-01",
+   "sowing_end": "06-30",
+   "harvest_start": "09-01",
+   "harvest_end": "10-31",
+   "note": "paddy (kuruvai), kuruvai season: sown May-Jun, harvested Sep-Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-118",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-119",
+   "crop": "paddy",
+   "season": "kuruvai",
+   "variant": "kuruvai",
+   "district": null,
+   "districts": [
+    "Chengalpattu",
+    "Coimbatore",
+    "Kancheepuram",
+    "Kanniyakumari",
+    "Tiruppur",
+    "Tiruvallur"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "09-01",
+   "harvest_end": "10-31",
+   "note": "paddy (kuruvai), kuruvai season: sown Jun-Jul, harvested Sep-Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-119",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-120",
+   "crop": "paddy",
+   "season": "kuruvai",
+   "variant": "kuruvai",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Perambalur",
+    "Pudukkottai",
+    "Tiruchirappalli"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "06-30",
+   "harvest_start": "09-01",
+   "harvest_end": "10-31",
+   "note": "paddy (kuruvai), kuruvai season: sown Jun, harvested Sep-Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-120",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-121",
+   "crop": "paddy",
+   "season": "kuruvai",
+   "variant": "kuruvai",
+   "district": null,
+   "districts": [
+    "Tenkasi",
+    "Tirunelveli"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "10-01",
+   "harvest_end": "10-31",
+   "note": "paddy (kuruvai), kuruvai season: sown Jun-Jul, harvested Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-121",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-122",
+   "crop": "paddy",
+   "season": "kuruvai",
+   "variant": "kuruvai",
+   "district": null,
+   "districts": [
+    "Krishnagiri"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "06-30",
+   "harvest_start": "09-01",
+   "harvest_end": "09-30",
+   "note": "paddy (kuruvai), kuruvai season: sown Jun, harvested Sep.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-122",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-123",
+   "crop": "paddy",
+   "season": "kuruvai",
+   "variant": "kuruvai",
+   "district": null,
+   "districts": [
+    "Dindigul",
+    "Erode",
+    "Madurai",
+    "Theni",
+    "Thoothukudi",
+    "Tiruvarur"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "07-31",
+   "harvest_start": "10-01",
+   "harvest_end": "10-31",
+   "note": "paddy (kuruvai), kuruvai season: sown Jul, harvested Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-123",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-124",
+   "crop": "paddy",
+   "season": "navarai",
+   "variant": "navarai",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Chengalpattu",
+    "Dharmapuri",
+    "Erode",
+    "Kancheepuram",
+    "Karur",
+    "Krishnagiri",
+    "Namakkal",
+    "Perambalur",
+    "Ranipet",
+    "Salem",
+    "Thanjavur",
+    "Tiruchirappalli",
+    "Tirupathur",
+    "Tiruvannamalai",
+    "Vellore"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "01-31",
+   "harvest_start": "03-01",
+   "harvest_end": "04-30",
+   "note": "paddy (navarai), navarai season: sown Jan, harvested Mar-Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-124",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-125",
+   "crop": "paddy",
+   "season": "navarai",
+   "variant": "navarai",
+   "district": null,
+   "districts": [
+    "Dindigul",
+    "Madurai",
+    "Nagapattinam",
+    "Tenkasi",
+    "Thoothukudi",
+    "Tirunelveli",
+    "Tiruvarur"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "01-31",
+   "harvest_start": "04-01",
+   "harvest_end": "04-30",
+   "note": "paddy (navarai), navarai season: sown Jan, harvested Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-125",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-126",
+   "crop": "paddy",
+   "season": "navarai",
+   "variant": "navarai",
+   "district": null,
+   "districts": [
+    "Cuddalore",
+    "Kallakurichi",
+    "Tiruvallur",
+    "Viluppuram"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "01-31",
+   "harvest_start": "03-01",
+   "harvest_end": "04-30",
+   "note": "paddy (navarai), navarai season: sown Dec-Jan, harvested Mar-Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-126",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-127",
+   "crop": "paddy",
+   "season": "samba",
+   "variant": "samba",
+   "district": null,
+   "districts": [
+    "Cuddalore",
+    "Kallakurichi",
+    "Ranipet",
+    "Tirupathur",
+    "Tiruvallur",
+    "Vellore",
+    "Viluppuram"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "09-30",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "paddy (samba), samba season: sown Aug-Sep, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-127",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-128",
+   "crop": "paddy",
+   "season": "samba",
+   "variant": "samba",
+   "district": null,
+   "districts": [
+    "The Nilgiris"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "08-31",
+   "harvest_start": "12-01",
+   "harvest_end": "12-31",
+   "note": "paddy (samba), samba season: sown Aug, harvested Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-128",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-129",
+   "crop": "paddy",
+   "season": "samba",
+   "variant": "samba",
+   "district": null,
+   "districts": [
+    "Dharmapuri",
+    "Namakkal",
+    "Salem",
+    "Thanjavur",
+    "Tiruvannamalai"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "10-31",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "paddy (samba), samba season: sown Sep-Oct, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-129",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-130",
+   "crop": "paddy",
+   "season": "samba",
+   "variant": "samba",
+   "district": null,
+   "districts": [
+    "Tenkasi",
+    "Tirunelveli"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "10-31",
+   "harvest_start": "02-01",
+   "harvest_end": "03-31",
+   "note": "paddy (samba), samba season: sown Sep-Oct, harvested Feb-Mar.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-130",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-131",
+   "crop": "paddy",
+   "season": "samba",
+   "variant": "samba",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Coimbatore",
+    "Erode",
+    "Karur",
+    "Krishnagiri",
+    "Nagapattinam",
+    "Perambalur",
+    "Pudukkottai",
+    "Sivaganga",
+    "Tiruchirappalli",
+    "Tiruppur",
+    "Tiruvarur",
+    "Virudhunagar"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "11-30",
+   "harvest_start": "01-01",
+   "harvest_end": "02-28",
+   "note": "paddy (samba), samba season: sown Oct-Nov, harvested Jan-Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-131",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-132",
+   "crop": "paddy",
+   "season": "samba",
+   "variant": "samba",
+   "district": null,
+   "districts": [
+    "Dindigul",
+    "Theni"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "01-01",
+   "harvest_end": "02-28",
+   "note": "paddy (samba), samba season: sown Oct, harvested Jan-Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-132",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-133",
+   "crop": "paddy",
+   "season": "samba",
+   "variant": "samba",
+   "district": null,
+   "districts": [
+    "Madurai"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "01-01",
+   "harvest_end": "01-31",
+   "note": "paddy (samba), samba season: sown Oct, harvested Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-133",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-134",
+   "crop": "paddy",
+   "season": "samba",
+   "variant": "samba",
+   "district": null,
+   "districts": [
+    "Ramanathapuram"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "02-01",
+   "harvest_end": "02-28",
+   "note": "paddy (samba), samba season: sown Oct, harvested Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-134",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-135",
+   "crop": "paddy",
+   "season": "samba",
+   "variant": "samba",
+   "district": null,
+   "districts": [
+    "Kanniyakumari"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "11-30",
+   "harvest_start": "02-01",
+   "harvest_end": "03-31",
+   "note": "paddy (samba), samba season: sown Oct-Nov, harvested Feb-Mar.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-135",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-136",
+   "crop": "paddy",
+   "season": "samba",
+   "variant": "samba",
+   "district": null,
+   "districts": [
+    "Chengalpattu",
+    "Kancheepuram"
+   ],
+   "sowing_start": "11-01",
+   "sowing_end": "11-30",
+   "harvest_start": "01-01",
+   "harvest_end": "02-28",
+   "note": "paddy (samba), samba season: sown Nov, harvested Jan-Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-136",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-137",
+   "crop": "paddy",
+   "season": "samba",
+   "variant": "samba",
+   "district": null,
+   "districts": [
+    "Thoothukudi"
+   ],
+   "sowing_start": "11-01",
+   "sowing_end": "11-30",
+   "harvest_start": "02-01",
+   "harvest_end": "02-28",
+   "note": "paddy (samba), samba season: sown Nov, harvested Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-137",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 357,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-138",
+   "crop": "ragi",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Chengalpattu",
+    "Kancheepuram"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "01-31",
+   "harvest_start": "03-01",
+   "harvest_end": "04-30",
+   "note": "ragi (irrigated), rabi season: sown Jan, harvested Mar-Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-138",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-139",
+   "crop": "ragi",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Pudukkottai"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "02-28",
+   "harvest_start": "05-01",
+   "harvest_end": "05-31",
+   "note": "ragi (irrigated), summer season: sown Feb, harvested May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-139",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-140",
+   "crop": "ragi",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Cuddalore",
+    "Perambalur",
+    "Virudhunagar"
+   ],
+   "sowing_start": "04-01",
+   "sowing_end": "05-31",
+   "harvest_start": "07-01",
+   "harvest_end": "08-31",
+   "note": "ragi (irrigated), summer season: sown Apr-May, harvested Jul-Aug.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-140",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-141",
+   "crop": "ragi",
+   "season": "kharif",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Kallakurichi",
+    "Tenkasi",
+    "Tirunelveli",
+    "Viluppuram"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "07-31",
+   "harvest_start": "11-01",
+   "harvest_end": "11-30",
+   "note": "ragi (irrigated), kharif season: sown Jul, harvested Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-141",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-142",
+   "crop": "ragi",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Ramanathapuram"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "01-01",
+   "harvest_end": "02-28",
+   "note": "ragi (irrigated), rabi season: sown Oct, harvested Jan-Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-142",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-143",
+   "crop": "ragi",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Krishnagiri",
+    "Namakkal",
+    "Salem",
+    "Tiruppur",
+    "Tiruvallur"
+   ],
+   "sowing_start": "11-01",
+   "sowing_end": "12-31",
+   "harvest_start": "02-01",
+   "harvest_end": "03-31",
+   "note": "ragi (irrigated), rabi season: sown Nov-Dec, harvested Feb-Mar.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-143",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-144",
+   "crop": "ragi",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Ranipet",
+    "Tirupathur",
+    "Vellore"
+   ],
+   "sowing_start": "11-01",
+   "sowing_end": "12-31",
+   "harvest_start": "03-01",
+   "harvest_end": "03-31",
+   "note": "ragi (irrigated), rabi season: sown Nov-Dec, harvested Mar.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-144",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-145",
+   "crop": "ragi",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Tiruvannamalai"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "01-31",
+   "harvest_start": "04-01",
+   "harvest_end": "04-30",
+   "note": "ragi (irrigated), rabi season: sown Dec-Jan, harvested Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-145",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-146",
+   "crop": "ragi",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Dharmapuri"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "01-31",
+   "harvest_start": "03-01",
+   "harvest_end": "04-30",
+   "note": "ragi (irrigated), rabi season: sown Dec-Jan, harvested Mar-Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-146",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-147",
+   "crop": "ragi",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Erode"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "12-31",
+   "harvest_start": "03-01",
+   "harvest_end": "03-31",
+   "note": "ragi (irrigated), rabi season: sown Dec, harvested Mar.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-147",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-148",
+   "crop": "ragi",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Tiruvallur"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "04-01",
+   "harvest_end": "05-31",
+   "note": "ragi (un-irrigated), rabi season: sown Jan-Feb, harvested Apr-May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-148",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-149",
+   "crop": "ragi",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Kallakurichi",
+    "Madurai",
+    "Namakkal",
+    "Perambalur",
+    "Pudukkottai",
+    "Sivaganga",
+    "Viluppuram"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "07-31",
+   "harvest_start": "10-01",
+   "harvest_end": "10-31",
+   "note": "ragi (un-irrigated), kharif season: sown Jul, harvested Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-149",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-150",
+   "crop": "ragi",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Cuddalore",
+    "Dharmapuri"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "08-31",
+   "harvest_start": "10-01",
+   "harvest_end": "11-30",
+   "note": "ragi (un-irrigated), kharif season: sown Jul-Aug, harvested Oct-Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-150",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-151",
+   "crop": "ragi",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Erode",
+    "Ranipet",
+    "Tirupathur",
+    "Vellore"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "08-31",
+   "harvest_start": "11-01",
+   "harvest_end": "11-30",
+   "note": "ragi (un-irrigated), kharif season: sown Aug, harvested Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-151",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-152",
+   "crop": "ragi",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Krishnagiri",
+    "Salem",
+    "Tiruppur"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "10-31",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "ragi (un-irrigated), kharif season: sown Sep-Oct, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-152",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-153",
+   "crop": "ragi",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Chengalpattu",
+    "Kancheepuram"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "09-30",
+   "harvest_start": "12-01",
+   "harvest_end": "12-31",
+   "note": "ragi (un-irrigated), kharif season: sown Sep, harvested Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-153",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-154",
+   "crop": "ragi",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Virudhunagar"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "09-30",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "ragi (un-irrigated), kharif season: sown Sep, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-154",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-155",
+   "crop": "ragi",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Theni"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "01-01",
+   "harvest_end": "01-31",
+   "note": "ragi (un-irrigated), rabi season: sown Oct, harvested Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-155",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-156",
+   "crop": "ragi",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Ramanathapuram"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "01-01",
+   "harvest_end": "02-28",
+   "note": "ragi (un-irrigated), rabi season: sown Oct, harvested Jan-Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-156",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-157",
+   "crop": "ragi",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Tiruvannamalai"
+   ],
+   "sowing_start": "11-01",
+   "sowing_end": "11-30",
+   "harvest_start": "02-01",
+   "harvest_end": "02-28",
+   "note": "ragi (un-irrigated), rabi season: sown Nov, harvested Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-157",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 359,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-158",
+   "crop": "red_gram",
+   "season": "summer",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Tiruppur"
+   ],
+   "sowing_start": "05-01",
+   "sowing_end": "06-30",
+   "harvest_start": "09-01",
+   "harvest_end": "10-31",
+   "note": "red gram, summer season: sown May-Jun, harvested Sep-Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-158",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-159",
+   "crop": "red_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Karur",
+    "Madurai",
+    "Theni",
+    "Tiruchirappalli"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "10-01",
+   "harvest_end": "11-30",
+   "note": "red gram, kharif season: sown Jun-Jul, harvested Oct-Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-159",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-160",
+   "crop": "red_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Dindigul",
+    "Krishnagiri",
+    "Ranipet",
+    "Tirupathur",
+    "Tiruvannamalai",
+    "Vellore"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "08-31",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "red gram, kharif season: sown Jul-Aug, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-160",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-161",
+   "crop": "red_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Dharmapuri",
+    "Tiruvallur"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "08-31",
+   "harvest_start": "10-01",
+   "harvest_end": "11-30",
+   "note": "red gram, kharif season: sown Jul-Aug, harvested Oct-Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-161",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-162",
+   "crop": "red_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Kallakurichi",
+    "Viluppuram"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "07-31",
+   "harvest_start": "09-01",
+   "harvest_end": "09-30",
+   "note": "red gram, kharif season: sown Jul, harvested Sep.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-162",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-163",
+   "crop": "red_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Pudukkottai"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "07-31",
+   "harvest_start": "01-01",
+   "harvest_end": "01-31",
+   "note": "red gram, kharif season: sown Jul, harvested Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-163",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-164",
+   "crop": "red_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Virudhunagar"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "08-31",
+   "harvest_start": "01-01",
+   "harvest_end": "02-28",
+   "note": "red gram, kharif season: sown Jul-Aug, harvested Jan-Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-164",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-165",
+   "crop": "red_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Sivaganga"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "07-31",
+   "harvest_start": "10-01",
+   "harvest_end": "10-31",
+   "note": "red gram, kharif season: sown Jul, harvested Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-165",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-166",
+   "crop": "red_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Cuddalore"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "08-31",
+   "harvest_start": "10-01",
+   "harvest_end": "11-30",
+   "note": "red gram, kharif season: sown Jul-Aug, harvested Oct-Nov.",
+   "source": "pmfby_calendar",
+   "citation": {
+    "id": "C-166",
+    "title": "PMFBY district-wise crop calendar (Tamil Nadu rows)",
+    "url": "https://pmfby.gov.in/pdf/New_Crop_Calendar_20.09.18.pdf",
+    "publisher": "Pradhan Mantri Fasal Bima Yojana, Ministry of Agriculture & Farmers Welfare",
+    "page": 95,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-167",
+   "crop": "red_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Erode",
+    "Namakkal"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "08-31",
+   "harvest_start": "01-01",
+   "harvest_end": "01-31",
+   "note": "red gram, kharif season: sown Aug, harvested Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-167",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-168",
+   "crop": "red_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Perambalur"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "09-30",
+   "harvest_start": "01-01",
+   "harvest_end": "02-28",
+   "note": "red gram, kharif season: sown Aug-Sep, harvested Jan-Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-168",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-169",
+   "crop": "red_gram",
+   "season": "kharif",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Salem"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "09-30",
+   "harvest_start": "11-01",
+   "harvest_end": "12-31",
+   "note": "red gram, kharif season: sown Aug-Sep, harvested Nov-Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-169",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-170",
+   "crop": "red_gram",
+   "season": "rabi",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Ramanathapuram"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "01-01",
+   "harvest_end": "01-31",
+   "note": "red gram, rabi season: sown Oct, harvested Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-170",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-171",
+   "crop": "red_gram",
+   "season": "rabi",
+   "variant": null,
+   "district": null,
+   "districts": [
+    "Thoothukudi"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "02-01",
+   "harvest_end": "03-31",
+   "note": "red gram, rabi season: sown Oct, harvested Feb-Mar.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-171",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 360,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-172",
+   "crop": "sesame",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Pudukkottai"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "03-01",
+   "harvest_end": "04-30",
+   "note": "sesame (irrigated), rabi season: sown Jan-Feb, harvested Mar-Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-172",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-173",
+   "crop": "sesame",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Perambalur"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "03-31",
+   "harvest_start": "04-01",
+   "harvest_end": "05-31",
+   "note": "sesame (irrigated), summer season: sown Feb-Mar, harvested Apr-May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-173",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-174",
+   "crop": "sesame",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Tenkasi",
+    "Tirunelveli"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "03-31",
+   "harvest_start": "06-01",
+   "harvest_end": "06-30",
+   "note": "sesame (irrigated), summer season: sown Feb-Mar, harvested Jun.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-174",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-175",
+   "crop": "sesame",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Tiruvannamalai"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "02-28",
+   "harvest_start": "05-01",
+   "harvest_end": "05-31",
+   "note": "sesame (irrigated), summer season: sown Feb, harvested May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-175",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-176",
+   "crop": "sesame",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Salem"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "03-31",
+   "harvest_start": "05-01",
+   "harvest_end": "06-30",
+   "note": "sesame (irrigated), summer season: sown Feb-Mar, harvested May-Jun.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-176",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-177",
+   "crop": "sesame",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Thanjavur"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "02-28",
+   "harvest_start": "04-01",
+   "harvest_end": "05-31",
+   "note": "sesame (irrigated), summer season: sown Feb, harvested Apr-May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-177",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-178",
+   "crop": "sesame",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Erode",
+    "Tiruppur"
+   ],
+   "sowing_start": "03-01",
+   "sowing_end": "03-31",
+   "harvest_start": "05-01",
+   "harvest_end": "05-31",
+   "note": "sesame (irrigated), summer season: sown Mar, harvested May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-178",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-179",
+   "crop": "sesame",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Karur",
+    "Tiruchirappalli"
+   ],
+   "sowing_start": "03-01",
+   "sowing_end": "03-31",
+   "harvest_start": "07-01",
+   "harvest_end": "07-31",
+   "note": "sesame (irrigated), summer season: sown Mar, harvested Jul.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-179",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-180",
+   "crop": "sesame",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Kallakurichi",
+    "Viluppuram"
+   ],
+   "sowing_start": "04-01",
+   "sowing_end": "05-31",
+   "harvest_start": "06-01",
+   "harvest_end": "07-31",
+   "note": "sesame (irrigated), summer season: sown Apr-May, harvested Jun-Jul.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-180",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-181",
+   "crop": "sesame",
+   "season": "summer",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Tiruvarur"
+   ],
+   "sowing_start": "04-01",
+   "sowing_end": "04-30",
+   "harvest_start": "06-01",
+   "harvest_end": "06-30",
+   "note": "sesame (irrigated), summer season: sown Apr, harvested Jun.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-181",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-182",
+   "crop": "sesame",
+   "season": "kharif",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Tiruvallur"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "09-01",
+   "harvest_end": "10-31",
+   "note": "sesame (irrigated), kharif season: sown Jun-Jul, harvested Sep-Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-182",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-183",
+   "crop": "sesame",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Cuddalore",
+    "Ranipet",
+    "Tirupathur",
+    "Vellore"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "01-31",
+   "harvest_start": "03-01",
+   "harvest_end": "04-30",
+   "note": "sesame (irrigated), rabi season: sown Dec-Jan, harvested Mar-Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-183",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-184",
+   "crop": "sesame",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Chengalpattu",
+    "Kancheepuram"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "12-31",
+   "harvest_start": "03-01",
+   "harvest_end": "03-31",
+   "note": "sesame (irrigated), rabi season: sown Dec, harvested Mar.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-184",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-185",
+   "crop": "sesame",
+   "season": "rabi",
+   "variant": "irrigated",
+   "district": null,
+   "districts": [
+    "Namakkal"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "01-31",
+   "harvest_start": "09-01",
+   "harvest_end": "10-31",
+   "note": "sesame (irrigated), rabi season: sown Dec-Jan, harvested Sep-Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-185",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-186",
+   "crop": "sesame",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Nagapattinam",
+    "Thanjavur"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "04-01",
+   "harvest_end": "05-31",
+   "note": "sesame (un-irrigated), rabi season: sown Jan-Feb, harvested Apr-May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-186",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-187",
+   "crop": "sesame",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Tiruvarur"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "01-31",
+   "harvest_start": "03-01",
+   "harvest_end": "03-31",
+   "note": "sesame (un-irrigated), rabi season: sown Jan, harvested Mar.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-187",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-188",
+   "crop": "sesame",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Ranipet",
+    "Salem",
+    "Tirupathur",
+    "Tiruvannamalai",
+    "Vellore"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "06-30",
+   "harvest_start": "09-01",
+   "harvest_end": "09-30",
+   "note": "sesame (un-irrigated), kharif season: sown Jun, harvested Sep.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-188",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-189",
+   "crop": "sesame",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Dharmapuri",
+    "Krishnagiri",
+    "Namakkal"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "08-01",
+   "harvest_end": "09-30",
+   "note": "sesame (un-irrigated), kharif season: sown Jun-Jul, harvested Aug-Sep.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-189",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-190",
+   "crop": "sesame",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Madurai"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "09-01",
+   "harvest_end": "10-31",
+   "note": "sesame (un-irrigated), kharif season: sown Jun-Jul, harvested Sep-Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-190",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-191",
+   "crop": "sesame",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Perambalur",
+    "Virudhunagar"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "08-31",
+   "harvest_start": "10-01",
+   "harvest_end": "11-30",
+   "note": "sesame (un-irrigated), kharif season: sown Jul-Aug, harvested Oct-Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-191",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-192",
+   "crop": "sesame",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Chengalpattu",
+    "Kancheepuram"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "08-31",
+   "harvest_start": "10-01",
+   "harvest_end": "10-31",
+   "note": "sesame (un-irrigated), kharif season: sown Aug, harvested Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-192",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-193",
+   "crop": "sesame",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Cuddalore",
+    "Pudukkottai"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "09-30",
+   "harvest_start": "11-01",
+   "harvest_end": "12-31",
+   "note": "sesame (un-irrigated), kharif season: sown Aug-Sep, harvested Nov-Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-193",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-194",
+   "crop": "sesame",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Erode",
+    "Tiruppur"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "09-30",
+   "harvest_start": "11-01",
+   "harvest_end": "11-30",
+   "note": "sesame (un-irrigated), kharif season: sown Sep, harvested Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-194",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-195",
+   "crop": "sesame",
+   "season": "kharif",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Dindigul"
+   ],
+   "sowing_start": "09-01",
+   "sowing_end": "10-31",
+   "harvest_start": "11-01",
+   "harvest_end": "12-31",
+   "note": "sesame (un-irrigated), kharif season: sown Sep-Oct, harvested Nov-Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-195",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-196",
+   "crop": "sesame",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Karur",
+    "Tiruchirappalli"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "01-01",
+   "harvest_end": "01-31",
+   "note": "sesame (un-irrigated), rabi season: sown Oct, harvested Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-196",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-197",
+   "crop": "sesame",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Tiruvallur"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "10-31",
+   "harvest_start": "12-01",
+   "harvest_end": "12-31",
+   "note": "sesame (un-irrigated), rabi season: sown Oct, harvested Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-197",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-198",
+   "crop": "sesame",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Thoothukudi"
+   ],
+   "sowing_start": "10-01",
+   "sowing_end": "11-30",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "sesame (un-irrigated), rabi season: sown Oct-Nov, harvested Dec-Jan.",
+   "source": "pmfby_calendar",
+   "citation": {
+    "id": "C-198",
+    "title": "PMFBY district-wise crop calendar (Tamil Nadu rows)",
+    "url": "https://pmfby.gov.in/pdf/New_Crop_Calendar_20.09.18.pdf",
+    "publisher": "Pradhan Mantri Fasal Bima Yojana, Ministry of Agriculture & Farmers Welfare",
+    "page": 99,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-199",
+   "crop": "sesame",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Kallakurichi",
+    "Sivaganga",
+    "Tenkasi",
+    "Tirunelveli",
+    "Viluppuram"
+   ],
+   "sowing_start": "11-01",
+   "sowing_end": "12-31",
+   "harvest_start": "01-01",
+   "harvest_end": "02-28",
+   "note": "sesame (un-irrigated), rabi season: sown Nov-Dec, harvested Jan-Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-199",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-200",
+   "crop": "sesame",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Theni"
+   ],
+   "sowing_start": "11-01",
+   "sowing_end": "11-30",
+   "harvest_start": "01-01",
+   "harvest_end": "01-31",
+   "note": "sesame (un-irrigated), rabi season: sown Nov, harvested Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-200",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-201",
+   "crop": "sesame",
+   "season": "rabi",
+   "variant": "un-irrigated",
+   "district": null,
+   "districts": [
+    "Ramanathapuram"
+   ],
+   "sowing_start": "11-01",
+   "sowing_end": "11-30",
+   "harvest_start": "02-01",
+   "harvest_end": "02-28",
+   "note": "sesame (un-irrigated), rabi season: sown Nov, harvested Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-201",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 362,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-202",
+   "crop": "sugarcane",
+   "season": "rabi",
+   "variant": "planted",
+   "district": null,
+   "districts": [
+    "Karur",
+    "Tiruchirappalli"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "01-31",
+   "harvest_start": "12-01",
+   "harvest_end": "12-31",
+   "note": "sugarcane (planted), rabi season: sown Jan, harvested Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-202",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-203",
+   "crop": "sugarcane",
+   "season": "rabi",
+   "variant": "planted",
+   "district": null,
+   "districts": [
+    "Tiruvannamalai"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "sugarcane (planted), rabi season: sown Jan-Feb, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-203",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-204",
+   "crop": "sugarcane",
+   "season": "rabi",
+   "variant": "planted",
+   "district": null,
+   "districts": [
+    "Madurai"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "11-01",
+   "harvest_end": "12-31",
+   "note": "sugarcane (planted), rabi season: sown Jan-Feb, harvested Nov-Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-204",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-205",
+   "crop": "sugarcane",
+   "season": "rabi",
+   "variant": "planted",
+   "district": null,
+   "districts": [
+    "Dindigul"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "01-31",
+   "harvest_start": "11-01",
+   "harvest_end": "12-31",
+   "note": "sugarcane (planted), rabi season: sown Jan, harvested Nov-Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-205",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-206",
+   "crop": "sugarcane",
+   "season": "summer",
+   "variant": "planted",
+   "district": null,
+   "districts": [
+    "Krishnagiri",
+    "Salem",
+    "Sivaganga"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "03-31",
+   "harvest_start": "01-01",
+   "harvest_end": "02-28",
+   "note": "sugarcane (planted), summer season: sown Feb-Mar, harvested Jan-Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-206",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-207",
+   "crop": "sugarcane",
+   "season": "summer",
+   "variant": "planted",
+   "district": null,
+   "districts": [
+    "Tiruvarur"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "03-31",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "sugarcane (planted), summer season: sown Feb-Mar, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-207",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-208",
+   "crop": "sugarcane",
+   "season": "summer",
+   "variant": "planted",
+   "district": null,
+   "districts": [
+    "Nagapattinam"
+   ],
+   "sowing_start": "04-01",
+   "sowing_end": "05-31",
+   "harvest_start": "03-01",
+   "harvest_end": "04-30",
+   "note": "sugarcane (planted), summer season: sown Apr-May, harvested Mar-Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-208",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-209",
+   "crop": "sugarcane",
+   "season": "summer",
+   "variant": "planted",
+   "district": null,
+   "districts": [
+    "Theni"
+   ],
+   "sowing_start": "05-01",
+   "sowing_end": "06-30",
+   "harvest_start": "04-01",
+   "harvest_end": "05-31",
+   "note": "sugarcane (planted), summer season: sown May-Jun, harvested Apr-May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-209",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-210",
+   "crop": "sugarcane",
+   "season": "kharif",
+   "variant": "planted",
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Tiruppur"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "05-01",
+   "harvest_end": "06-30",
+   "note": "sugarcane (planted), kharif season: sown Jun-Jul, harvested May-Jun.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-210",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-211",
+   "crop": "sugarcane",
+   "season": "kharif",
+   "variant": "planted",
+   "district": null,
+   "districts": [
+    "Virudhunagar"
+   ],
+   "sowing_start": "07-01",
+   "sowing_end": "07-31",
+   "harvest_start": "06-01",
+   "harvest_end": "06-30",
+   "note": "sugarcane (planted), kharif season: sown Jul, harvested Jun.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-211",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-212",
+   "crop": "sugarcane",
+   "season": "kharif",
+   "variant": "planted",
+   "district": null,
+   "districts": [
+    "Thoothukudi"
+   ],
+   "sowing_start": "08-01",
+   "sowing_end": "09-30",
+   "harvest_start": "06-01",
+   "harvest_end": "07-31",
+   "note": "sugarcane (planted), kharif season: sown Aug-Sep, harvested Jun-Jul.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-212",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-213",
+   "crop": "sugarcane",
+   "season": "rabi",
+   "variant": "planted",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Chengalpattu",
+    "Cuddalore",
+    "Erode",
+    "Kallakurichi",
+    "Kancheepuram",
+    "Perambalur",
+    "Pudukkottai",
+    "Tenkasi",
+    "Thanjavur",
+    "Tirunelveli",
+    "Tiruvallur",
+    "Viluppuram"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "01-31",
+   "harvest_start": "11-01",
+   "harvest_end": "12-31",
+   "note": "sugarcane (planted), rabi season: sown Dec-Jan, harvested Nov-Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-213",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-214",
+   "crop": "sugarcane",
+   "season": "rabi",
+   "variant": "planted",
+   "district": null,
+   "districts": [
+    "Ranipet",
+    "Tirupathur",
+    "Vellore"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "12-31",
+   "harvest_start": "11-01",
+   "harvest_end": "11-30",
+   "note": "sugarcane (planted), rabi season: sown Dec, harvested Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-214",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-215",
+   "crop": "sugarcane",
+   "season": "rabi",
+   "variant": "planted",
+   "district": null,
+   "districts": [
+    "Dharmapuri"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "01-31",
+   "harvest_start": "10-01",
+   "harvest_end": "11-30",
+   "note": "sugarcane (planted), rabi season: sown Dec-Jan, harvested Oct-Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-215",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-216",
+   "crop": "sugarcane",
+   "season": "rabi",
+   "variant": "ratoon",
+   "district": null,
+   "districts": [
+    "Ariyalur",
+    "Karur",
+    "Perambalur",
+    "Pudukkottai",
+    "Tiruchirappalli",
+    "Tiruvannamalai"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "12-01",
+   "harvest_end": "01-31",
+   "note": "sugarcane (ratoon), rabi season: sown Jan-Feb, harvested Dec-Jan.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-216",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-217",
+   "crop": "sugarcane",
+   "season": "rabi",
+   "variant": "ratoon",
+   "district": null,
+   "districts": [
+    "Tiruvarur"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "02-28",
+   "harvest_start": "10-01",
+   "harvest_end": "11-30",
+   "note": "sugarcane (ratoon), rabi season: sown Jan-Feb, harvested Oct-Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-217",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-218",
+   "crop": "sugarcane",
+   "season": "rabi",
+   "variant": "ratoon",
+   "district": null,
+   "districts": [
+    "Dindigul"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "01-31",
+   "harvest_start": "11-01",
+   "harvest_end": "12-31",
+   "note": "sugarcane (ratoon), rabi season: sown Jan, harvested Nov-Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-218",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-219",
+   "crop": "sugarcane",
+   "season": "rabi",
+   "variant": "ratoon",
+   "district": null,
+   "districts": [
+    "Sivaganga"
+   ],
+   "sowing_start": "01-01",
+   "sowing_end": "01-31",
+   "harvest_start": "12-01",
+   "harvest_end": "12-31",
+   "note": "sugarcane (ratoon), rabi season: sown Jan, harvested Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-219",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-220",
+   "crop": "sugarcane",
+   "season": "summer",
+   "variant": "ratoon",
+   "district": null,
+   "districts": [
+    "Krishnagiri",
+    "Salem"
+   ],
+   "sowing_start": "02-01",
+   "sowing_end": "03-31",
+   "harvest_start": "01-01",
+   "harvest_end": "02-28",
+   "note": "sugarcane (ratoon), summer season: sown Feb-Mar, harvested Jan-Feb.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-220",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-221",
+   "crop": "sugarcane",
+   "season": "summer",
+   "variant": "ratoon",
+   "district": null,
+   "districts": [
+    "Nagapattinam"
+   ],
+   "sowing_start": "04-01",
+   "sowing_end": "05-31",
+   "harvest_start": "03-01",
+   "harvest_end": "04-30",
+   "note": "sugarcane (ratoon), summer season: sown Apr-May, harvested Mar-Apr.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-221",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-222",
+   "crop": "sugarcane",
+   "season": "summer",
+   "variant": "ratoon",
+   "district": null,
+   "districts": [
+    "Theni"
+   ],
+   "sowing_start": "04-01",
+   "sowing_end": "05-31",
+   "harvest_start": "02-01",
+   "harvest_end": "03-31",
+   "note": "sugarcane (ratoon), summer season: sown Apr-May, harvested Feb-Mar.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-222",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-223",
+   "crop": "sugarcane",
+   "season": "kharif",
+   "variant": "ratoon",
+   "district": null,
+   "districts": [
+    "Coimbatore",
+    "Tiruppur"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "07-31",
+   "harvest_start": "05-01",
+   "harvest_end": "06-30",
+   "note": "sugarcane (ratoon), kharif season: sown Jun-Jul, harvested May-Jun.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-223",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-224",
+   "crop": "sugarcane",
+   "season": "kharif",
+   "variant": "ratoon",
+   "district": null,
+   "districts": [
+    "Virudhunagar"
+   ],
+   "sowing_start": "06-01",
+   "sowing_end": "06-30",
+   "harvest_start": "04-01",
+   "harvest_end": "05-31",
+   "note": "sugarcane (ratoon), kharif season: sown Jun, harvested Apr-May.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-224",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-225",
+   "crop": "sugarcane",
+   "season": "rabi",
+   "variant": "ratoon",
+   "district": null,
+   "districts": [
+    "Chengalpattu",
+    "Cuddalore",
+    "Kancheepuram",
+    "Ranipet",
+    "Tirupathur",
+    "Tiruvallur",
+    "Vellore"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "12-31",
+   "harvest_start": "10-01",
+   "harvest_end": "10-31",
+   "note": "sugarcane (ratoon), rabi season: sown Dec, harvested Oct.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-225",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-226",
+   "crop": "sugarcane",
+   "season": "rabi",
+   "variant": "ratoon",
+   "district": null,
+   "districts": [
+    "Erode",
+    "Madurai",
+    "Thanjavur"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "01-31",
+   "harvest_start": "11-01",
+   "harvest_end": "12-31",
+   "note": "sugarcane (ratoon), rabi season: sown Dec-Jan, harvested Nov-Dec.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-226",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-227",
+   "crop": "sugarcane",
+   "season": "rabi",
+   "variant": "ratoon",
+   "district": null,
+   "districts": [
+    "Kallakurichi",
+    "Viluppuram"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "12-31",
+   "harvest_start": "10-01",
+   "harvest_end": "11-30",
+   "note": "sugarcane (ratoon), rabi season: sown Dec, harvested Oct-Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-227",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-228",
+   "crop": "sugarcane",
+   "season": "rabi",
+   "variant": "ratoon",
+   "district": null,
+   "districts": [
+    "Tenkasi",
+    "Tirunelveli"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "01-31",
+   "harvest_start": "11-01",
+   "harvest_end": "11-30",
+   "note": "sugarcane (ratoon), rabi season: sown Dec-Jan, harvested Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-228",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  },
+  {
+   "id": "C-229",
+   "crop": "sugarcane",
+   "season": "rabi",
+   "variant": "ratoon",
+   "district": null,
+   "districts": [
+    "Dharmapuri"
+   ],
+   "sowing_start": "12-01",
+   "sowing_end": "12-31",
+   "harvest_start": "11-01",
+   "harvest_end": "11-30",
+   "note": "sugarcane (ratoon), rabi season: sown Dec, harvested Nov.",
+   "source": "tn_table_x",
+   "citation": {
+    "id": "C-229",
+    "title": "Season and Crop Report of Tamil Nadu - Table X: Peak Sowing and Harvesting Seasons by district",
+    "url": "https://des.tn.gov.in/en/node/18",
+    "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+    "page": 361,
+    "as_of": "2026-09-05",
+    "kind": "crop"
+   }
+  }
+ ]
+}

@@ -1,0 +1,1500 @@
+{
+  "generated_at": "2026-09-05",
+  "note": "Every fact below is extracted from a real published source and carries url + page/section + a verbatim quote. Nothing here is inferred. See docs/data-sources.md.",
+  "facts": [
+    {
+      "id": "S1",
+      "scheme": "PMFBY",
+      "field": "purpose",
+      "text": "Pradhan Mantri Fasal Bima Yojana is the government crop insurance scheme that covers notified crops against natural risks a farmer cannot prevent, from before sowing right through to after harvest.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S1",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.8, Background",
+        "as_of": "2026-09-05",
+        "quote": "comprehensive risk cover for crops of farmers against all non-preventable natural risks from pre-sowing to post-harvest stage",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S2",
+      "scheme": "PMFBY",
+      "field": "purpose",
+      "text": "The aim of the scheme is to give money support to farmers whose crop is lost or damaged by events nobody could foresee.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S2",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.8, para 1",
+        "as_of": "2026-09-05",
+        "quote": "Providing financial support to farmers suffering crop loss/damage arising out of unforeseen events",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S3",
+      "scheme": "PMFBY",
+      "field": "enrolment",
+      "text": "Joining the scheme is a farmer's own choice; it is optional for everyone, including farmers who have taken a crop loan or a Kisan Credit Card.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S3",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.11, para 3.1.1.1",
+        "as_of": "2026-09-05",
+        "quote": "The scheme is optional for all farmers including farmers who have been sanctioned short-term Seasonal Agricultural Operations (SAO) loans",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S4",
+      "scheme": "PMFBY",
+      "field": "portal",
+      "text": "All crop insurance records are kept on the National Crop Insurance Portal at pmfby dot gov dot in.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S4",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.9, para 2.1",
+        "as_of": "2026-09-05",
+        "quote": "Government of India has designed and developed a National Crop Insurance Portal (NCIP) (www.pmfby.gov.in)",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S5",
+      "scheme": "PMFBY",
+      "field": "who_can_enrol",
+      "text": "Any farmer growing a notified crop in a notified area can be covered, and that includes sharecroppers and tenant farmers.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S5",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.11, para 3.1",
+        "as_of": "2026-09-05",
+        "quote": "All farmers including sharecroppers and tenant farmers growing the notified crops in the notified areas are eligible for coverage.",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S6",
+      "scheme": "PMFBY",
+      "field": "who_can_enrol",
+      "text": "The farmer must have a real interest in the land and the crop being insured.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S6",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.11, para 3.1",
+        "as_of": "2026-09-05",
+        "quote": "farmers should have insurable interest for the insured crops and lands",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S7",
+      "scheme": "PMFBY",
+      "field": "documents",
+      "text": "A sharecropper or tenant farmer has to show land papers such as the record of rights or a land possession certificate, or the tenancy agreement the state accepts.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S7",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.11, para 3.1",
+        "as_of": "2026-09-05",
+        "quote": "documentary evidence of land records prevailing in the State (Records of Right (RoR), Land possession Certificate (LPC) etc.)",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S8",
+      "scheme": "PMFBY",
+      "field": "documents",
+      "text": "Every farmer joining the scheme has to give an Aadhaar number and a declaration of the crop sown or the crop they intend to sow.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S8",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.11, para 3.1",
+        "as_of": "2026-09-05",
+        "quote": "required to essentially submit Aadhar Number and declaration about the crop sown/ crops intended to be sown",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S9",
+      "scheme": "PMFBY",
+      "field": "who_can_enrol",
+      "text": "A farmer with a crop loan is covered automatically unless they gave the bank a written paper saying they do not want the insurance.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S9",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.11, para 3.1.1.1",
+        "as_of": "2026-09-05",
+        "quote": "All those farmers who do not submit the declaration would be essentially covered.",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S10",
+      "scheme": "PMFBY",
+      "field": "who_can_enrol",
+      "text": "A loanee farmer who wants to stay out must tell the bank at least seven days before the last date for joining that season.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S10",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.11, para 3.1.1.1",
+        "as_of": "2026-09-05",
+        "quote": "at least seven days prior to the cut-off date for enrolment of farmers for the respective season",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S11",
+      "scheme": "PMFBY",
+      "field": "who_can_enrol",
+      "text": "Only farmers whose details are uploaded on the crop insurance portal and whose premium has reached the insurance company in time are covered.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S11",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.9, para 2.9",
+        "as_of": "2026-09-05",
+        "quote": "Only those farmers whose data is uploaded on the NCIP and their share of premium has been remitted",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S12",
+      "scheme": "PMFBY",
+      "field": "enrolment",
+      "text": "A farmer without a crop loan can join through the nearest bank branch, a common service centre, an authorised channel partner or an insurance company agent.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S12",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.41, para 17.6.1",
+        "as_of": "2026-09-05",
+        "quote": "submit the same to nearest bank branch/CSCs or authorized channel partner or insurance intermediary of insurance company",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S13",
+      "scheme": "PMFBY",
+      "field": "documents",
+      "text": "For joining without a crop loan the papers are the Aadhaar card copy, the bank passbook, land ownership or tenancy proof, and a sowing certificate or a self declaration of the crop.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S13",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.109, para 35.10.9",
+        "as_of": "2026-09-05",
+        "quote": "the copy of Aadhaar Card, Bank Passbook, Land Ownership proof /contract document or any other document defined by the concerned State Government",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S14",
+      "scheme": "PMFBY",
+      "field": "documents",
+      "text": "The farmer needs a bank account in the designated bank branch and must give those account details in the application.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S14",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.109, para 35.10.4",
+        "as_of": "2026-09-05",
+        "quote": "The farmer desiring coverage under crop insurance should open/operate an account in the branch of the designated bank",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S15",
+      "scheme": "PMFBY",
+      "field": "enrolment",
+      "text": "The same piece of land must not be insured twice or through two different agencies.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S15",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.109, para 35.10.10",
+        "as_of": "2026-09-05",
+        "quote": "Non-Loanee farmer should ensure that the crop on the same land is not insured more than once",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S16",
+      "scheme": "PMFBY",
+      "field": "enrolment",
+      "text": "The crop actually standing in the field must be the same crop that was insured, otherwise the claim can be lost.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S16",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.90, para 25.1.2",
+        "as_of": "2026-09-05",
+        "quote": "if the crop actually sown and insured are different, may lead to forfeiting of claims",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S17",
+      "scheme": "PMFBY",
+      "field": "crops_covered",
+      "text": "The scheme covers food crops such as cereals, millets and pulses, oilseeds, and annual commercial or horticultural crops.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S17",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.12, para 4",
+        "as_of": "2026-09-05",
+        "quote": "Food crops (Cereals, Millets and Pulses)",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S18",
+      "scheme": "PMFBY",
+      "field": "risks_covered",
+      "text": "The basic cover protects the standing crop from sowing until harvesting.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S18",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.12, para 5.1",
+        "as_of": "2026-09-05",
+        "quote": "The basic cover under the scheme covers the risk of loss of yield to standing crop (sowing to harvesting)",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S19",
+      "scheme": "PMFBY",
+      "field": "risks_covered",
+      "text": "The basic cover applies to yield loss from risks a farmer cannot prevent, such as drought, dry spells, flood and inundation.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["drought", "flood", "inundation", "heavy_rain", "unseasonal_rain"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S19",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.12, para 5.1",
+        "as_of": "2026-09-05",
+        "quote": "cover yield losses on an area based approach basis due to non-preventable risks like drought, dry spells, flood, inundation",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S20",
+      "scheme": "PMFBY",
+      "field": "risks_covered",
+      "text": "The basic cover also lists widespread pest and disease attack, landslide, natural fire from lightning, storm, hailstorm and cyclone.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["pest", "disease", "landslide", "fire", "hailstorm", "cyclone"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S20",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.12, para 5.1",
+        "as_of": "2026-09-05",
+        "quote": "wide spread pest and disease attack, landslides, natural fire due to lightening, storm, hailstorm, and cyclone",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S21",
+      "scheme": "PMFBY",
+      "field": "risks_covered",
+      "text": "If the state has notified it, there is an add-on cover for when sowing or planting could not happen at all because of not enough rain or bad weather.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["prevented_sowing", "drought"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S21",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.12, para 5.2.1",
+        "as_of": "2026-09-05",
+        "quote": "Insured area is prevented from sowing/ planting/germination due to deficit rainfall or adverse seasonal/climatic conditions.",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S22",
+      "scheme": "PMFBY",
+      "field": "risks_covered",
+      "text": "There is a mid-season cover for bad seasons like floods, long dry spells and severe drought, where the harvest is expected to fall below half of normal.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["drought", "flood", "heavy_rain"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S22",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.12, para 5.2.2",
+        "as_of": "2026-09-05",
+        "quote": "Loss in case of adverse seasonal conditions during the crop season viz. floods, prolonged dry spells and severe drought",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S23",
+      "scheme": "PMFBY",
+      "field": "risks_covered",
+      "text": "Post-harvest cover is available only for up to two weeks from harvesting, for crops left in the field to dry.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "cyclone", "hailstorm", "unseasonal_rain", "heavy_rain"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S23",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.12, para 5.2.3",
+        "as_of": "2026-09-05",
+        "quote": "Coverage is available only up to a maximum period of two weeks from harvesting",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S24",
+      "scheme": "PMFBY",
+      "field": "risks_covered",
+      "text": "The post-harvest cover is for damage by hailstorm, cyclone, cyclonic rain and unseasonal rain to a cut crop lying in the field.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "cyclone", "hailstorm", "unseasonal_rain", "heavy_rain"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S24",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.12, para 5.2.3",
+        "as_of": "2026-09-05",
+        "quote": "in the field after harvesting against specific perils of hailstorm, cyclone, cyclonic rains and unseasonal rains",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S25",
+      "scheme": "PMFBY",
+      "field": "risks_covered",
+      "text": "For post-harvest cover the crop must have been drying in the field in cut and spread or small bundled condition, up to fourteen days from harvest.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "cyclone", "hailstorm", "unseasonal_rain", "heavy_rain"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S25",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.80, para 21.6.2.3",
+        "as_of": "2026-09-05",
+        "quote": "drying in the field in “cut and spread condition”/small bundled conditions upto a period of 14 days from harvest",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S26",
+      "scheme": "PMFBY",
+      "field": "risks_covered",
+      "text": "Localized calamity cover is for hailstorm, landslide, inundation, cloud burst and natural fire from lightning that hit single farms rather than the whole area.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["hailstorm", "landslide", "inundation", "fire", "cloud_burst"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S26",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.13, para 5.2.4",
+        "as_of": "2026-09-05",
+        "quote": "identified localized risks of hailstorm, landslide, inundation, cloud burst and natural fire due to lightening affecting isolated farms",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S27",
+      "scheme": "PMFBY",
+      "field": "risks_covered",
+      "text": "Inundation means standing water from natural rain or flood water that stays a long time and visibly damages the crop.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["inundation", "flood"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S27",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.72, para 21.5.2",
+        "as_of": "2026-09-05",
+        "quote": "where water stays for a prolonged period and causes visible damage to the crop",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S28",
+      "scheme": "PMFBY",
+      "field": "risks_covered",
+      "text": "The add-on covers only exist in a district if the state government has notified them for that season.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "prevented_sowing", "hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S28",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.73, para 21.5.3.1",
+        "as_of": "2026-09-05",
+        "quote": "This add-on cover will only be available if this cover is notified by the State Government",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S29",
+      "scheme": "PMFBY",
+      "field": "risks_covered",
+      "text": "Some states also add a cover for crop damage caused by wild animals, where they have chosen to offer it.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["wild_animal", "other"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S29",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.13, para 5.2.5",
+        "as_of": "2026-09-05",
+        "quote": "The States may consider providing add-on coverage for crop loss due to the attack by wild animals",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S30",
+      "scheme": "PMFBY",
+      "field": "risks_covered",
+      "text": "The state government fixes the normal harvesting dates for each crop, and the post-harvest cover cannot be used for an event outside that period.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "cyclone", "hailstorm", "unseasonal_rain"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S30",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.80, para 21.6.3.1 A",
+        "as_of": "2026-09-05",
+        "quote": "In the case of any event occurring beyond these dates/this period, this provision shall not be applicable under any circumstances.",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S31",
+      "scheme": "PMFBY",
+      "field": "exclusions",
+      "text": "Losses from war, nuclear risks, deliberate damage, and other things that could have been prevented are not covered.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S31",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.13, para 5.4",
+        "as_of": "2026-09-05",
+        "quote": "Losses arising out of war and nuclear risks, malicious damage and other preventable risks shall be excluded.",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S32",
+      "scheme": "PMFBY",
+      "field": "intimation",
+      "text": "For a localized calamity or a post-harvest loss the farmer must report it, because the damage is checked on that farmer's own field.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S32",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.13, para 5.5",
+        "as_of": "2026-09-05",
+        "quote": "lodging of loss intimation by the farmer/designated agencies is essential",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S33",
+      "scheme": "PMFBY",
+      "field": "intimation",
+      "text": "For a wide-spread calamity that hits the whole area the farmer does not have to lodge a separate intimation.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["drought", "flood", "pest", "disease", "heavy_rain"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S33",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.13, para 5.5",
+        "as_of": "2026-09-05",
+        "quote": "lodging of intimation for claims by insured farmers / designated agencies for such wide-spread calamities is not essential",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S34",
+      "scheme": "PMFBY",
+      "field": "intimation",
+      "text": "For a localized calamity the guidelines ask the insured farmer to give immediate intimation within seventy-two hours.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain", "post_harvest", "flood"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S34",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.73, para 21.5.4.1 A",
+        "as_of": "2026-09-05",
+        "quote": "Immediate intimation (within 72 hours) by the insured farmer",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S35",
+      "scheme": "PMFBY",
+      "field": "intimation",
+      "text": "The intimation for a localized calamity can be given straight to the insurance company, through the Crop Insurance App, or on a toll-free number.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain", "post_harvest", "flood"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S35",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.74, para 21.5.4.2",
+        "as_of": "2026-09-05",
+        "quote": "Intimation may be given within 72 hours by the farmer either directly, the “Crop Insurance App”, dedicated toll-free number",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S36",
+      "scheme": "PMFBY",
+      "field": "intimation",
+      "text": "The intimation can also be passed on through the bank branch or the local agriculture department or district officials.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain", "post_harvest", "flood"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S36",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.74, para 21.5.4.2",
+        "as_of": "2026-09-05",
+        "quote": "The intimation may also be forwarded through the concerned bank branch, local agriculture department Government/district officials",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S37",
+      "scheme": "PMFBY",
+      "field": "intimation",
+      "text": "The guidelines say the first way to report should be the Crop Insurance App and the central toll-free number.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain", "post_harvest", "flood"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S37",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.74, para 21.5.4.2",
+        "as_of": "2026-09-05",
+        "quote": "The first mode of intimation should be the “Crop Insurance App” and the centralised Toll-Free Number for this purpose.",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S38",
+      "scheme": "PMFBY",
+      "field": "intimation",
+      "text": "For a post-harvest loss too, the intimation is to be given within seventy-two hours through the Crop Insurance App or directly to the insurance company.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "cyclone", "hailstorm", "unseasonal_rain", "heavy_rain"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S38",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.80, para 21.6.3.2",
+        "as_of": "2026-09-05",
+        "quote": "Intimation may be given within 72 hours by farmer either through the Crop Insurance App or directly to the Insurance Company",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S39",
+      "scheme": "PMFBY",
+      "field": "intimation",
+      "text": "It is the farmer's part to inform the bank, the channel partner or the insurer about a localized or post-harvest loss within seventy-two hours.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain", "flood"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S39",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.109, para 35.9.4",
+        "as_of": "2026-09-05",
+        "quote": "Give information of any loss due to a localized risk or a post-harvest loss due to specified perils",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S40",
+      "scheme": "PMFBY",
+      "field": "intimation",
+      "text": "The intimation should carry the farmer's name, the survey numbers affected, the insured crop and how much area was damaged.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain", "flood"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S40",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.73, para 21.5.4.1 B",
+        "as_of": "2026-09-05",
+        "quote": "Intimation must contain details of insured farmer’s name, affected survey number-wise insured crop and acreage affected",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S41",
+      "scheme": "PMFBY",
+      "field": "intimation",
+      "text": "At the time of reporting the farmer should give the bank account number or the enrolment number from the portal.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain", "flood"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S41",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.83, Table 11 row 1",
+        "as_of": "2026-09-05",
+        "quote": "or Enrolment number generated from the portal at the time of intimation",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S42",
+      "scheme": "PMFBY",
+      "field": "intimation",
+      "text": "For a localized claim the intimation is a condition to get the benefit, and an intimation given at the time of the survey is also counted.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain", "post_harvest"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S42",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.82, para 21.6.6.4.2",
+        "as_of": "2026-09-05",
+        "quote": "Intimation is a pre-condition to get the benefit for localized claim. Intimation at the time of survey would also be considered.",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S43",
+      "scheme": "PMFBY",
+      "field": "intimation",
+      "text": "If the intimation went through the bank branch or a government officer, they have to pass it to the insurance company within forty-eight hours.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain", "flood"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S43",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.81, para 21.6.3.4",
+        "as_of": "2026-09-05",
+        "quote": "the Insurance Company must be notified within 48 hours",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S44",
+      "scheme": "PMFBY",
+      "field": "intimation",
+      "text": "If the farmer cannot fill every column of the intimation form at once, a part-filled form can be sent and completed later.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain", "flood"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S44",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.81, para 21.6.4.1",
+        "as_of": "2026-09-05",
+        "quote": "if information against all the columns is not readily available, a semi-filled form may be sent to the Insurance Company",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S45",
+      "scheme": "PMFBY",
+      "field": "premium",
+      "text": "For kharif food grain and oilseed crops the farmer's share of the premium is at most two per cent of the sum insured.",
+      "applies_to": {"crops": "all", "seasons": ["kharif"], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S45",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.30, Table 1 (para 13.1)",
+        "as_of": "2026-09-05",
+        "quote": "Kharif All Food grain and Oilseeds crops (all Cereals, Millets, Pulses and Oilseeds crops) 2.0% of SI",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S46",
+      "scheme": "PMFBY",
+      "field": "premium",
+      "text": "For rabi food grain and oilseed crops the farmer's share of the premium is at most one and a half per cent of the sum insured.",
+      "applies_to": {"crops": "all", "seasons": ["rabi"], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S46",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.30, Table 1 (para 13.1)",
+        "as_of": "2026-09-05",
+        "quote": "Rabi All Food grain and Oilseeds crops (all Cereals, Millets, Pulses and Oilseeds) 1.5% of SI",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S47",
+      "scheme": "PMFBY",
+      "field": "premium",
+      "text": "For annual commercial and annual horticultural crops the farmer's share of the premium is at most five per cent of the sum insured.",
+      "applies_to": {"crops": "all", "seasons": ["kharif", "rabi"], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S47",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.30, Table 1 (para 13.1)",
+        "as_of": "2026-09-05",
+        "quote": "Annual Commercial/ Annual Horticultural crops 5% of SI or Actuarial rate, whichever is less",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S48",
+      "scheme": "PMFBY",
+      "field": "premium",
+      "text": "Whatever the premium costs above the farmer's share is paid as subsidy, shared equally between the central and the state government.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S48",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.30, para 13.1.1",
+        "as_of": "2026-09-05",
+        "quote": "shall be treated as the Rate of Normal Premium Subsidy, which shall be shared equally in 50:50 ratio by the Centre and States/UTs",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S49",
+      "scheme": "PMFBY",
+      "field": "premium",
+      "text": "For the add-on covers, only farmers whose premium was already debited from their account before the event happened can be helped.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain", "prevented_sowing"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S49",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.73, para 21.5.3.5",
+        "as_of": "2026-09-05",
+        "quote": "the premium has been debited from their account before the occurrence of the insured peril",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S50",
+      "scheme": "PMFBY",
+      "field": "sum_insured",
+      "text": "The sum insured for a farmer is the per-hectare amount fixed in the state notification multiplied by the area of the notified crop.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "never_promise",
+      "citation": {
+        "id": "S50",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.29, para 12.1",
+        "as_of": "2026-09-05",
+        "quote": "per hectare multiplied by the area of the notified crop proposed by the farmer for insurance",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S51",
+      "scheme": "PMFBY",
+      "field": "sum_insured",
+      "text": "The land area for insurance is always counted in hectares.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S51",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.29, para 12.1",
+        "as_of": "2026-09-05",
+        "quote": "Area under cultivation shall always be expressed in hectare.",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S52",
+      "scheme": "PMFBY",
+      "field": "assessment",
+      "text": "For a wide-spread calamity the loss is judged for the whole notified area together, not farm by farm.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["drought", "flood", "pest", "disease", "heavy_rain", "cyclone"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S52",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.45, para 18.1",
+        "as_of": "2026-09-05",
+        "quote": "The Scheme operates on the basis of “Area Approach” i.e., the Defined Areas for each notified crop for widespread calamities",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S53",
+      "scheme": "PMFBY",
+      "field": "assessment",
+      "text": "For major crops the insurance unit is usually the village or the village panchayat.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S53",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.45, para 18.1",
+        "as_of": "2026-09-05",
+        "quote": "insurance unit is the Village/Village Panchayat or any other equivalent unit for major crops",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S54",
+      "scheme": "PMFBY",
+      "field": "assessment",
+      "text": "For wide-spread loss the harvest is measured by crop cutting experiments in the field and compared with the threshold yield for that unit.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["drought", "flood", "pest", "disease", "heavy_rain", "cyclone"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S54",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.62, para 21.2.1",
+        "as_of": "2026-09-05",
+        "quote": "calculated on basis of requisite number of CCEs) in insured season, falls short of specified TY for the season",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S55",
+      "scheme": "PMFBY",
+      "field": "assessment",
+      "text": "The threshold yield is the average of the best five of the past seven years for that season, multiplied by the indemnity level.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S55",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.62, para 21.2.1",
+        "as_of": "2026-09-05",
+        "quote": "the average yield of best 5 years from past seven years of that season multiplied by applicable Indemnity Level for that crop",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S56",
+      "scheme": "PMFBY",
+      "field": "assessment",
+      "text": "For a localized calamity or a post-harvest loss the damage is checked on that farmer's own field.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S56",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.13, para 5.5",
+        "as_of": "2026-09-05",
+        "quote": "Loss/damage for localised calamities and post-harvest losses will be assessed at the level of the individual insured farm",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S57",
+      "scheme": "PMFBY",
+      "field": "assessment",
+      "text": "The field survey is done jointly by the insurer's loss assessor, the block agriculture officer and the farmer themselves.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S57",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.82, para 21.6.5.3",
+        "as_of": "2026-09-05",
+        "quote": "It may comprise of the loss assessors appointed by the insurer, block level agriculture officer and the concerned farmer.",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S58",
+      "scheme": "PMFBY",
+      "field": "evidence",
+      "text": "Weather department reports, media reports and local newspaper cuttings can be used to show that the event happened and how bad it was.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain", "flood"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S58",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.81, para 21.6.4.3",
+        "as_of": "2026-09-05",
+        "quote": "IMD report, media report, local newspaper cuttings, etc can be used to substantiate occurrence of loss event",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S59",
+      "scheme": "PMFBY",
+      "field": "evidence",
+      "text": "A post-harvest loss can be reported through the Crop Insurance App with the location of the field and photographs.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "cyclone", "hailstorm", "unseasonal_rain"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S59",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.80, para 21.6.3.1 E",
+        "as_of": "2026-09-05",
+        "quote": "reporting an incidence of a post harvest providing details of longitude/latitude and pictures",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S60",
+      "scheme": "PMFBY",
+      "field": "evidence",
+      "text": "A localized calamity can also be reported through the mobile app with the location and photographs of the damage.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S60",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.74, para 21.5.4.1 D",
+        "as_of": "2026-09-05",
+        "quote": "for intimation of events including longitude/latitude details and pictures using Mobile App",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S61",
+      "scheme": "PMFBY",
+      "field": "evidence",
+      "text": "The insurance company can also collect any other papers directly from the farmer when the surveyor visits the field.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S61",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.81, para 21.6.4.2",
+        "as_of": "2026-09-05",
+        "quote": "Any other additional documents can be collected directly from the farmer at the time of loss assessment",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S62",
+      "scheme": "PMFBY",
+      "field": "assessment",
+      "text": "Premium payment is checked from the portal, and if needed the bank has to confirm the payment.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S62",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.73, para 21.5.4.1 C",
+        "as_of": "2026-09-05",
+        "quote": "Premium payment verification to be done from the portal and in case of need, may be verified from the bank.",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S63",
+      "scheme": "PMFBY",
+      "field": "claim_timeline",
+      "text": "The guidelines set a target for the insurer to appoint a loss assessor within forty-eight hours of getting the information; the reviewer confirms what happens in a real case.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain"]},
+      "sensitivity": "never_promise",
+      "citation": {
+        "id": "S63",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.82, para 21.6.6.1",
+        "as_of": "2026-09-05",
+        "quote": "Appointment of the loss assessor within 48 hours from the receipt of information.",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S64",
+      "scheme": "PMFBY",
+      "field": "claim_timeline",
+      "text": "The guidelines set a target for the loss assessment to be finished in the next ten days; the reviewer confirms what happens in a real case.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain"]},
+      "sensitivity": "never_promise",
+      "citation": {
+        "id": "S64",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.82, para 21.6.6.2",
+        "as_of": "2026-09-05",
+        "quote": "Loss assessment to be completed within next10 days",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S65",
+      "scheme": "PMFBY",
+      "field": "claim_timeline",
+      "text": "The guidelines set a target for settlement in the next fifteen days after the loss assessment report, subject to the premium being received; the reviewer confirms what happens in a real case.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain"]},
+      "sensitivity": "never_promise",
+      "citation": {
+        "id": "S65",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.82, para 21.6.6.3",
+        "as_of": "2026-09-05",
+        "quote": "Claim settlement to be completed in next15 days (subject to receipt of premium) from the time of receipt of loss assessment report",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S66",
+      "scheme": "PMFBY",
+      "field": "claim_timeline",
+      "text": "The guidelines set a target for the taluka or district grievance officer to answer a farmer's complaint in seven days; the reviewer confirms what happens in a real case.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "never_promise",
+      "citation": {
+        "id": "S66",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.95, para 30.2",
+        "as_of": "2026-09-05",
+        "quote": "to record &respond to the grievances of Farmers, Banks, ICs etc. within 7 days of receipt of grievance",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S67",
+      "scheme": "PMFBY",
+      "field": "claim_payment",
+      "text": "If a claim is settled, the money goes straight into the farmer's own bank account by electronic transfer.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "never_promise",
+      "citation": {
+        "id": "S67",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.88, para 23.7",
+        "as_of": "2026-09-05",
+        "quote": "claims shall be released only electronically through PFMS directly into insured farmer’s given bank account",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S68",
+      "scheme": "PMFBY",
+      "field": "claim_payment",
+      "text": "When a claim is settled, an SMS about it is sent to the farmer from the crop insurance portal.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "never_promise",
+      "citation": {
+        "id": "S68",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.88, para 23.10",
+        "as_of": "2026-09-05",
+        "quote": "The claim settlement intimation shall be sent to each beneficiary farmer through SMS from the NCIP.",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S69",
+      "scheme": "PMFBY",
+      "field": "grievance",
+      "text": "Each district has a taluka level and a district level grievance officer, usually the agriculture or horticulture officer, to hear farmers' complaints.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S69",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.95, para 30.2",
+        "as_of": "2026-09-05",
+        "quote": "each district shall designate taluka and district level grievance redressal officer preferably Tehsil/Taluk or District Agriculture/Horticulture Officer",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S70",
+      "scheme": "PMFBY",
+      "field": "grievance",
+      "text": "If the taluka or district officer does not settle it, the matter goes to the district level grievance committee headed by the Collector.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S70",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.95, para 30.3",
+        "as_of": "2026-09-05",
+        "quote": "This Committee will be headed by the District Magistrate/Collector and the representatives of Farmers, Lead District Manager",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S71",
+      "scheme": "PMFBY",
+      "field": "helpline",
+      "text": "The government's crop insurance helpline for farmers is the toll-free number one four four four seven, the Krishi Rakshak Portal and Helpline.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S71",
+        "title": "Operational Guidelines of Pradhan Mantri Fasal Bima Yojana (PIB release, 02 December 2025)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2197713&reg=3&lang=1",
+        "publisher": "Press Information Bureau, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PIB release PRID 2197713, grievance redressal paragraph",
+        "as_of": "2026-09-05",
+        "quote": "Grievance Redressal for the insured farmers under the scheme is provided through KrishiRakshak Portal & Helpline (KRPH) available through single toll-free number 14447",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S72",
+      "scheme": "PMFBY",
+      "field": "helpline",
+      "text": "That helpline works day and night, every day of the year, by phone and through the web portal.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S72",
+        "title": "Operational Guidelines of Pradhan Mantri Fasal Bima Yojana (PIB release, 02 December 2025)",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2197713&reg=3&lang=1",
+        "publisher": "Press Information Bureau, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PIB release PRID 2197713, grievance redressal paragraph",
+        "as_of": "2026-09-05",
+        "quote": "KRPHis available 24 X 7 all days in a year through web-portal and voice calls",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S73",
+      "scheme": "PMFBY",
+      "field": "enrolment",
+      "text": "Enrolment for kharif opens from the first of April and for rabi from the first of October, as per the crop calendar.",
+      "applies_to": {"crops": "all", "seasons": ["kharif", "rabi"], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S73",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.33, Table 2 row 6 (para 16.4)",
+        "as_of": "2026-09-05",
+        "quote": "Start of enrolment of farmers for the season(as per crop calendar) From 1st April From 1st October",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S74",
+      "scheme": "PMFBY",
+      "field": "enrolment",
+      "text": "The guidelines give an indicative last date for joining of the fifth of July for kharif and the fifteenth of December for rabi, but the state's own notification and district crop calendar decide the real date.",
+      "applies_to": {"crops": "all", "seasons": ["kharif", "rabi"], "states": "all", "events": []},
+      "sensitivity": "never_promise",
+      "citation": {
+        "id": "S74",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.33, Table 2 row 9 (para 16.4)",
+        "as_of": "2026-09-05",
+        "quote": "This is indicative only and district wise crop calendar will be the final basis to arrive at cut-off date",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S75",
+      "scheme": "PMFBY",
+      "field": "assessment",
+      "text": "Prevented sowing cover applies when more than seventy-five per cent of the sown area in a notified unit could not be sown at all.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["prevented_sowing", "drought"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S75",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.63, para 21.3.1",
+        "as_of": "2026-09-05",
+        "quote": "affecting crops in more than 75% of the area sown in a notified unit at early stage of sowing",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S76",
+      "scheme": "PMFBY",
+      "field": "assessment",
+      "text": "If the damaged area is up to a quarter of the cropped area in the unit, each affected farmer's field is surveyed one by one.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["post_harvest", "hailstorm", "landslide", "inundation", "fire", "cloud_burst", "cyclone", "unseasonal_rain"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S76",
+        "title": "Pradhan Mantri Fasal Bima Yojana - Operational Guidelines (Revamped), effective from Kharif 2020",
+        "url": "https://pmfby.gov.in/pdf/Revamped%20OGs_Final.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.82, para 21.6.6.4.2",
+        "as_of": "2026-09-05",
+        "quote": "When affected area is limited up to 25% of the total cropped area in the notified IU",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S77",
+      "scheme": "PMFBY",
+      "field": "state_notification",
+      "text": "For the kharif twenty twenty-six season in Tamil Nadu, HDFC ERGO is the company authorised to run the scheme in Ranipet and Cuddalore districts, for farmers with and without crop loans.",
+      "applies_to": {"crops": "all", "seasons": ["kharif"], "states": ["Tamil Nadu"], "districts": ["Cuddalore", "Ranipet"], "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S77",
+        "title": "HDFC ERGO Rolls Out PMFBY for Tamil Nadu Farmers (press coverage of the Tamil Nadu Kharif 2026 notification)",
+        "url": "https://www.businessminutes.in/2026/07/hdfc-ergo-rolls-out-pmfby-for-tamil-nadu-farmers.html",
+        "publisher": "Business Minutes (press coverage; not the state notification itself)",
+        "page": "article dated 08 July 2026, paragraph 1",
+        "as_of": "2026-09-05",
+        "quote": "to implement the Pradhan Mantri Fasal Bima Yojana (PMFBY) for both loanee and non-loanee farmers in Ranipet and Cuddalore districts",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S78",
+      "scheme": "PMFBY",
+      "field": "state_notification",
+      "text": "The crops named for that Tamil Nadu kharif season include paddy, black gram, green gram, groundnut, pigeon pea, pearl millet, sesame, bhindi, brinjal, banana, tapioca and turmeric.",
+      "applies_to": {"crops": ["paddy", "black gram", "green gram", "groundnut", "pigeon pea", "pearl millet", "sesame", "bhindi", "okra", "brinjal", "banana", "tapioca", "turmeric"], "seasons": ["kharif"], "states": ["Tamil Nadu"], "districts": ["Cuddalore", "Ranipet"], "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S78",
+        "title": "HDFC ERGO Rolls Out PMFBY for Tamil Nadu Farmers (press coverage of the Tamil Nadu Kharif 2026 notification)",
+        "url": "https://www.businessminutes.in/2026/07/hdfc-ergo-rolls-out-pmfby-for-tamil-nadu-farmers.html",
+        "publisher": "Business Minutes (press coverage; not the state notification itself)",
+        "page": "article dated 08 July 2026, paragraph 2",
+        "as_of": "2026-09-05",
+        "quote": "Paddy, Black Gram, Green Gram, Groundnut, Pigeon Pea, Pearl Millet, Sesame, Bhindi, Brinjal, Banana, Tapioca, and Turmeric",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S79",
+      "scheme": "PMFBY",
+      "field": "state_notification",
+      "text": "For that Tamil Nadu kharif season the last dates to join are different for each crop and fall between the middle of July and the middle of September twenty twenty-six.",
+      "applies_to": {"crops": "all", "seasons": ["kharif"], "states": ["Tamil Nadu"], "districts": ["Cuddalore", "Ranipet"], "events": []},
+      "sensitivity": "never_promise",
+      "citation": {
+        "id": "S79",
+        "title": "HDFC ERGO Rolls Out PMFBY for Tamil Nadu Farmers (press coverage of the Tamil Nadu Kharif 2026 notification)",
+        "url": "https://www.businessminutes.in/2026/07/hdfc-ergo-rolls-out-pmfby-for-tamil-nadu-farmers.html",
+        "publisher": "Business Minutes (press coverage; not the state notification itself)",
+        "page": "article dated 08 July 2026, paragraph 2",
+        "as_of": "2026-09-05",
+        "quote": "with crop-specific cut-off dates ranging from 15 July to 15 September 2026",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S80",
+      "scheme": "PMFBY",
+      "field": "state_notification",
+      "text": "In those Tamil Nadu districts farmers can join through banks, common service centres, authorised agents of the company, or the crop insurance farmer portal.",
+      "applies_to": {"crops": "all", "seasons": ["kharif"], "states": ["Tamil Nadu"], "districts": ["Cuddalore", "Ranipet"], "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S80",
+        "title": "HDFC ERGO Rolls Out PMFBY for Tamil Nadu Farmers (press coverage of the Tamil Nadu Kharif 2026 notification)",
+        "url": "https://www.businessminutes.in/2026/07/hdfc-ergo-rolls-out-pmfby-for-tamil-nadu-farmers.html",
+        "publisher": "Business Minutes (press coverage; not the state notification itself)",
+        "page": "article dated 08 July 2026, paragraph 3",
+        "as_of": "2026-09-05",
+        "quote": "Farmers can enrol through banks, Common Service Centres (CSCs), authorised HDFC ERGO agents, or the PMFBY Farmer Portal.",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S81",
+      "scheme": "PMFBY",
+      "field": "state_notification",
+      "text": "In Tamil Nadu the crop cutting experiments that decide the average yield are done by Assistant Agriculture Officers and supervised by the state statistics department.",
+      "applies_to": {"crops": "all", "seasons": [], "states": ["Tamil Nadu"], "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S81",
+        "title": "Pradhan Mantri Fasal Bima Yojana (PMFBY) - Department of Economics and Statistics, Tamil Nadu",
+        "url": "https://des.tn.gov.in/en/node/15",
+        "publisher": "Department of Economics and Statistics, Government of Tamil Nadu",
+        "page": "PMFBY page, paragraph 1",
+        "as_of": "2026-09-05",
+        "quote": "the average yield of notified crops has been calculated through crop cutting experiments done by Assistant Agriculture Officers",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S82",
+      "scheme": "RWBCIS",
+      "field": "purpose",
+      "text": "There is a second scheme called the Restructured Weather Based Crop Insurance Scheme, which pays on measured weather readings instead of on the harvest measured in the field.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": []},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S82",
+        "title": "Restructured Weather Based Crop Insurance Scheme (RWBCIS) - Operational Guidelines (Revised)",
+        "url": "https://pmfby.gov.in/pdf/RWBCIS_Revised_Guidelines_1.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.3, para 1",
+        "as_of": "2026-09-05",
+        "quote": "RWBCIS uses weather parameters as “proxy‟ for crop yields in compensating the cultivators for deemed crop losses.",
+        "kind": "scheme"
+      }
+    },
+    {
+      "id": "S83",
+      "scheme": "RWBCIS",
+      "field": "risks_covered",
+      "text": "That weather scheme covers deficit or excess rain, unseasonal rain, dry spells, high or low temperature, humidity and wind speed.",
+      "applies_to": {"crops": "all", "seasons": [], "states": "all", "events": ["drought", "unseasonal_rain", "heavy_rain"]},
+      "sensitivity": "normal",
+      "citation": {
+        "id": "S83",
+        "title": "Restructured Weather Based Crop Insurance Scheme (RWBCIS) - Operational Guidelines (Revised)",
+        "url": "https://pmfby.gov.in/pdf/RWBCIS_Revised_Guidelines_1.pdf",
+        "publisher": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+        "page": "PDF p.4, para 5.2",
+        "as_of": "2026-09-05",
+        "quote": "Rainfall – Deficit Rainfall, Excess rainfall, Unseasonal Rainfall, Rainy days, Dry-spell, Dry days",
+        "kind": "scheme"
+      }
+    }
+  ]
+}

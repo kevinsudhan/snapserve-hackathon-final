@@ -1,0 +1,45 @@
+/**
+ * Centroids for the 37 Tamil Nadu district polygons shipped in
+ * `public/tn_districts.geojson` (datameet-derived, Census 2011 boundaries +
+ * post-2019 splits).  Used only by mock mode; the real backend serves the
+ * same names from `backend/data/tn_districts.json`.
+ */
+export const TN_DISTRICTS: { name: string; lat: number; lon: number }[] = [
+  { name: 'Thiruvallur', lat: 13.213, lon: 79.798 },
+  { name: 'Chennai', lat: 13.004, lon: 80.204 },
+  { name: 'Krishnagiri', lat: 12.452, lon: 78.066 },
+  { name: 'Tiruvannamalai', lat: 12.426, lon: 79.221 },
+  { name: 'Dharmapuri', lat: 12.133, lon: 78.221 },
+  { name: 'Salem', lat: 11.641, lon: 78.289 },
+  { name: 'Erode', lat: 11.515, lon: 77.426 },
+  { name: 'Nilgiris', lat: 11.447, lon: 76.638 },
+  { name: 'Namakkal', lat: 11.331, lon: 78.124 },
+  { name: 'Perambalur', lat: 11.273, lon: 78.871 },
+  { name: 'Coimbatore', lat: 10.861, lon: 76.986 },
+  { name: 'Tiruchirappalli', lat: 10.869, lon: 78.555 },
+  { name: 'Ariyalur', lat: 11.144, lon: 79.194 },
+  { name: 'Tiruppur', lat: 10.801, lon: 77.404 },
+  { name: 'Thanjavur', lat: 10.655, lon: 79.246 },
+  { name: 'Karur', lat: 10.819, lon: 78.068 },
+  { name: 'Thiruvarur', lat: 10.724, lon: 79.523 },
+  { name: 'Dindigul', lat: 10.442, lon: 77.826 },
+  { name: 'Madurai', lat: 9.92, lon: 78.034 },
+  { name: 'Theni', lat: 9.885, lon: 77.416 },
+  { name: 'Virudhunagar', lat: 9.499, lon: 77.953 },
+  { name: 'Thoothukkudi', lat: 8.915, lon: 77.959 },
+  { name: 'Kanyakumari', lat: 8.324, lon: 77.376 },
+  { name: 'Viluppuram', lat: 12.076, lon: 79.53 },
+  { name: 'Cuddalore', lat: 11.568, lon: 79.446 },
+  { name: 'Pudukkottai', lat: 10.356, lon: 78.836 },
+  { name: 'Sivaganga', lat: 9.956, lon: 78.565 },
+  { name: 'Ramanathapuram', lat: 9.501, lon: 78.751 },
+  { name: 'Nagapattinam', lat: 10.847, lon: 79.681 },
+  { name: 'Kallakurichi', lat: 11.795, lon: 79.005 },
+  { name: 'Tenkasi', lat: 9.104, lon: 77.498 },
+  { name: 'Tirunelveli', lat: 8.632, lon: 77.586 },
+  { name: 'Vellore', lat: 12.91, lon: 78.963 },
+  { name: 'Ranipet', lat: 12.963, lon: 79.444 },
+  { name: 'Tirupathur', lat: 12.594, lon: 78.649 },
+  { name: 'Kancheepuram', lat: 12.822, lon: 79.828 },
+  { name: 'Chengalpattu', lat: 12.625, lon: 79.953 },
+]

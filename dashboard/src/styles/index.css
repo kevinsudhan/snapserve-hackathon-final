@@ -1,0 +1,337 @@
+@import './tokens.css';
+@import 'tailwindcss';
+
+/* Map design tokens onto Tailwind's theme so utilities stay token-driven. */
+@theme inline {
+  --color-canvas: var(--canvas);
+  --color-bg: var(--bg);
+  --color-surface-1: var(--surface-1);
+  --color-surface-2: var(--surface-2);
+  --color-surface-3: var(--surface-3);
+  --color-inset: var(--surface-inset);
+
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+
+  --color-fg: var(--fg);
+  --color-muted: var(--fg-muted);
+  --color-subtle: var(--fg-subtle);
+  --color-label: var(--fg-label);
+
+  --color-accent: var(--accent);
+  --color-accent-hi: var(--accent-hi);
+  --color-accent-fg: var(--accent-fg);
+  --color-accent-soft: var(--accent-soft);
+  --color-on-accent: var(--on-accent);
+
+  --color-ok: var(--ok);
+  --color-warn: var(--warn);
+  --color-danger: var(--danger);
+  --color-sky: var(--sky);
+  --color-violet: var(--violet);
+  --color-teal: var(--teal);
+
+  --font-sans: 'Inter Tight', 'Geist', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas,
+    'Liberation Mono', monospace;
+
+  --text-2xs: 0.6875rem;   /* 11 */
+  --text-xs: 0.75rem;      /* 12 */
+  --text-sm: 0.8125rem;    /* 13 */
+  --text-base: 0.875rem;   /* 14 */
+  --text-md: 1rem;         /* 16 */
+  --text-lg: 1.25rem;      /* 20 */
+  --text-xl: 1.75rem;      /* 28 */
+  --text-2xl: 2.5rem;      /* 40 */
+
+  --radius-xs: 4px;
+  --radius-sm: 6px;
+  --radius-md: 9px;
+  --radius-lg: 13px;
+  --radius-xl: 18px;
+
+  --ease-out-soft: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@layer base {
+  * {
+    border-color: var(--line);
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    margin: 0;
+    background-color: var(--bg);
+    color: var(--fg);
+    font-family: var(--font-sans);
+    font-size: 14px;
+    line-height: 1.5;
+    font-feature-settings: 'cv02', 'cv03', 'cv04', 'ss01';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::selection {
+    background: var(--accent-soft);
+    color: var(--fg);
+  }
+
+  h1, h2, h3, h4 {
+    letter-spacing: -0.022em;
+    font-weight: 600;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--accent-hi);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  button, [role='button'], a[href], summary {
+    cursor: pointer;
+  }
+  button:disabled {
+    cursor: not-allowed;
+  }
+
+  /* Scrollbars that belong to the product, not the OS. */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: var(--line-strong) transparent;
+  }
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--line-strong);
+    border-radius: 8px;
+    border: 3px solid transparent;
+    background-clip: content-box;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--fg-subtle);
+    background-clip: content-box;
+  }
+}
+
+@layer components {
+  /* Layered surface with a hairline and a faint inner highlight. */
+  /* A layered surface: a hairline, a faint inner highlight along the top
+   * edge, and a shadow that lifts it off the canvas. The gradient runs
+   * surface-2 to surface-1, which only reads because those are now two
+   * different colours in both themes. */
+  .panel {
+    background:
+      linear-gradient(180deg, color-mix(in srgb, var(--surface-2) 92%, transparent) 0%, var(--surface-1) 100%);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--inner-glow), var(--card-shadow);
+  }
+
+  /* A panel that is the subject of the screen rather than one card among
+   * several. Same geometry, a firmer edge — used sparingly, or it stops
+   * meaning anything. */
+  .panel-raised {
+    background:
+      linear-gradient(180deg, color-mix(in srgb, var(--surface-2) 92%, transparent) 0%, var(--surface-1) 100%);
+    border: 1px solid var(--line-strong);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--inner-glow), var(--pop-shadow);
+  }
+
+  .panel-flush {
+    background: var(--surface-1);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--inner-glow);
+  }
+
+  .inset {
+    background: var(--surface-inset);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-md);
+  }
+
+  .hairline {
+    border-color: var(--line);
+  }
+
+  .num {
+    font-variant-numeric: tabular-nums;
+    font-feature-settings: 'tnum' 1;
+  }
+
+  .mono {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.01em;
+  }
+
+  .display {
+    letter-spacing: -0.032em;
+    font-weight: 600;
+  }
+
+  /* Section labels and field captions.
+   *
+   * 11px uppercase with wide tracking is the least legible shape text
+   * takes, and this one is used on every field in the truth panel. It was
+   * painted in --fg-subtle, the palest foreground in the palette, which is
+   * why the intake facts read as a grey wash rather than as labelled data.
+   * It gets its own token and a slightly tighter track — 0.09em on 11px
+   * caps pulls the letters far enough apart to read as separate marks. */
+  .eyebrow {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: var(--fg-label);
+  }
+
+  /* Ambient room lighting behind the app shell. */
+  .room-light {
+    background-image:
+      radial-gradient(900px 460px at 12% -8%, rgba(52, 199, 109, 0.075), transparent 62%),
+      radial-gradient(760px 420px at 92% 0%, rgba(69, 184, 245, 0.05), transparent 60%),
+      linear-gradient(180deg, var(--bg-grad-a) 0%, var(--bg-grad-b) 100%);
+  }
+
+  .grid-veil {
+    background-image:
+      linear-gradient(var(--grid-line) 1px, transparent 1px),
+      linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
+    background-size: 48px 48px;
+    mask-image: radial-gradient(900px 520px at 50% 0%, #000 0%, transparent 78%);
+  }
+
+/* The navigation drawer.
+   *
+   * Parking it with translate hides it from the eye but leaves its links
+   * focusable, so a keyboard user tabbing through a phone-width page walks
+   * into a menu that is not on screen. visibility:hidden takes it out of
+   * both the tab order and the accessibility tree.
+   *
+   * The delay is what makes that usable: leaving, visibility flips only
+   * after the slide has finished, so the animation still plays; arriving,
+   * it flips at once so the panel is focusable as it moves in. From lg up
+   * the element is a permanent rail and none of this applies.
+   *
+   * The whole transition lives here rather than in a utility class because
+   * Tailwind's utilities layer would otherwise override the visibility
+   * timing and the drawer would vanish mid-slide. */
+  .drawer {
+    /* Width lives here, not in a pair of Tailwind utilities.
+     *
+     * `w-[16.5rem] lg:w-[var(--rail-w)]` looked right and did not work:
+     * both are single-class selectors, a media query adds no specificity,
+     * and the base utility happened to be emitted after the lg block — so
+     * the drawer width won at every size and the desk rail never narrowed
+     * when collapsed. Two rules in one class cannot be reordered out from
+     * under each other. --rail-w is set inline and carries the collapse
+     * state; the drawer width is fixed, because a 62px overlay with no
+     * labels is a worse menu than no menu. */
+    width: 16.5rem;
+    transition:
+      width 200ms var(--ease-out-soft),
+      transform 200ms var(--ease-out-soft),
+      visibility 0s;
+  }
+
+  .drawer[data-parked='true'] {
+    visibility: hidden;
+    transition:
+      width 200ms var(--ease-out-soft),
+      transform 200ms var(--ease-out-soft),
+      visibility 0s linear 200ms;
+  }
+
+  @media (min-width: 1024px) {
+    .drawer {
+      width: var(--rail-w);
+    }
+
+    .drawer[data-parked='true'] {
+      visibility: visible;
+      transition:
+        width 200ms var(--ease-out-soft),
+        transform 200ms var(--ease-out-soft);
+    }
+  }
+
+  .skeleton {
+    background: var(--skeleton);
+    background-size: 220% 100%;
+    animation: shimmer 1.5s linear infinite;
+    border-radius: var(--radius-sm);
+  }
+}
+
+@keyframes shimmer {
+  0% { background-position: 120% 0; }
+  100% { background-position: -120% 0; }
+}
+
+@keyframes livepulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.45; transform: scale(1.55); }
+}
+
+@keyframes ringpulse {
+  0% { box-shadow: 0 0 0 0 var(--accent-soft); }
+  70% { box-shadow: 0 0 0 9px transparent; }
+  100% { box-shadow: 0 0 0 0 transparent; }
+}
+
+@keyframes sweep {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(320%); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes fadeOut {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+@keyframes popIn {
+  from { opacity: 0; transform: translate(-50%, -50%) scale(0.965); }
+  to { opacity: 1; transform: translate(-50%, -50%) scale(1); }
+}
+
+@keyframes riseIn {
+  from { opacity: 0; transform: translateY(4px) scale(0.985); }
+  to { opacity: 1; transform: none; }
+}
+
+@keyframes slideInRight {
+  from { opacity: 0.4; transform: translateX(18px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes slideInUp {
+  from { opacity: 0.4; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

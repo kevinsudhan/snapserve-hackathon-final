@@ -1,0 +1,265 @@
+=====PAGE 95 =====
+Sl. No. State Name of the district (All districts) District code Crop Season Sowing Period Harvesting period
+From              To From              To
+4221 Andhra Pradesh Y.S.R Kadapa 551 SUNFLOWER Rabi Oct 1stJan 1st Jan 1stApr 2nd
+4222 Andhra Pradesh Kurnool 552 GREEN GRAM Rabi -- --
+4223 Andhra Pradesh Kurnool 552 HORSE GRAM Rabi -- --
+4224 Andhra Pradesh Kurnool 552 BLACKGRAM Rabi Oct 2ndNov 2nd Jan 2ndMar 3rd
+4225 Andhra Pradesh Kurnool 552 BENGALGRAM Rabi Oct 1stJan 1st Dec 4thMar 1st
+4226 Andhra Pradesh Kurnool 552 GROUNDNUT Rabi Oct 1stDec 3rd Feb 1stApr 2nd
+4227 Andhra Pradesh Kurnool 552 SESAMUM Rabi -- --
+4228 Andhra Pradesh Kurnool 552 SUNFLOWER Rabi Oct 1stDec 2nd Dec 4thApr 1st
+4229 Andhra Pradesh Ananthapur 553 GREEN GRAM Rabi -- --
+4230 Andhra Pradesh Ananthapur 553 HORSE GRAM Rabi -- --
+4231 Andhra Pradesh Ananthapur 553 BLACKGRAM Rabi -- --
+4232 Andhra Pradesh Ananthapur 553 BENGALGRAM Rabi Oct 1stJan 2nd Dec 4thFeb 4th
+4233 Andhra Pradesh Ananthapur 553 GROUNDNUT Rabi Oct 2ndJan 2nd Feb 2ndMay 1st
+4234 Andhra Pradesh Ananthapur 553 SESAMUM Rabi -- --
+4235 Andhra Pradesh Ananthapur 553 SUNFLOWER Rabi Oct 1stDec 4th Dec 4thApr 1st
+4236 Andhra Pradesh Chittoor 554 GREEN GRAM Rabi -- --
+4237 Andhra Pradesh Chittoor 554 HORSE GRAM Rabi Oct 2ndNov 3rd Jan 2ndFeb 4th
+4238 Andhra Pradesh Chittoor 554 BLACKGRAM Rabi -- --
+4239 Andhra Pradesh Chittoor 554 BENGALGRAM Rabi -- --
+4240 Andhra Pradesh Chittoor 554 GROUNDNUT Rabi Nov 1stJan 3rd Feb 1stApr 4th
+4241 Andhra Pradesh Chittoor 554 SESAMUM Rabi -- --
+4242 Andhra Pradesh Chittoor 554 SUNFLOWER Rabi -- --
+4243 Tamilnadu Kancheepuram 604 GREENGRAM Oct-Jan Jan-Apr
+4244 Tamilnadu Kancheepuram 604 BLACKGRAM Oct-Jan Jan-Apr
+4245 Tamilnadu Kancheepuram 604 REDGRAM - -
+4246 Tamilnadu Kancheepuram 604 GROUNDNUT Irr Dec Mar
+4247 Tamilnadu Kancheepuram 604 GROUNDNUT Urr Aug Oct
+4248 Tamilnadu Kancheepuram 604 SESAME Irr Dec Mar
+4249 Tamilnadu Kancheepuram 604 SESAME Urr Aug Oct
+4250 Tamilnadu Thiruvallur 602 GREENGRAM Jan Mar-Apr
+4251 Tamilnadu Thiruvallur 602 BLACKGRAM July-Aug Sep-Oct
+4252 Tamilnadu Thiruvallur 602 REDGRAM July-Aug Oct-Nov
+4253 Tamilnadu Thiruvallur 602 GROUNDNUT Irr Dec-Jan Mar-Apr
+4254 Tamilnadu Thiruvallur 602 GROUNDNUT Urr Jun-July Sep-Oct
+4255 Tamilnadu Thiruvallur 602 SESAME Irr Jun-July Sept-Oct
+4256 Tamilnadu Thiruvallur 602 SESAME Urr Oct Dec
+4257 Tamilnadu Cuddalore 617 GREENGRAM Jan-Feb Apr
+4258 Tamilnadu Cuddalore 617 BLACKGRAM Jan-Feb Apr-Oct
+4259 Tamilnadu Cuddalore 617 REDGRAM July-Aug Oct-Nov
+4260 Tamilnadu Cuddalore 617 GROUNDNUT Irr Oct-Nov Feb-Mar
+4261 Tamilnadu Cuddalore 617 GROUNDNUT Urr Jun-July Sep-Oct
+4262 Tamilnadu Cuddalore 617 SESAME Irr Dec-Jan Mar-Apr
+4263 Tamilnadu Cuddalore 617 SESAME Urr Aug-Sept Nov-Dec
+4264 Tamilnadu Villupuram 607 GREENGRAM Aug-Sep Oct-Nov
+4265 Tamilnadu Villupuram 607 BLACKGRAM Mar May
+4266 Tamilnadu Villupuram 607 REDGRAM July Sep
+4267 Tamilnadu Villupuram 607 GROUNDNUT Irr Apr-May Jun-July
+4268 Tamilnadu Villupuram 607 GROUNDNUT Urr Nov-Dec Feb-Mar
+4269 Tamilnadu Villupuram 607 SESAME Irr Apr-May June-July
+Page 95 of 139
+=====PAGE 96 =====
+Sl. No. State Name of the district (All districts) District code Crop Season Sowing Period Harvesting period
+From              To From              To
+4270 Tamilnadu Villupuram 607 SESAME Urr Nov-Dec Jan-Feb
+4271 Tamilnadu Vellore 605 GREENGRAM Oct Jan 
+4272 Tamilnadu Vellore 605 BLACKGRAM July-Aug Sep-Oct
+4273 Tamilnadu Vellore 605 REDGRAM July-Aug Dec-Jan
+4274 Tamilnadu Vellore 605 GROUNDNUT Irr Nov-Dec Feb-Mar
+4275 Tamilnadu Vellore 605 GROUNDNUT Urr Jun-July Oct-Nov
+4276 Tamilnadu Vellore 605 SESAME Irr Dec-Jan Mar-Apr
+4277 Tamilnadu Vellore 605 SESAME Urr June Sept
+4278 Tamilnadu Thiruvanamalai 606 GREENGRAM Oct Jan
+4279 Tamilnadu Thiruvanamalai 606 BLACKGRAM July-Aug Sep-Oct
+4280 Tamilnadu Thiruvanamalai 606 REDGRAM July-Aug Dec-Jan
+4281 Tamilnadu Thiruvanamalai 606 GROUNDNUT Irr Nov-Dec Feb-Mar
+4282 Tamilnadu Thiruvanamalai 606 GROUNDNUT Urr Oct Feb-Mar
+4283 Tamilnadu Thiruvanamalai 606 SESAME Irr Feb May
+4284 Tamilnadu Thiruvanamalai 606 SESAME Urr June Sept
+4285 Tamilnadu Salem 608 GREENGRAM Jan-Feb Apr
+4286 Tamilnadu Salem 608 BLACKGRAM Sep-Oct Nov-Dec
+4287 Tamilnadu Salem 608 REDGRAM Aug-Sep Nov-Dec
+4288 Tamilnadu Salem 608 GROUNDNUT Irr Nov-Dec Feb-Mar
+4289 Tamilnadu Salem 608 GROUNDNUT Urr Jun-July Aug-Sep
+4290 Tamilnadu Salem 608 SESAME Irr Feb-Mar May-June
+4291 Tamilnadu Salem 608 SESAME Urr June Sept
+4292 Tamilnadu Namakkal 609 GREENGRAM Jan-Feb Apr
+4293 Tamilnadu Namakkal 609 BLACKGRAM Sep-Oct Nov-Dec
+4294 Tamilnadu Namakkal 609 REDGRAM Aug Jan
+4295 Tamilnadu Namakkal 609 GROUNDNUT Irr May-Jun Aug-Sep
+4296 Tamilnadu Namakkal 609 GROUNDNUT Urr May-Jun Aug-Sep
+4297 Tamilnadu Namakkal 609 SESAME Irr Dec-Jan Sept-Oct
+4298 Tamilnadu Namakkal 609 SESAME Urr June-July Aug-Sept
+4299 Tamilnadu Dharmapuri 630 GREENGRAM Jun-July Aug-Sep
+4300 Tamilnadu Dharmapuri 630 BLACKGRAM Sep-Oct Nov-Dec
+4301 Tamilnadu Dharmapuri 630 REDGRAM July-Aug Oct-Nov
+4302 Tamilnadu Dharmapuri 630 GROUNDNUT Irr May-Jun Aug-Sep
+4303 Tamilnadu Dharmapuri 630 GROUNDNUT Urr Jun-July Sep-Oct
+4304 Tamilnadu Dharmapuri 630 SESAME Irr - -
+4305 Tamilnadu Dharmapuri 630 SESAME Urr June-July Aug-Sept
+4306 Tamilnadu Krishnagiri 631 GREENGRAM Jan-Feb Apr
+4307 Tamilnadu Krishnagiri 631 BLACKGRAM Sep-Oct Dec
+4308 Tamilnadu Krishnagiri 631 REDGRAM July-Aug Dec-Jan
+4309 Tamilnadu Krishnagiri 631 GROUNDNUT Irr Nov-Dec Feb-Mar
+4310 Tamilnadu Krishnagiri 631 GROUNDNUT Urr Jun-July Aug-Sep
+4311 Tamilnadu Krishnagiri 631 SESAME Irr - -
+4312 Tamilnadu Krishnagiri 631 SESAME Urr June-July Aug-Sept
+4313 Tamilnadu Coimbatore 632 GREENGRAM Jun-July Aug-Sep
+4314 Tamilnadu Coimbatore 632 BLACKGRAM July-Aug Sep-Oct
+4315 Tamilnadu Coimbatore 632 REDGRAM May-June Sep-Oct
+4316 Tamilnadu Coimbatore 632 GROUNDNUT Irr Apr-May July-Aug
+4317 Tamilnadu Coimbatore 632 GROUNDNUT Urr Jun-July Aug-Sep
+4318 Tamilnadu Coimbatore 632 SESAME Irr Mar May
+Page 96 of 139
+=====PAGE 97 =====
+Sl. No. State Name of the district (All districts) District code Crop Season Sowing Period Harvesting period
+From              To From              To
+4319 Tamilnadu Coimbatore 632 SESAME Urr Sept Nov 
+4320 Tamilnadu Thiruppur 633 GREENGRAM Jun-July Aug-Sep
+4321 Tamilnadu Thiruppur 633 BLACKGRAM July-Aug Sep-Oct
+4322 Tamilnadu Thiruppur 633 REDGRAM May-June Sep-Oct
+4323 Tamilnadu Thiruppur 633 GROUNDNUT Irr Apr-May July-Aug
+4324 Tamilnadu Thiruppur 633 GROUNDNUT Urr Jun-July Aug-Sep
+4325 Tamilnadu Thiruppur 633 SESAME Irr Mar May
+4326 Tamilnadu Thiruppur 633 SESAME Urr Sept Nov
+4327 Tamilnadu Erode 610 GREENGRAM Jan Apr
+4328 Tamilnadu Erode 610 BLACKGRAM Jan Apr 
+4329 Tamilnadu Erode 610 REDGRAM Aug Jan
+4330 Tamilnadu Erode 610 GROUNDNUT Irr Dec Mar
+4331 Tamilnadu Erode 610 GROUNDNUT Urr Jun-July Aug-Sep
+4332 Tamilnadu Erode 610 SESAME Irr Mar May
+4333 Tamilnadu Erode 610 SESAME Urr Sept Nov
+4334 Tamilnadu Tiruchirapalli 614 GREENGRAM Jan Apr
+4335 Tamilnadu Tiruchirapalli 614 BLACKGRAM Jan Apr
+4336 Tamilnadu Tiruchirapalli 614 REDGRAM Jun-July Oct-Nov
+4337 Tamilnadu Tiruchirapalli 614 GROUNDNUT Irr Dec Mar
+4338 Tamilnadu Tiruchirapalli 614 GROUNDNUT Urr Jun-July Aug-Sep
+4339 Tamilnadu Tiruchirapalli 614 SESAME Irr Mar July
+4340 Tamilnadu Tiruchirapalli 614 SESAME Urr Oct Jan 
+4341 Tamilnadu Karur 613 GREENGRAM - -
+4342 Tamilnadu Karur 613 BLACKGRAM Jan Apr
+4343 Tamilnadu Karur 613 REDGRAM Jun-July Oct-Nov
+4344 Tamilnadu Karur 613 GROUNDNUT Irr Dec Mar
+4345 Tamilnadu Karur 613 GROUNDNUT Urr Jun-July Aug-Sep
+4346 Tamilnadu Karur 613 SESAME Irr Mar July
+4347 Tamilnadu Karur 613 SESAME Urr Oct Jan
+4348 Tamilnadu Perambalur 615 GREENGRAM Aug-Sep Oct-Nov
+4349 Tamilnadu Perambalur 615 BLACKGRAM July-Aug Sep-Oct
+4350 Tamilnadu Perambalur 615 REDGRAM Aug-Sep Jan-Feb
+4351 Tamilnadu Perambalur 615 GROUNDNUT Irr Dec-Jan Mar-Apr
+4352 Tamilnadu Perambalur 615 GROUNDNUT Urr Aug Oct
+4353 Tamilnadu Perambalur 615 SESAME Irr Feb-Mar Apr-May
+4354 Tamilnadu Perambalur 615 SESAME Urr July-Aug Oct-Nov
+4355 Tamilnadu Ariyalur 616 GREENGRAM Aug-Sep Oct-Nov
+4356 Tamilnadu Ariyalur 616 BLACKGRAM July-Aug Sep-Oct
+4357 Tamilnadu Ariyalur 616 REDGRAM Aug-Sep Jan-Feb
+4358 Tamilnadu Ariyalur 616 GROUNDNUT Irr Dec-Jan Mar-Apr
+4359 Tamilnadu Ariyalur 616 GROUNDNUT Urr Aug Oct
+4360 Tamilnadu Ariyalur 616 SESAME Irr Feb-Mar Apr-May
+4361 Tamilnadu Ariyalur 616 SESAME Urr July-Aug Oct-Nov
+4362 Tamilnadu Pudukkottai 621 GREENGRAM Jun-July Aug-Sep
+4363 Tamilnadu Pudukkottai 621 BLACKGRAM Jun-July Aug-Sep
+4364 Tamilnadu Pudukkottai 621 REDGRAM July Jan
+4365 Tamilnadu Pudukkottai 621 GROUNDNUT Irr Dec-Jan Mar-Apr
+4366 Tamilnadu Pudukkottai 621 GROUNDNUT Urr Jun-July Sep-Oct
+4367 Tamilnadu Pudukkottai 621 SESAME Irr Jan-Feb Mar-Apr
+Page 97 of 139
+=====PAGE 98 =====
+Sl. No. State Name of the district (All districts) District code Crop Season Sowing Period Harvesting period
+From              To From              To
+4368 Tamilnadu Pudukkottai 621 SESAME Urr Aug-Sept Nov-Dec
+4369 Tamilnadu Thanjavur 620 GREENGRAM Jan-Feb Apr
+4370 Tamilnadu Thanjavur 620 BLACKGRAM Jan-Feb Apr
+4371 Tamilnadu Thanjavur 620 REDGRAM - -
+4372 Tamilnadu Thanjavur 620 GROUNDNUT Irr Dec Mar-Apr
+4373 Tamilnadu Thanjavur 620 GROUNDNUT Urr Jan Apr
+4374 Tamilnadu Thanjavur 620 SESAME Irr Feb Apr-May
+4375 Tamilnadu Thanjavur 620 SESAME Urr Jan-Feb Apr-May
+4376 Tamilnadu Thiruvarur 619 GREENGRAM Jan Apr
+4377 Tamilnadu Thiruvarur 619 BLACKGRAM Jan Apr
+4378 Tamilnadu Thiruvarur 619 REDGRAM - -
+4379 Tamilnadu Thiruvarur 619 GROUNDNUT Irr Dec-Jan Apr-May
+4380 Tamilnadu Thiruvarur 619 GROUNDNUT Urr - -
+4381 Tamilnadu Thiruvarur 619 SESAME Irr Apr June  
+4382 Tamilnadu Thiruvarur 619 SESAME Urr Jan  Mar
+4383 Tamilnadu Nagapattinam 618 GREENGRAM Jan-Feb Apr
+4384 Tamilnadu Nagapattinam 618 BLACKGRAM Jan-Feb Apr
+4385 Tamilnadu Nagapattinam 618 REDGRAM - -
+4386 Tamilnadu Nagapattinam 618 GROUNDNUT Irr Dec-Jan Apr-May
+4387 Tamilnadu Nagapattinam 618 GROUNDNUT Urr Dec-Jan Apr-May
+4388 Tamilnadu Nagapattinam 618 SESAME Irr - -
+4389 Tamilnadu Nagapattinam 618 SESAME Urr Jan-Feb Apr-May
+4390 Tamilnadu Madurai 623 GREENGRAM Jun-July Aug-Sep
+4391 Tamilnadu Madurai 623 BLACKGRAM Jun-July Aug-Sep
+4392 Tamilnadu Madurai 623 REDGRAM Jun-July Oct-Nov
+4393 Tamilnadu Madurai 623 GROUNDNUT Irr Dec-Jan Mar-Apr
+4394 Tamilnadu Madurai 623 GROUNDNUT Urr Jun-July Sep-Oct
+4395 Tamilnadu Madurai 623 SESAME Irr - -
+4396 Tamilnadu Madurai 623 SESAME Urr June-July Sept-Oct
+4397 Tamilnadu Theni 624 GREENGRAM Oct Jan
+4398 Tamilnadu Theni 624 BLACKGRAM June Aug-Sep
+4399 Tamilnadu Theni 624 REDGRAM Jun-July Oct-Nov
+4400 Tamilnadu Theni 624 GROUNDNUT Irr Dec-Jan Mar-Apr
+4401 Tamilnadu Theni 624 GROUNDNUT Urr Jun-July Sep-Oct
+4402 Tamilnadu Theni 624 SESAME Irr - -
+4403 Tamilnadu Theni 624 SESAME Urr Nov Jan
+4404 Tamilnadu Dindigul 612 GREENGRAM Sep-Oct Dec-Jan
+4405 Tamilnadu Dindigul 612 BLACKGRAM July-Aug Sep-Oct
+4406 Tamilnadu Dindigul 612 REDGRAM July-Aug Dec-Jan
+4407 Tamilnadu Dindigul 612 GROUNDNUT Irr Dec-Jan Mar-Apr
+4408 Tamilnadu Dindigul 612 GROUNDNUT Urr Oct Feb 
+4409 Tamilnadu Dindigul 612 SESAME Irr - -
+4410 Tamilnadu Dindigul 612 SESAME Urr Sept-Oct Nov-Dec
+4411 Tamilnadu Ramanathapuram 626 GREENGRAM Oct Jan
+4412 Tamilnadu Ramanathapuram 626 BLACKGRAM Oct-Aug Dec-Jan
+4413 Tamilnadu Ramanathapuram 626 REDGRAM Oct Jan
+4414 Tamilnadu Ramanathapuram 626 GROUNDNUT Irr Feb May
+4415 Tamilnadu Ramanathapuram 626 GROUNDNUT Urr July Oct
+4416 Tamilnadu Ramanathapuram 626 SESAME Irr - -
+Page 98 of 139
+=====PAGE 99 =====
+Sl. No. State Name of the district (All districts) District code Crop Season Sowing Period Harvesting period
+From              To From              To
+4417 Tamilnadu Ramanathapuram 626 SESAME Urr Nov Feb
+4418 Tamilnadu Virudhunagar 625 GREENGRAM Oct Jan
+4419 Tamilnadu Virudhunagar 625 BLACKGRAM Oct Dec-Jan
+4420 Tamilnadu Virudhunagar 625 REDGRAM July-Aug Jan-Feb
+4421 Tamilnadu Virudhunagar 625 GROUNDNUT Irr Dec-Jan Mar-Apr
+4422 Tamilnadu Virudhunagar 625 GROUNDNUT Urr Jun-July Sep-Oct
+4423 Tamilnadu Virudhunagar 625 SESAME Irr - -
+4424 Tamilnadu Virudhunagar 625 SESAME Urr July-Aug Oct-Nov
+4425 Tamilnadu Sivagangai 622 GREENGRAM July-Aug Sep-Oct
+4426 Tamilnadu Sivagangai 622 BLACKGRAM July-Aug Sep-Oct
+4427 Tamilnadu Sivagangai 622 REDGRAM July Oct 
+4428 Tamilnadu Sivagangai 622 GROUNDNUT Irr Oct-Nov Feb-Mar
+4429 Tamilnadu Sivagangai 622 GROUNDNUT Urr Sep Feb
+4430 Tamilnadu Sivagangai 622 SESAME Irr - -
+4431 Tamilnadu Sivagangai 622 SESAME Urr Nov-Dec Jan-Feb
+4432 Tamilnadu Tirunelvelli 628 GREENGRAM Sep-Oct Dec-Jan
+4433 Tamilnadu Tirunelvelli 628 BLACKGRAM Feb Apr
+4434 Tamilnadu Tirunelvelli 628 REDGRAM - -
+4435 Tamilnadu Tirunelvelli 628 GROUNDNUT Irr Feb May
+4436 Tamilnadu Tirunelvelli 628 GROUNDNUT Urr Nov-Dec Feb-Mar
+4437 Tamilnadu Tirunelvelli 628 SESAME Irr Feb-Mar June
+4438 Tamilnadu Tirunelvelli 628 SESAME Urr Nov-Dec Jan-Feb
+4439 Tamilnadu Thootukudi 627 GREENGRAM Oct Jan
+4440 Tamilnadu Thootukudi 627 BLACKGRAM Oct Dec-Jan
+4441 Tamilnadu Thootukudi 627 REDGRAM Oct Feb-Mar
+4442 Tamilnadu Thootukudi 627 GROUNDNUT Irr Dec-Jan Mar-Apr
+4443 Tamilnadu Thootukudi 627 GROUNDNUT Urr - -
+4444 Tamilnadu Thootukudi 627 SESAME Irr - -
+4445 Tamilnadu Thootukudi 627 SESAME Urr Oct-Nov Dec-Jan
+4446 Tamilnadu Kanyakumari 629 GREENGRAM - -
+4447 Tamilnadu Kanyakumari 629 BLACKGRAM Feb-Mar Apr-May
+4448 Tamilnadu Kanyakumari 629 REDGRAM - -
+4449 Tamilnadu Kanyakumari 629 GROUNDNUT Irr - -
+4450 Tamilnadu Kanyakumari 629 GROUNDNUT Urr - -
+4451 Tamilnadu Kanyakumari 629 SESAME Irr - -
+4452 Tamilnadu Kanyakumari 629 SESAME Urr - -
+4453 MP JABALPUR 451 PADDY July I W -IV W Nov II W -III W
+4454 MP JABALPUR 451 JOWAR - -
+4455 MP JABALPUR 451 BAJRA - -
+4456 MP JABALPUR 451 MAIZE June III W -July II W Oct I W - III W
+4457 MP JABALPUR 451 KODOKUTKI June IV W -July I W Sept. IV W -Oct  I W
+4458 MP JABALPUR 451 TUR June  IV W -July II W Dec IV W -Jan III W
+4459 MP JABALPUR 451 URAD June  IV W -July II W Sept II W -Oct I W
+4460 MP JABALPUR 451 MOONG June  IV W -July II W Sept II W -Oct I W
+4461 MP JABALPUR 451 GROUNDNUT June IV W -July I W Oct II W -III W
+4462 MP JABALPUR 451 SOYABEAN June IV W -July II W Oct I W -II W
+4463 MP JABALPUR 451 SESAMUM July I W - IV W Oct II W -IV W
+4464 MP JABALPUR 451 NIGER SEED July IV W - Aug I W Oct II W -IV W
+4465 MP JABALPUR 451 WHEAT Nov II W - VI W March II W -IV W
+Page 99 of 139

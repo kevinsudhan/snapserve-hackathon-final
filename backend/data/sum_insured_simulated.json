@@ -1,0 +1,6700 @@
+{
+ "simulated": true,
+ "title": "Tamil Nadu Kharif 2026 crop insurance notification — sum insured per hectare (SIMULATED for demonstration)",
+ "publisher": "FasalDesk demo (simulated; not an official notification)",
+ "as_of": "2026-07-08",
+ "season": "Kharif 2026",
+ "state": "Tamil Nadu",
+ "doc_url": "http://localhost:8000/api/knowledge/documents/tn-kharif-2026-sum-insured",
+ "notice": "SIMULATED DOCUMENT. All figures are synthetic placeholders created for the FasalDesk demonstration. They are not an official notification and must not be relied on for any real claim.",
+ "rows": [
+  {
+   "district": "Ariyalur",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 60500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 48000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 107500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 48500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 41500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 31500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 158000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 134500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 82500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 70000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 62500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 90000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 27500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 22000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 22500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 21500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 82000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 65000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 56500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ariyalur",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 87000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 63000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 49000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 106000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 50500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 34500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 33500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 152500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 124500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 70000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 68000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 64000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 96500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 30500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 25000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 22000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 20500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 78500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 59000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 55500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chengalpattu",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 98500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 58000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Chennai",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 49500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 104500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 57000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 34000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 28500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 25000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 31000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 160000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 123000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Chennai",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 76000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 69500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 70000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 86000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 21500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 86000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 54500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 59500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Chennai",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 85500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 62000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 42500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 99500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 54000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 41500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 22500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 32500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 152000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 125000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 80000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 65000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 64000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 97500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 29500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 22000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 24000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 76000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 59000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 54000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Coimbatore",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 98500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 67000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 42500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 108500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 51500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 36500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 24000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 27500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 34500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 167500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 121000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 76000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 73500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 59000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 98500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 26500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 25000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 21500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 72000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 54500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 60000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Cuddalore",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 91000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 63000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 47000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 114500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 55500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 41000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 25000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 32000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 172000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 134500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 76500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 76500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 68000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 98500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 28000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 22500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 20000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 77000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 58000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 60000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dharmapuri",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 89500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 66000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 47000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 112000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 55000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 36500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 28000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 31500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 162000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 122000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 80000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 66000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 60000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 82500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 24000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 24000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 24000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 76000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 55500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 51500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Dindigul",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 98000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 56000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Erode",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 49500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 116500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 50500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 36000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 31500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 157000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 131000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Erode",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 69000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 69000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 70500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 93500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 29500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 72500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 57000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 56500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Erode",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 87000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 68000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 46500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 121000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 49500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 41000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 26500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 22500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 30500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 159000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 130500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 79000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 71500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 67500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 93000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 28000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 21500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 20500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 85500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 65000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 59500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kallakurichi",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 91500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 63000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 48000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 108000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 49000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 40500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 26500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 25000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 30500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 175500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 131000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 69000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 65500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 65500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 84500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 28500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 24000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 76000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 62000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 50500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kancheepuram",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 87000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 56500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 48500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 120500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 48500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 40000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 27000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 30500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 180000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 131000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 75500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 68000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 68500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 90500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 30000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 22000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 20000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 74000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 56000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 59500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Kanniyakumari",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 95000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 64000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Karur",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 46500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 105000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 52000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 36500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 28500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 24000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 31000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 158500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 133000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Karur",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 70000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 63000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 66000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 90500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 28500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 20000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 84500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 60000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 57500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Karur",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 101500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 66500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 49500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 107500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 48000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 36500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 27500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 31000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 151500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 132000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 76500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 66000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 62000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 88500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 27500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 81000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 56500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 50500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Krishnagiri",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 103000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 62000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Madurai",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 48000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 108000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 56000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 38500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 31500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 164000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 133500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Madurai",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 78500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 64000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 65500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 98500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 30500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 22000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 24000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 21000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 80000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 64500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 56000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Madurai",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 100500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 58000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 47000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 105000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 56500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 38500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 24000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 32500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 165000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 141500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 77500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 69500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 61500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 83500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 22500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 76500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 55000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 54500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Mayiladuthurai",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 96000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 67500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 44500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 117500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 51500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 35500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 32500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 157500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 124500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 69500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 74500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 69500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 95500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 29000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 21500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 83000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 65500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 55500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Nagapattinam",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 104000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 67000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 47500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 119500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 52000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 39000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 29500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 160000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 124000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 75000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 71000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 66000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 90000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 26500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 24000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 22500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 21500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 86000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 61500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 53000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Namakkal",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 95500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 60500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 48000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 101000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 55000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 41500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 27000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 26500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 30000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 166000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 119500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 80000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 63500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 66500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 82000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 28000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 25000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 73000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 64500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 53000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Perambalur",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 92000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 65000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 43500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 105000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 49000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 38000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 33500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 174500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 128500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 80500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 74000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 61000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 93500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 27000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 20500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 75000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 55000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 57500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Pudukkottai",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 87000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 61000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 48500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 108500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 55500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 41500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 26500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 30000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 162000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 120000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 70000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 73500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 66500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 82000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 29000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 22500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 83500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 58000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 53500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ramanathapuram",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 101500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 61000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 47000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 119500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 52000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 34500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 27000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 29500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 166000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 139000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 69500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 72000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 65000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 84000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 29000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 26500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 22500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 83500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 63500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 50500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Ranipet",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 95500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 63500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Salem",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 49000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 106500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 52000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 36500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 24000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 34500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 176500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 133500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Salem",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 76000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 70000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 67000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 87500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 22000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 74000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 62500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 52000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Salem",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 98500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 62000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 46500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 109500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 53500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 38000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 27000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 25000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 32500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 153000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 118000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 81500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 76000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 66500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 91000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 30500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 21500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 80500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 62000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 53000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Sivaganga",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 97000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 59500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 47500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 99500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 56000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 40000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 27500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 33500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 172500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 126500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 78500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 74500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 64000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 81000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 27500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 22500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 87500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 65000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 56500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tenkasi",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 92000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 56000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 42500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 104500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 50500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 39500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 28500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 30000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 158500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 130000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 67500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 74000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 58500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 87000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 22500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 22500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 83000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 58000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 57000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thanjavur",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 92500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 56000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 50500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 100000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 53000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 35500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 27500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 29000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 149500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 133500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 78000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 76500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 67000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 86500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 30500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 81500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 62000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 58000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "The Nilgiris",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 98500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 66500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Theni",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 45000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 114500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 53000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 39000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 34000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 153000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 141000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Theni",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 78000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 76500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 64000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 90000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 28000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 72500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 62000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 57500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Theni",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 103500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 61000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 48500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 116500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 54000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 36500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 26500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 26500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 33500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 180500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 121000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 68500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 75500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 60500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 97000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 30500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 20500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 88000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 57000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 51000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Thoothukudi",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 101500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 66500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 45000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 118000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 54500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 36500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 29500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 173000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 133500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 75500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 65500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 62000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 94000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 30500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 25000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 24000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 22000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 85000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 61500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 51500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruchirappalli",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 103500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 58500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 44500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 101000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 53500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 38000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 27000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 32500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 160000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 142500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 74000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 65000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 69000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 86500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 28000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 20500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 87000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 65000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 49500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirunelveli",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 98000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 57500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 42000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 102000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 50500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 40500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 26500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 34000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 158500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 131000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 70500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 66000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 66500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 81000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 30000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 24000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 25000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 22000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 83000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 64000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 52500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tirupathur",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 93500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 56000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 49000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 108000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 47500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 38500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 28000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 31500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 181000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 131500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 69000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 73500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 60000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 86500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 22000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 21000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 80500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 60000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 50000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruppur",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 98000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 62000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 43000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 110000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 50000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 34500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 29000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 160500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 138500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 78000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 64500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 69000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 94000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 29500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 26500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 20500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 79500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 64500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 54000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvallur",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 86000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 64500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 47000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 100000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 50500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 39500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 27000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 30500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 158500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 135500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 78500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 71000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 67500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 81000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 28000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 21000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 74000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 65500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 51500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvannamalai",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 100000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 63500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 47000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 110500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 53500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 41500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 28500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 27000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 33000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 156500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 125500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 69000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 64000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 63000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 96000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 26500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 24000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 73500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 62000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 51000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Tiruvarur",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 97000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 67500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Vellore",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 49500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 104500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 52500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 39000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 28000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 23500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 30500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 164500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 131500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Vellore",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 76500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 67500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 71000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 82000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 30000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 23000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 24500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 20000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 86500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 58500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 53500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Vellore",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 89000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 66500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 44000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 119500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 54500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 36500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 28000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 27000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 29000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 169000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 138000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 75500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 63500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 66000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 93500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 27000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 26000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 22000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 21000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 74000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 56500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 59500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Viluppuram",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 95000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "paddy",
+   "crop_label": "Paddy (nel)",
+   "sum_insured_per_ha": 67500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-09-15"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "groundnut",
+   "crop_label": "Groundnut (verkadalai)",
+   "sum_insured_per_ha": 47500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "sugarcane",
+   "crop_label": "Sugarcane (karumbu)",
+   "sum_insured_per_ha": 116000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "cotton",
+   "crop_label": "Cotton (paruthi)",
+   "sum_insured_per_ha": 53500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "maize",
+   "crop_label": "Maize (makkacholam)",
+   "sum_insured_per_ha": 35000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "black_gram",
+   "crop_label": "Black gram (ulundu)",
+   "sum_insured_per_ha": 24000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "green_gram",
+   "crop_label": "Green gram (pachai payaru)",
+   "sum_insured_per_ha": 25500,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "red_gram",
+   "crop_label": "Red gram (thuvarai)",
+   "sum_insured_per_ha": 34000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "banana",
+   "crop_label": "Banana (vazhai)",
+   "sum_insured_per_ha": 166000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "turmeric",
+   "crop_label": "Turmeric (manjal)",
+   "sum_insured_per_ha": 130000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-08-15"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "chilli",
+   "crop_label": "Chilli (milagai)",
+   "sum_insured_per_ha": 80500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "tomato",
+   "crop_label": "Tomato (thakkali)",
+   "sum_insured_per_ha": 75500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "onion",
+   "crop_label": "Onion (vengayam)",
+   "sum_insured_per_ha": 68500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "coconut",
+   "crop_label": "Coconut (thennai)",
+   "sum_insured_per_ha": 87000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "ragi",
+   "crop_label": "Ragi (kezhvaragu)",
+   "sum_insured_per_ha": 30000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "bajra",
+   "crop_label": "Bajra (kambu)",
+   "sum_insured_per_ha": 25000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "jowar",
+   "crop_label": "Jowar (cholam)",
+   "sum_insured_per_ha": 24000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "sesame",
+   "crop_label": "Sesame (ellu)",
+   "sum_insured_per_ha": 20000,
+   "farmer_premium_pct": 2.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "tapioca",
+   "crop_label": "Tapioca (maravalli)",
+   "sum_insured_per_ha": 76000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "brinjal",
+   "crop_label": "Brinjal (kathirikkai)",
+   "sum_insured_per_ha": 66000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "okra",
+   "crop_label": "Okra (vendakkai)",
+   "sum_insured_per_ha": 56500,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  },
+  {
+   "district": "Virudhunagar",
+   "crop": "mango",
+   "crop_label": "Mango (maa)",
+   "sum_insured_per_ha": 103000,
+   "farmer_premium_pct": 5.0,
+   "enrolment_cut_off": "2026-07-31"
+  }
+ ]
+}

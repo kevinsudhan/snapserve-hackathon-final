@@ -1,0 +1,53 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "backend",
+      "runtimeExecutable": "backend/.venv/Scripts/python.exe",
+      "runtimeArgs": [
+        "-m",
+        "uvicorn",
+        "app.main:app",
+        "--app-dir",
+        "backend",
+        "--host",
+        "0.0.0.0",
+        "--port",
+        "8010"
+      ],
+      "port": 8010
+    },
+    {
+      "name": "dashboard",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "dev",
+        "--prefix",
+        "dashboard",
+        "--",
+        "--host",
+        "0.0.0.0",
+        "--port",
+        "5173"
+      ],
+      "port": 5173
+    },
+    {
+      "name": "dashboard-mock",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "dev:mock",
+        "--prefix",
+        "dashboard",
+        "--",
+        "--host",
+        "0.0.0.0",
+        "--port",
+        "5174"
+      ],
+      "port": 5174
+    }
+  ]
+}
