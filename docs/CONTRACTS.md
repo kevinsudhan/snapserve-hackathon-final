@@ -1,6 +1,6 @@
-# FasalDesk — Build Contracts (all workers read this first)
+# Araxys Desk — Build Contracts (all workers read this first)
 
-Product: **FasalDesk** — a voice claims desk for farmers. SnapServe hosts the voice agent ("Sunil", agent id 1151, Gemini Live, Indian number +91 79658 54267). Our system is (1) the agent's knowledge + prompt, (2) a backend that ingests completed calls from SnapServe and builds a truth-checked claim record with citations, (3) a CRM dashboard for judges/reviewers, (4) a mobile evidence-upload page for farmers.
+Product: **Araxys Desk** — a voice claims desk for farmers. SnapServe hosts the voice agent ("Sunil", agent id 1151, Gemini Live, Indian number +91 79658 54267). Our system is (1) the agent's knowledge + prompt, (2) a backend that ingests completed calls from SnapServe and builds a truth-checked claim record with citations, (3) a CRM dashboard for judges/reviewers, (4) a mobile evidence-upload page for farmers.
 
 **Hard rules**
 - The agent makes NO tool calls. All data it may quote is baked into its system prompt (weather snapshot, scheme facts, crop calendar, evidence checklists, safe scripts).
@@ -25,7 +25,7 @@ SNAPSERVE_API_KEY, SNAPSERVE_BASE_URL=https://app.snapserve.ai/api, SNAPSERVE_AG
 GOOGLE_API_KEY, GEMINI_TEXT_MODEL=gemini-3.6-flash, GEMINI_LIVE_MODEL=gemini-3.1-flash-live-preview
 REVIEWER_PHONE=+918939153390
 BACKEND_PORT=8000, DASHBOARD_ORIGIN=http://localhost:5173, PUBLIC_BASE_URL=http://<lan-ip>:5173 (for evidence links/QR)
-DATA_DIR=backend/data, DB_PATH=backend/data/fasaldesk.db, EVIDENCE_DIR=backend/data/evidence
+DATA_DIR=backend/data, DB_PATH=backend/data/araxysdesk.db, EVIDENCE_DIR=backend/data/evidence
 POLL_INTERVAL_SECONDS=3, DATA_DOWN_MODE=false
 ```
 

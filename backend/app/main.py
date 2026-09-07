@@ -39,7 +39,7 @@ logging.basicConfig(
     level=getattr(logging, settings.log_level.upper(), logging.INFO),
     format="%(asctime)s %(levelname)-7s %(name)s: %(message)s",
 )
-logger = logging.getLogger("fasaldesk")
+logger = logging.getLogger("araxysdesk")
 
 # Dashboard on localhost plus anything on the LAN (farmers scan the QR from a phone).
 LAN_ORIGIN_REGEX = (
@@ -65,7 +65,7 @@ async def lifespan(_app: FastAPI) -> AsyncIterator[None]:
         logger.info("poller disabled by configuration")
 
     logger.info(
-        "FasalDesk backend %s ready (agent %s, data_down=%s)",
+        "Araxys Desk backend %s ready (agent %s, data_down=%s)",
         __version__,
         settings.snapserve_agent_id,
         settings.data_down_mode,
@@ -78,7 +78,7 @@ async def lifespan(_app: FastAPI) -> AsyncIterator[None]:
 
 
 app = FastAPI(
-    title="FasalDesk backend",
+    title="Araxys Desk backend",
     version=__version__,
     description="Voice claims desk for farmers — call ingest, truth-check, CRM API.",
     lifespan=lifespan,
@@ -120,7 +120,7 @@ app.mount(
 @app.get("/", tags=["health"])
 async def root() -> dict:
     return {
-        "name": "FasalDesk backend",
+        "name": "Araxys Desk backend",
         "version": __version__,
         "docs": "/docs",
         "health": "/api/health",

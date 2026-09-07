@@ -1,6 +1,6 @@
 # Data sources — scheme knowledge
 
-Every fact the FasalDesk agent may state about a crop-insurance scheme lives in
+Every fact the Araxys Desk agent may state about a crop-insurance scheme lives in
 `backend/data/schemes.json`, and every one of them carries a source URL, a
 page or section reference, a retrieval date and a verbatim quote of at most
 twenty-five words. `backend/tests/test_schemes.py` fails the build if any fact

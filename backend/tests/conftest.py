@@ -24,13 +24,13 @@ BACKEND_DIR = Path(__file__).resolve().parents[1]
 if str(BACKEND_DIR) not in sys.path:
     sys.path.insert(0, str(BACKEND_DIR))
 
-_SANDBOX = Path(tempfile.mkdtemp(prefix="fasaldesk-tests-"))
+_SANDBOX = Path(tempfile.mkdtemp(prefix="araxysdesk-tests-"))
 
 # Offline defaults. DATA_DIR deliberately still points at the real backend/data
 # so the suite exercises the real snapshot, schemes and district files.
 os.environ.setdefault("GEMINI_DISABLED", "1")
 os.environ.setdefault("POLLER_ENABLED", "false")
-os.environ.setdefault("DB_PATH", str(_SANDBOX / "fasaldesk-test.db"))
+os.environ.setdefault("DB_PATH", str(_SANDBOX / "araxysdesk-test.db"))
 os.environ.setdefault("EVIDENCE_DIR", str(_SANDBOX / "evidence"))
 os.environ.setdefault("PUBLIC_BASE_URL", "http://192.168.1.50:5173")
 os.environ.setdefault("DATA_DOWN_MODE", "false")

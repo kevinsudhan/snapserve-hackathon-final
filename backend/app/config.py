@@ -61,7 +61,7 @@ class Settings(BaseSettings):
 
     # --- Paths (relative entries resolve against the repo root) --------
     data_dir: Path = Path("backend/data")
-    db_path: Path = Path("backend/data/fasaldesk.db")
+    db_path: Path = Path("backend/data/araxysdesk.db")
     evidence_dir: Path = Path("backend/data/evidence")
     prompts_dir: Path = Path("backend/prompts")
 

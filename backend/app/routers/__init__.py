@@ -1,4 +1,4 @@
-"""FastAPI routers for the FasalDesk backend."""
+"""FastAPI routers for the Araxys Desk backend."""
 
 from app.routers import (  # noqa: F401
     admin,

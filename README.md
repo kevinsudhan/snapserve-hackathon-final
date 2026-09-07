@@ -1,17 +1,17 @@
-# FasalDesk — Voistle Round 2 🏆 3rd Place
+# Araxys Desk — Voiceathon Round 2 🏆 3rd Place
 
 **A voice-first crop-insurance claims desk for Indian farmers — grounded in real data, guarded against false promises, and reachable by phone in any language.**
 
-FasalDesk lets a farmer call a phone number, describe crop damage in their own language and dialect, and be walked through a PMFBY (Pradhan Mantri Fasal Bima Yojana) crop-insurance claim by an AI voice agent named **Sunil**. Every fact the agent speaks — weather, disaster records, scheme rules — is checked against real government/meteorological data and shown with a citation in a companion CRM dashboard built for reviewers and judges.
+Araxys Desk lets a farmer call a phone number, describe crop damage in their own language and dialect, and be walked through a PMFBY (Pradhan Mantri Fasal Bima Yojana) crop-insurance claim by an AI voice agent named **Sunil**. Every fact the agent speaks — weather, disaster records, scheme rules — is checked against real government/meteorological data and shown with a citation in a companion CRM dashboard built for reviewers and judges.
 
-Built for **Voistle Round 2**, placed **3rd** in the hackathon.
+Built for **Voiceathon Round 2**, placed **3rd** in the hackathon.
 
 ---
 
 ## Table of contents
 
 - [The problem](#the-problem)
-- [What FasalDesk does](#what-fasaldesk-does)
+- [What Araxys Desk does](#what-araxys-desk-does)
 - [Architecture](#architecture)
 - [Guardrails — why the agent can't overpromise](#guardrails--why-the-agent-cant-overpromise)
 - [Data & citations](#data--citations)
@@ -32,9 +32,9 @@ Crop-insurance claims in India are filed by phone, often in a farmer's second la
 1. **Overpromising.** A stressed farmer asks "will I get money, how much, when?" — and any agent (human or AI) that answers with a number, a guarantee, or an approval is committing the scheme to something it hasn't decided yet.
 2. **Ungrounded claims.** A caller may misremember a date, conflate one damage type with another, or (rarely) attempt fraud. Without checking the claim against real weather and disaster records, none of that gets caught before it reaches a reviewer.
 
-FasalDesk's whole design is a response to those two failure modes.
+Araxys Desk's whole design is a response to those two failure modes.
 
-## What FasalDesk does
+## What Araxys Desk does
 
 1. **Answers the call in whatever language the farmer speaks** (Gemini Live native speech-to-speech, ~97 languages, follows code-switching mid-call) and walks through a structured intake: crop → land extent → damage type → event date → location, confirming each step back to the caller.
 2. **Truth-checks the story.** For a claimed event ("a cyclone on 12 September"), the backend checks real weather records (Open-Meteo) and disaster alerts (GDACS) for that place and date and reports a plausibility verdict — `supported`, `partially_supported`, `not_supported`, or `unverifiable` (never invented).
@@ -66,7 +66,7 @@ FasalDesk's whole design is a response to those two failure modes.
      Tickets · Knowledge / district map · Guardrails scoreboard · Mobile evidence-upload page
 ```
 
-**Design note — no mid-call tool calls.** Early testing showed SnapServe's mid-call webhook tool calling to be unreliable, so FasalDesk does not depend on it. Instead, a 60-day weather/disaster snapshot (all 38 Tamil Nadu districts, pulled once from Open-Meteo + GDACS) plus the scheme facts, crop calendar, evidence checklists, and safe scripts are all rendered into the agent's **system prompt** ahead of time. The backend never needs to be publicly reachable during a call — it simply polls SnapServe's calls API afterwards, re-derives the same truth-check from the snapshot, and attaches real citations to everything the agent said.
+**Design note — no mid-call tool calls.** Early testing showed SnapServe's mid-call webhook tool calling to be unreliable, so Araxys Desk does not depend on it. Instead, a 60-day weather/disaster snapshot (all 38 Tamil Nadu districts, pulled once from Open-Meteo + GDACS) plus the scheme facts, crop calendar, evidence checklists, and safe scripts are all rendered into the agent's **system prompt** ahead of time. The backend never needs to be publicly reachable during a call — it simply polls SnapServe's calls API afterwards, re-derives the same truth-check from the snapshot, and attaches real citations to everything the agent said.
 
 ## Guardrails — why the agent can't overpromise
 
@@ -190,4 +190,4 @@ Stated openly, matching the project's own "never fabricate, mark unverifiable" p
 
 ---
 
-*Built for Voistle Round 2 — Voice AI for Farmer Advisory & Crop-Insurance Claims. 3rd place.*
+*Built for Voiceathon Round 2 — Voice AI for Farmer Advisory & Crop-Insurance Claims. 3rd place.*

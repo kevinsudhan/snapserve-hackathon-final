@@ -27,7 +27,7 @@ logger = logging.getLogger("refresh_knowledge")
 
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Refresh the FasalDesk knowledge snapshot")
+    parser = argparse.ArgumentParser(description="Refresh the Araxys Desk knowledge snapshot")
     parser.add_argument("--days", type=int, default=60, help="days of history to pull (default 60)")
     parser.add_argument("--dry-run", action="store_true", help="render but do not push the agent")
     parser.add_argument("--skip-pull", action="store_true", help="re-render from the snapshot on disk")

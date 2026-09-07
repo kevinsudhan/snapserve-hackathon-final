@@ -27,7 +27,7 @@ logger = logging.getLogger("sync_agent")
 
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Render and push the FasalDesk agent prompt")
+    parser = argparse.ArgumentParser(description="Render and push the Araxys Desk agent prompt")
     parser.add_argument(
         "--dry-run",
         action="store_true",

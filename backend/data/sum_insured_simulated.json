@@ -1,12 +1,12 @@
 {
  "simulated": true,
  "title": "Tamil Nadu Kharif 2026 crop insurance notification — sum insured per hectare (SIMULATED for demonstration)",
- "publisher": "FasalDesk demo (simulated; not an official notification)",
+ "publisher": "Araxys Desk demo (simulated; not an official notification)",
  "as_of": "2026-07-08",
  "season": "Kharif 2026",
  "state": "Tamil Nadu",
  "doc_url": "http://localhost:8000/api/knowledge/documents/tn-kharif-2026-sum-insured",
- "notice": "SIMULATED DOCUMENT. All figures are synthetic placeholders created for the FasalDesk demonstration. They are not an official notification and must not be relied on for any real claim.",
+ "notice": "SIMULATED DOCUMENT. All figures are synthetic placeholders created for the Araxys Desk demonstration. They are not an official notification and must not be relied on for any real claim.",
  "rows": [
   {
    "district": "Ariyalur",

@@ -1,4 +1,4 @@
-# Run the FasalDesk backend (Windows PowerShell).
+# Run the Araxys Desk backend (Windows PowerShell).
 #   backend\scripts\dev.ps1            -> http://localhost:8000
 #   backend\scripts\dev.ps1 -Port 8080
 param(
@@ -19,7 +19,7 @@ Push-Location $BackendDir
 try {
     $arguments = @("-m", "uvicorn", "app.main:app", "--host", $BindHost, "--port", $Port)
     if (-not $NoReload) { $arguments += "--reload" }
-    Write-Host "FasalDesk backend on http://localhost:$Port (docs at /docs)"
+    Write-Host "Araxys Desk backend on http://localhost:$Port (docs at /docs)"
     & $Python @arguments
 }
 finally {

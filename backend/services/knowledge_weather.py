@@ -59,7 +59,7 @@ RETRIES = 2
 #: a longer timeout and more attempts.
 GDACS_TIMEOUT_SECONDS = 30.0
 GDACS_RETRIES = 4
-USER_AGENT = "FasalDesk/1.0 (crop-insurance claims desk; one-off snapshot)"
+USER_AGENT = "Araxys Desk/1.0 (crop-insurance claims desk; one-off snapshot)"
 
 # GDACS event type code -> readable label.
 GDACS_TYPE_LABELS = {"TC": "Tropical cyclone", "FL": "Flood", "DR": "Drought"}

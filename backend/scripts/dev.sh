@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Run the FasalDesk backend.
+# Run the Araxys Desk backend.
 #   backend/scripts/dev.sh          -> http://localhost:8000
 #   PORT=8080 backend/scripts/dev.sh
 set -euo pipefail
@@ -18,5 +18,5 @@ else
 fi
 
 cd "${BACKEND_DIR}"
-echo "FasalDesk backend on http://localhost:${PORT} (docs at /docs)"
+echo "Araxys Desk backend on http://localhost:${PORT} (docs at /docs)"
 exec "${PYTHON}" -m uvicorn app.main:app --host "${BIND_HOST}" --port "${PORT}" --reload

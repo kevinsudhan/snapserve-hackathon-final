@@ -1,4 +1,4 @@
-"""Builds docs/FasalDesk_Project_Report.pdf from the project's existing docs.
+"""Builds docs/Araxys_Desk_Project_Report.pdf from the project's existing docs.
 
 Run: backend/.venv/Scripts/python docs/build_report_pdf.py
 (from the repo root). Content is derived only from README.md, PLAN.md and
@@ -27,7 +27,7 @@ from reportlab.platypus import (
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SHOTS = os.path.join(ROOT, "dashboard", "docs", "screenshots")
-OUT = os.path.join(ROOT, "docs", "FasalDesk_Project_Report.pdf")
+OUT = os.path.join(ROOT, "docs", "Araxys_Desk_Project_Report.pdf")
 
 INK = colors.HexColor("#1b2a22")
 MUTED = colors.HexColor("#5b6a60")
@@ -106,7 +106,7 @@ def on_page(c, doc):
     c.saveState()
     c.setFont("Helvetica", 8)
     c.setFillColor(MUTED)
-    c.drawString(2 * cm, 1.15 * cm, "FasalDesk — Voistle Round 2 Project Report")
+    c.drawString(2 * cm, 1.15 * cm, "Araxys Desk — Voiceathon Round 2 Project Report")
     c.drawRightString(doc.pagesize[0] - 2 * cm, 1.15 * cm, f"Page {doc.page}")
     c.setStrokeColor(LINE)
     c.setLineWidth(0.6)
@@ -129,21 +129,21 @@ def on_title_page(c, doc):
 doc = SimpleDocTemplate(
     OUT, pagesize=A4,
     topMargin=2.1 * cm, bottomMargin=2.0 * cm, leftMargin=2 * cm, rightMargin=2 * cm,
-    title="FasalDesk — Project Report", author="Kevin Sudhan",
-    subject="Voistle Round 2 hackathon submission (3rd place)",
+    title="Araxys Desk — Project Report", author="Kevin Sudhan",
+    subject="Voiceathon Round 2 hackathon submission (3rd place)",
 )
 
 story: list = []
 
 # ---------------------------------------------------------------- Title page
 story.append(Spacer(1, 3.2 * cm))
-story.append(P("FasalDesk", title_style))
+story.append(P("Araxys Desk", title_style))
 story.append(P("A voice-first crop-insurance claims desk for Indian farmers —", tagline_style))
 story.append(P("grounded in real data, guarded against false promises, reachable in any language.", tagline_style))
 story.append(Spacer(1, 0.5 * cm))
 
 badge_tbl = Table(
-    [[P("VOISTLE ROUND 2  ·  VOICE AI FOR FARMER ADVISORY &amp; CROP-INSURANCE CLAIMS", badge_style)],
+    [[P("VOICEATHON ROUND 2  ·  VOICE AI FOR FARMER ADVISORY &amp; CROP-INSURANCE CLAIMS", badge_style)],
      [P("RESULT: 3RD PLACE", ParagraphStyle("BadgeBig", parent=badge_style, fontSize=15, spaceBefore=2))]],
     colWidths=[15.5 * cm],
 )
@@ -157,7 +157,7 @@ story.append(badge_tbl)
 story.append(Spacer(1, 1.3 * cm))
 
 story.append(P(
-    "FasalDesk lets a farmer call a phone number, describe crop damage in their own language "
+    "Araxys Desk lets a farmer call a phone number, describe crop damage in their own language "
     "and dialect, and be walked through a PMFBY (Pradhan Mantri Fasal Bima Yojana) crop-insurance "
     "claim by an AI voice agent named <b>Sunil</b>. Every fact the agent speaks — weather, disaster "
     "records, scheme rules — is checked against real government and meteorological data and shown "
@@ -168,7 +168,7 @@ story.append(P(
 story.append(Spacer(1, 1.6 * cm))
 
 meta_rows = [
-    [P("Project", cell_head.clone("mh1", textColor=MUTED, fontName="Helvetica-Bold")), P("FasalDesk (Voistle Round 2 build codename)", cell)],
+    [P("Project", cell_head.clone("mh1", textColor=MUTED, fontName="Helvetica-Bold")), P("Araxys Desk (Voiceathon Round 2 build codename)", cell)],
     [P("Voice agent", cell_head.clone("mh2", textColor=MUTED, fontName="Helvetica-Bold")), P("“Sunil” on SnapServe, powered by Gemini Live (native speech-to-speech)", cell)],
     [P("Reviewer / judge surface", cell_head.clone("mh3", textColor=MUTED, fontName="Helvetica-Bold")), P("React + Vite CRM dashboard with a live truth-check and citations panel", cell)],
     [P("Author", cell_head.clone("mh4", textColor=MUTED, fontName="Helvetica-Bold")), P("Kevin Sudhan", cell)],
@@ -196,10 +196,10 @@ story.append(bullets([
     "another, or (rarely) attempt fraud. Without checking the claim against real weather and "
     "disaster records, none of that gets caught before it reaches a reviewer.",
 ]))
-story.append(P("FasalDesk's whole design is a response to those two failure modes.", body))
+story.append(P("Araxys Desk's whole design is a response to those two failure modes.", body))
 
 # ---------------------------------------------------------------- What it does
-story.append(P("What FasalDesk does", h1))
+story.append(P("What Araxys Desk does", h1))
 story.append(bullets([
     "<b>Answers the call in whatever language the farmer speaks</b> (Gemini Live native "
     "speech-to-speech, roughly 97 languages, follows code-switching mid-call) and walks through a "
@@ -416,7 +416,7 @@ for i, (fname, caption) in enumerate(shot_specs):
 story.append(PageBreak())
 story.append(Spacer(1, 8 * cm))
 story.append(P(
-    "Built for Voistle Round 2 — Voice AI for Farmer Advisory &amp; Crop-Insurance Claims. "
+    "Built for Voiceathon Round 2 — Voice AI for Farmer Advisory &amp; Crop-Insurance Claims. "
     "3rd place.", footer_note,
 ))
 story.append(P(

@@ -1,4 +1,4 @@
-"""Scheme knowledge for FasalDesk.
+"""Scheme knowledge for Araxys Desk.
 
 Everything the voice agent may say about a government crop-insurance scheme
 comes from `backend/data/schemes.json`, and every fact there carries a real

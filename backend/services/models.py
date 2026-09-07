@@ -1,4 +1,4 @@
-"""Shared pydantic v2 models for FasalDesk data services.
+"""Shared pydantic v2 models for Araxys Desk data services.
 
 Field names here are binding: they mirror the TypeScript shapes in
 ``docs/CONTRACTS.md`` exactly, because the core worker imports these models and

@@ -1,3 +1,3 @@
-"""FasalDesk backend application package."""
+"""Araxys Desk backend application package."""
 
 __version__ = "0.1.0"

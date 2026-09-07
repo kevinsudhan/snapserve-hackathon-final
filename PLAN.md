@@ -1,4 +1,4 @@
-# Voistle Round 2 — Voice AI for Farmer Advisory & Crop-Insurance Claims
+# Voiceathon Round 2 — Voice AI for Farmer Advisory & Crop-Insurance Claims
 ## Build plan v2 (orchestrator: Fable 5.1 · workers: Opus)
 
 Status: BUILD IN PROGRESS (see docs/CONTRACTS.md for the binding v3 design).
